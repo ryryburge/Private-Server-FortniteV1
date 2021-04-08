@@ -1,0 +1,7881 @@
+[
+  {
+    "id": "BID_Random",
+    "backendType": "AthenaBackpack",
+    "name": "Random"
+  },
+  {
+    "id": "BID_STWHeroNoDefaultBackpack",
+    "backendType": "AthenaBackpack",
+    "name": "Hero"
+  },
+  {
+    "id": "BID_STWHero",
+    "backendType": "AthenaBackpack",
+    "name": "Hero"
+  },
+  {
+    "id": "BID_001_BlueSquire",
+    "backendType": "AthenaBackpack",
+    "name": "Squire Shield"
+  },
+  {
+    "id": "BID_002_RoyaleKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Royale Shield"
+  },
+  {
+    "id": "BID_005_Raptor",
+    "backendType": "AthenaBackpack",
+    "name": "Raptor Satchel"
+  },
+  {
+    "id": "BID_007_SkiDude_USA",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (USA)"
+  },
+  {
+    "id": "BID_009_SkiDude_GBR",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (GBR)"
+  },
+  {
+    "id": "BID_011_SkiDude_GER",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (GER)"
+  },
+  {
+    "id": "BID_013_SkiDude_KOR",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (KOR)"
+  },
+  {
+    "id": "BID_015_SkiGirl_USA",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (USA)"
+  },
+  {
+    "id": "BID_017_SkiGirl_GBR",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (GBR)"
+  },
+  {
+    "id": "BID_020_SkiGirl_CHN",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (CHN)"
+  },
+  {
+    "id": "BID_025_Tactical",
+    "backendType": "AthenaBackpack",
+    "name": "Precision"
+  },
+  {
+    "id": "BID_023_Pinkbear",
+    "backendType": "AthenaBackpack",
+    "name": "Cuddle Bow"
+  },
+  {
+    "id": "BID_026_Brite",
+    "backendType": "AthenaBackpack",
+    "name": "Brite Bag"
+  },
+  {
+    "id": "BID_028_SpaceBlack",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Matter"
+  },
+  {
+    "id": "BID_029_RetroGrey",
+    "backendType": "AthenaBackpack",
+    "name": "Backup Plan"
+  },
+  {
+    "id": "BID_032_FounderMale",
+    "backendType": "AthenaBackpack",
+    "name": "Pursuit"
+  },
+  {
+    "id": "BID_036_Raven",
+    "backendType": "AthenaBackpack",
+    "name": "Iron Cage"
+  },
+  {
+    "id": "BID_034_RockerPunk",
+    "backendType": "AthenaBackpack",
+    "name": "Six String"
+  },
+  {
+    "id": "BID_038_BunnyFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Eggshell"
+  },
+  {
+    "id": "BID_040_Wukong",
+    "backendType": "AthenaBackpack",
+    "name": "Royale Flags"
+  },
+  {
+    "id": "BID_042_Fishhead",
+    "backendType": "AthenaBackpack",
+    "name": "Fish Tank"
+  },
+  {
+    "id": "BID_044_Robo",
+    "backendType": "AthenaBackpack",
+    "name": "Steelcast"
+  },
+  {
+    "id": "BID_048_Graffiti",
+    "backendType": "AthenaBackpack",
+    "name": "Tag Bag"
+  },
+  {
+    "id": "BID_052_HazmatFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Contagion"
+  },
+  {
+    "id": "BID_051_Merman",
+    "backendType": "AthenaBackpack",
+    "name": "Mertank"
+  },
+  {
+    "id": "BID_054_JailbirdFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Burgle Bag"
+  },
+  {
+    "id": "BID_057_Visitor",
+    "backendType": "AthenaBackpack",
+    "name": "Offworld Rig"
+  },
+  {
+    "id": "BID_060_DarkNinja",
+    "backendType": "AthenaBackpack",
+    "name": "Ominous Orb"
+  },
+  {
+    "id": "BID_062_Gumshoe",
+    "backendType": "AthenaBackpack",
+    "name": "Evidence Bag"
+  },
+  {
+    "id": "BID_064_FuzzyBearInd",
+    "backendType": "AthenaBackpack",
+    "name": "Blasting Cap"
+  },
+  {
+    "id": "BID_067_GumshoeFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Confidential Case"
+  },
+  {
+    "id": "BID_069_DecoMale",
+    "backendType": "AthenaBackpack",
+    "name": "Venturion Cape"
+  },
+  {
+    "id": "BID_070_DecoFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ventura Cape"
+  },
+  {
+    "id": "BID_071_VikingFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Rearguard"
+  },
+  {
+    "id": "BID_073_DarkViking",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Shroud"
+  },
+  {
+    "id": "BID_074_LifeguardFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Pool Party"
+  },
+  {
+    "id": "BID_076_Shark",
+    "backendType": "AthenaBackpack",
+    "name": "Shark Fin"
+  },
+  {
+    "id": "BID_072_VikingMale",
+    "backendType": "AthenaBackpack",
+    "name": "Enduring Cape"
+  },
+  {
+    "id": "BID_077_WeGame",
+    "backendType": "AthenaBackpack",
+    "name": "Insignia"
+  },
+  {
+    "id": "BID_081_ScubaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Diving Tank"
+  },
+  {
+    "id": "BID_082_ScubaFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Air Tank"
+  },
+  {
+    "id": "BID_083_LifeguardMale",
+    "backendType": "AthenaBackpack",
+    "name": "Rescue Ring"
+  },
+  {
+    "id": "BID_084_Birthday2018",
+    "backendType": "AthenaBackpack",
+    "name": "Birthday Cake"
+  },
+  {
+    "id": "BID_085_ModernMilitary",
+    "backendType": "AthenaBackpack",
+    "name": "Paradigm"
+  },
+  {
+    "id": "BID_087_ExerciseMale",
+    "backendType": "AthenaBackpack",
+    "name": "Boombox"
+  },
+  {
+    "id": "BID_088_SushiChefMale",
+    "backendType": "AthenaBackpack",
+    "name": "Chef's Choice"
+  },
+  {
+    "id": "BID_089_StreetRacerWhiteFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ignition"
+  },
+  {
+    "id": "BID_090_StreetRacerWhiteMale",
+    "backendType": "AthenaBackpack",
+    "name": "Lane Splitter"
+  },
+  {
+    "id": "BID_091_DurrrBurgerHero",
+    "backendType": "AthenaBackpack",
+    "name": "Deep Fried"
+  },
+  {
+    "id": "BID_092_FuzzyBearPanda",
+    "backendType": "AthenaBackpack",
+    "name": "Bamboo"
+  },
+  {
+    "id": "BID_093_HippieMale",
+    "backendType": "AthenaBackpack",
+    "name": "Summer Strummer"
+  },
+  {
+    "id": "BID_094_HippieFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Hip Shakers"
+  },
+  {
+    "id": "BID_096_BikerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Road Ready"
+  },
+  {
+    "id": "BID_097_BikerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Road Flair"
+  },
+  {
+    "id": "BID_098_BlueSamuraiMale",
+    "backendType": "AthenaBackpack",
+    "name": "Sashimono"
+  },
+  {
+    "id": "BID_100_DarkPaintballer",
+    "backendType": "AthenaBackpack",
+    "name": "Subjugator"
+  },
+  {
+    "id": "BID_101_BlingFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Swag Bag"
+  },
+  {
+    "id": "BID_102_Buckles",
+    "backendType": "AthenaBackpack",
+    "name": "Buckled"
+  },
+  {
+    "id": "BID_103_Clawed",
+    "backendType": "AthenaBackpack",
+    "name": "Slashed"
+  },
+  {
+    "id": "BID_104_YellowZip",
+    "backendType": "AthenaBackpack",
+    "name": "Vintage"
+  },
+  {
+    "id": "BID_105_GhostPortal",
+    "backendType": "AthenaBackpack",
+    "name": "Ghost Portal"
+  },
+  {
+    "id": "BID_106_GarageBandMale",
+    "backendType": "AthenaBackpack",
+    "name": "Kick Drum"
+  },
+  {
+    "id": "BID_108_Blingmale",
+    "backendType": "AthenaBackpack",
+    "name": "Cuff Case"
+  },
+  {
+    "id": "BID_109_MedicMale",
+    "backendType": "AthenaBackpack",
+    "name": "Care Package"
+  },
+  {
+    "id": "BID_107_GarageBandFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Keytar"
+  },
+  {
+    "id": "BID_110_MedicFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Gurney Gear"
+  },
+  {
+    "id": "BID_112_ClownMale",
+    "backendType": "AthenaBackpack",
+    "name": "Balloon Llama"
+  },
+  {
+    "id": "BID_113_DarkVikingFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Valkyrie Wings"
+  },
+  {
+    "id": "BID_111_ClownFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Battle Balloon"
+  },
+  {
+    "id": "BID_114_ModernMilitaryRed",
+    "backendType": "AthenaBackpack",
+    "name": "Telemetry"
+  },
+  {
+    "id": "BID_115_DieselpunkMale",
+    "backendType": "AthenaBackpack",
+    "name": "Para-Provisions"
+  },
+  {
+    "id": "BID_117_OctoberfestMale",
+    "backendType": "AthenaBackpack",
+    "name": "Clockworks"
+  },
+  {
+    "id": "BID_119_VampireFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dusk Wings"
+  },
+  {
+    "id": "BID_120_Werewolf",
+    "backendType": "AthenaBackpack",
+    "name": "Wolfpack"
+  },
+  {
+    "id": "BID_121_RedRiding",
+    "backendType": "AthenaBackpack",
+    "name": "Fabled Cape"
+  },
+  {
+    "id": "BID_123_FortniteDJ",
+    "backendType": "AthenaBackpack",
+    "name": "Waveform"
+  },
+  {
+    "id": "BID_122_HalloweenTomato",
+    "backendType": "AthenaBackpack",
+    "name": "Night Cloak"
+  },
+  {
+    "id": "BID_124_ScarecrowMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hay Nest"
+  },
+  {
+    "id": "BID_125_ScarecrowFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Birdhovel"
+  },
+  {
+    "id": "BID_127_PlagueMale",
+    "backendType": "AthenaBackpack",
+    "name": "Dismal Cape"
+  },
+  {
+    "id": "BID_126_DarkBomber",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Bag"
+  },
+  {
+    "id": "BID_128_PlagueFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Arcanum"
+  },
+  {
+    "id": "BID_130_VampireMale02",
+    "backendType": "AthenaBackpack",
+    "name": "Coven Cape"
+  },
+  {
+    "id": "BID_131_BlackWidowfemale",
+    "backendType": "AthenaBackpack",
+    "name": "Long Legs"
+  },
+  {
+    "id": "BID_132_BlackWidowMale",
+    "backendType": "AthenaBackpack",
+    "name": "Spider Shield"
+  },
+  {
+    "id": "BID_133_GuanYu",
+    "backendType": "AthenaBackpack",
+    "name": "Loyal Shield"
+  },
+  {
+    "id": "BID_134_MilitaryFashion",
+    "backendType": "AthenaBackpack",
+    "name": "Top Notch"
+  },
+  {
+    "id": "BID_136_MuertosMale",
+    "backendType": "AthenaBackpack",
+    "name": "Spirit Cape"
+  },
+  {
+    "id": "BID_137_EvilCowboy",
+    "backendType": "AthenaBackpack",
+    "name": "Shackled Stone"
+  },
+  {
+    "id": "BID_138_Celestial",
+    "backendType": "AthenaBackpack",
+    "name": "Galactic Disc"
+  },
+  {
+    "id": "BID_139_FuzzyBearHalloween",
+    "backendType": "AthenaBackpack",
+    "name": "Goodie Gourd"
+  },
+  {
+    "id": "BID_140_StreetOpsMale",
+    "backendType": "AthenaBackpack",
+    "name": "Response Unit"
+  },
+  {
+    "id": "BID_141_StreetOpsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Reaction Tank"
+  },
+  {
+    "id": "BID_142_SamuraiUltra",
+    "backendType": "AthenaBackpack",
+    "name": "Bladed Wings"
+  },
+  {
+    "id": "BID_143_MadCommanderMale",
+    "backendType": "AthenaBackpack",
+    "name": "Spike Chamber"
+  },
+  {
+    "id": "BID_144_MadCommanderFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Puncture Pack"
+  },
+  {
+    "id": "BID_145_AnimalJacketsMale",
+    "backendType": "AthenaBackpack",
+    "name": "Woofs"
+  },
+  {
+    "id": "BID_146_AnimalJacketsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Nibbles"
+  },
+  {
+    "id": "BID_147_LilKev",
+    "backendType": "AthenaBackpack",
+    "name": "Lil' Kev"
+  },
+  {
+    "id": "BID_142_RaptorArcticCamo",
+    "backendType": "AthenaBackpack",
+    "name": "Freezing Point"
+  },
+  {
+    "id": "BID_149_Wizard",
+    "backendType": "AthenaBackpack",
+    "name": "Spellbinder"
+  },
+  {
+    "id": "BID_150_Witch",
+    "backendType": "AthenaBackpack",
+    "name": "Tome Pouch"
+  },
+  {
+    "id": "BID_151_SushiChefFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Shrimpy"
+  },
+  {
+    "id": "BID_153_HornedMaskFemale",
+    "backendType": "AthenaBackpack",
+    "name": "White Fang"
+  },
+  {
+    "id": "BID_154_Feathers",
+    "backendType": "AthenaBackpack",
+    "name": "Hatchback"
+  },
+  {
+    "id": "BID_155_SniperHoodMale",
+    "backendType": "AthenaBackpack",
+    "name": "Scope Satchel"
+  },
+  {
+    "id": "BID_156_SniperHoodFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Sight Sling"
+  },
+  {
+    "id": "BID_157_MothMale",
+    "backendType": "AthenaBackpack",
+    "name": "Wingback"
+  },
+  {
+    "id": "BID_152_HornedMaskMale",
+    "backendType": "AthenaBackpack",
+    "name": "Trusty Tusks"
+  },
+  {
+    "id": "BID_158_ArcticSniperMale",
+    "backendType": "AthenaBackpack",
+    "name": "Altitude"
+  },
+  {
+    "id": "BID_160_TacticalSantaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Perfect Present"
+  },
+  {
+    "id": "BID_161_SnowBoardFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Trail Tote"
+  },
+  {
+    "id": "BID_163_IceKing",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Mantle"
+  },
+  {
+    "id": "BID_166_RavenWinterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Iron Cage"
+  },
+  {
+    "id": "BID_167_RedKnightWinterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Red Shield"
+  },
+  {
+    "id": "BID_169_MathMale",
+    "backendType": "AthenaBackpack",
+    "name": "Tabulator"
+  },
+  {
+    "id": "BID_171_Rhino",
+    "backendType": "AthenaBackpack",
+    "name": "V6"
+  },
+  {
+    "id": "BID_176_NautilusMale",
+    "backendType": "AthenaBackpack",
+    "name": "Rebreather"
+  },
+  {
+    "id": "BID_178_Angel",
+    "backendType": "AthenaBackpack",
+    "name": "Ark Wings"
+  },
+  {
+    "id": "BID_179_DemonMale",
+    "backendType": "AthenaBackpack",
+    "name": "Malcore Wings"
+  },
+  {
+    "id": "BID_182_NutcrackerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Birdshot"
+  },
+  {
+    "id": "BID_184_SnowFairyFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Flutterfrost"
+  },
+  {
+    "id": "BID_185_GnomeMale",
+    "backendType": "AthenaBackpack",
+    "name": "Luminous Lamp"
+  },
+  {
+    "id": "BID_196_BarbarianMale",
+    "backendType": "AthenaBackpack",
+    "name": "Emblazoned Buckler"
+  },
+  {
+    "id": "BID_198_TechOps",
+    "backendType": "AthenaBackpack",
+    "name": "Capacitor"
+  },
+  {
+    "id": "BID_200_SnowNinjaFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Snowbrand"
+  },
+  {
+    "id": "BID_202_WavyManFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Twistie Inflator"
+  },
+  {
+    "id": "BID_203_BlueMystery",
+    "backendType": "AthenaBackpack",
+    "name": "Reinforced Backplate"
+  },
+  {
+    "id": "BID_204_TennisFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Used Racket"
+  },
+  {
+    "id": "BID_206_ScrapyardFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Scrappy"
+  },
+  {
+    "id": "BID_207_DumplingMan",
+    "backendType": "AthenaBackpack",
+    "name": "Bao Basket"
+  },
+  {
+    "id": "BID_209_RobotTroubleMale",
+    "backendType": "AthenaBackpack",
+    "name": "Board Bag"
+  },
+  {
+    "id": "BID_213_IceCream",
+    "backendType": "AthenaBackpack",
+    "name": "Sno Cone"
+  },
+  {
+    "id": "BID_214_LoveLlama",
+    "backendType": "AthenaBackpack",
+    "name": "Sweetheart"
+  },
+  {
+    "id": "BID_215_MasterKey",
+    "backendType": "AthenaBackpack",
+    "name": "Master Portal"
+  },
+  {
+    "id": "BID_217_ShinyFemale",
+    "backendType": "AthenaBackpack",
+    "name": "High Caliber"
+  },
+  {
+    "id": "BID_218_Medusa",
+    "backendType": "AthenaBackpack",
+    "name": "Cobra"
+  },
+  {
+    "id": "BID_220_FarmerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Sun Sprout"
+  },
+  {
+    "id": "BID_223_OrangeCamo",
+    "backendType": "AthenaBackpack",
+    "name": "Oscilloscope"
+  },
+  {
+    "id": "BID_225_BandageNinjaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Katana & Kunai"
+  },
+  {
+    "id": "BID_224_TechOpsBlue",
+    "backendType": "AthenaBackpack",
+    "name": "Carbon Pack"
+  },
+  {
+    "id": "BID_227_SciOpsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Omission"
+  },
+  {
+    "id": "BID_228_SciOpsMale",
+    "backendType": "AthenaBackpack",
+    "name": "Commission"
+  },
+  {
+    "id": "BID_229_LuckyRiderMale",
+    "backendType": "AthenaBackpack",
+    "name": "Rainbow Clover"
+  },
+  {
+    "id": "BID_231_TropicalFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Pineapple Strummer"
+  },
+  {
+    "id": "BID_233_DevilRock",
+    "backendType": "AthenaBackpack",
+    "name": "Malice Wings"
+  },
+  {
+    "id": "BID_234_SpeedyMidnight",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Deflector"
+  },
+  {
+    "id": "BID_236_Pirate01Female",
+    "backendType": "AthenaBackpack",
+    "name": "Seaworthy"
+  },
+  {
+    "id": "BID_238_Pirate02Male",
+    "backendType": "AthenaBackpack",
+    "name": "Barrel & Booty"
+  },
+  {
+    "id": "BID_241_DarkShamanFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Cuddle Doll"
+  },
+  {
+    "id": "BID_242_FurnaceFace",
+    "backendType": "AthenaBackpack",
+    "name": "Dying Light"
+  },
+  {
+    "id": "BID_244_DarkVikingFire",
+    "backendType": "AthenaBackpack",
+    "name": "Molten Valkyrie Wings"
+  },
+  {
+    "id": "BID_245_BaseballKitbashFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Double Play"
+  },
+  {
+    "id": "BID_247_StreetAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Bladed Bag"
+  },
+  {
+    "id": "BID_248_Pilots",
+    "backendType": "AthenaBackpack",
+    "name": "Gauge"
+  },
+  {
+    "id": "BID_250_TheBomb",
+    "backendType": "AthenaBackpack",
+    "name": "Volatile"
+  },
+  {
+    "id": "BID_253_HoppityHeist",
+    "backendType": "AthenaBackpack",
+    "name": "Bunny Bag"
+  },
+  {
+    "id": "BID_251_SpaceBunny",
+    "backendType": "AthenaBackpack",
+    "name": "Cryo Hops"
+  },
+  {
+    "id": "BID_255_MoonlightAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Lunar Light"
+  },
+  {
+    "id": "BID_257_Swashbuckler",
+    "backendType": "AthenaBackpack",
+    "name": "Slice 'n dice"
+  },
+  {
+    "id": "BID_258_AshtonBoardwalk",
+    "backendType": "AthenaBackpack",
+    "name": "Widow\u2019s Pack"
+  },
+  {
+    "id": "BID_261_Rooster",
+    "backendType": "AthenaBackpack",
+    "name": "Hot Wings"
+  },
+  {
+    "id": "BID_262_BountyHunterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Go bag"
+  },
+  {
+    "id": "BID_263_Masako",
+    "backendType": "AthenaBackpack",
+    "name": "Scarlet Edge"
+  },
+  {
+    "id": "BID_266_BunkerMan",
+    "backendType": "AthenaBackpack",
+    "name": "Nana Cape"
+  },
+  {
+    "id": "BID_267_CyberScavengerMale",
+    "backendType": "AthenaBackpack",
+    "name": "CnXn"
+  },
+  {
+    "id": "BID_268_CyberScavengerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Phrenzy"
+  },
+  {
+    "id": "BID_270_StreetDemon",
+    "backendType": "AthenaBackpack",
+    "name": "Spectral Spine"
+  },
+  {
+    "id": "BID_272_AssassinSuitFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Gun Bag"
+  },
+  {
+    "id": "BID_273_AssassinSuitCoin",
+    "backendType": "AthenaBackpack",
+    "name": "Gold Token"
+  },
+  {
+    "id": "BID_276_Pug",
+    "backendType": "AthenaBackpack",
+    "name": "Chow Down"
+  },
+  {
+    "id": "BID_277_WhiteTiger",
+    "backendType": "AthenaBackpack",
+    "name": "Palette Pack"
+  },
+  {
+    "id": "BID_279_CyberRunner",
+    "backendType": "AthenaBackpack",
+    "name": "Holo-pack"
+  },
+  {
+    "id": "BID_281_DemonHunterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Ocular"
+  },
+  {
+    "id": "BID_283_StormSoldier",
+    "backendType": "AthenaBackpack",
+    "name": "Lightning Cloak"
+  },
+  {
+    "id": "BID_284_NeonLines",
+    "backendType": "AthenaBackpack",
+    "name": "Signal Jammer"
+  },
+  {
+    "id": "BID_286_WinterGhoulMaleEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Perfect Wings"
+  },
+  {
+    "id": "BID_288_CyberScavengerFemaleBlue",
+    "backendType": "AthenaBackpack",
+    "name": "Neo Phrenzy"
+  },
+  {
+    "id": "BID_289_Banner",
+    "backendType": "AthenaBackpack",
+    "name": "Banner Cape"
+  },
+  {
+    "id": "BID_290_Butterfly",
+    "backendType": "AthenaBackpack",
+    "name": "Flutter Wings"
+  },
+  {
+    "id": "BID_291_Caterpillar",
+    "backendType": "AthenaBackpack",
+    "name": "Carapace"
+  },
+  {
+    "id": "BID_294_GlowBroMale",
+    "backendType": "AthenaBackpack",
+    "name": "Lumi Core Green"
+  },
+  {
+    "id": "BID_295_Jellyfish",
+    "backendType": "AthenaBackpack",
+    "name": "Anemone"
+  },
+  {
+    "id": "BID_297_SpaceGirl",
+    "backendType": "AthenaBackpack",
+    "name": "Streamline"
+  },
+  {
+    "id": "BID_298_ZodiacFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Glow Jet"
+  },
+  {
+    "id": "BID_300_DriftSummer",
+    "backendType": "AthenaBackpack",
+    "name": "Oozie"
+  },
+  {
+    "id": "BID_302_Hairy",
+    "backendType": "AthenaBackpack",
+    "name": "Cooler"
+  },
+  {
+    "id": "BID_304_Duck",
+    "backendType": "AthenaBackpack",
+    "name": "Quack Pack"
+  },
+  {
+    "id": "BID_305_StarAndStripesFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Brave Bag"
+  },
+  {
+    "id": "BID_306_StarAndStripesMale",
+    "backendType": "AthenaBackpack",
+    "name": "Color Guard"
+  },
+  {
+    "id": "BID_303_BananaSmoothie",
+    "backendType": "AthenaBackpack",
+    "name": "Smoothie"
+  },
+  {
+    "id": "BID_301_HeistSummer",
+    "backendType": "AthenaBackpack",
+    "name": "Tiny Totem"
+  },
+  {
+    "id": "BID_299_BriteBomberSummer",
+    "backendType": "AthenaBackpack",
+    "name": "Brite Board"
+  },
+  {
+    "id": "BID_296_Sarong",
+    "backendType": "AthenaBackpack",
+    "name": "Floral Shell"
+  },
+  {
+    "id": "BID_293_GlowBroFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Lumi Core Red"
+  },
+  {
+    "id": "BID_292_CyberFuFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Chuck Pack"
+  },
+  {
+    "id": "BID_287_AztecFemaleEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Shadowbird Wings"
+  },
+  {
+    "id": "BID_285_SkullBriteEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Stark Satchel"
+  },
+  {
+    "id": "BID_282_UrbanScavenger",
+    "backendType": "AthenaBackpack",
+    "name": "Utility Pack"
+  },
+  {
+    "id": "BID_280_DemonHunterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Hexxed"
+  },
+  {
+    "id": "BID_307_Bani",
+    "backendType": "AthenaBackpack",
+    "name": "Mochi"
+  },
+  {
+    "id": "BID_308_CyberKarateFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Tahna"
+  },
+  {
+    "id": "BID_310_Lasagna",
+    "backendType": "AthenaBackpack",
+    "name": "Lazer Wings"
+  },
+  {
+    "id": "BID_311_Multibot",
+    "backendType": "AthenaBackpack",
+    "name": "Jet Set"
+  },
+  {
+    "id": "BID_313_Bubblegum",
+    "backendType": "AthenaBackpack",
+    "name": "Bubble Blast"
+  },
+  {
+    "id": "BID_314_Geode",
+    "backendType": "AthenaBackpack",
+    "name": "Geode"
+  },
+  {
+    "id": "BID_316_GraffitiRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Paint Pack"
+  },
+  {
+    "id": "BID_318_SparkleRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Star Shot"
+  },
+  {
+    "id": "BID_319_StreetRacerDriftRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Atmosphere"
+  },
+  {
+    "id": "BID_320_RustLordRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Spiked Satchel"
+  },
+  {
+    "id": "BID_321_RustLordRemixScavenger",
+    "backendType": "AthenaBackpack",
+    "name": "Trophy Sack"
+  },
+  {
+    "id": "BID_322_VoyagerRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Gameplan"
+  },
+  {
+    "id": "BID_324_BlueBadass",
+    "backendType": "AthenaBackpack",
+    "name": "Tri-Pack"
+  },
+  {
+    "id": "BID_327_Meteorite",
+    "backendType": "AthenaBackpack",
+    "name": "Rift Rock"
+  },
+  {
+    "id": "BID_325_BoneWasp",
+    "backendType": "AthenaBackpack",
+    "name": "Primal Danger"
+  },
+  {
+    "id": "BID_328_WildWest",
+    "backendType": "AthenaBackpack",
+    "name": "Detonator"
+  },
+  {
+    "id": "BID_330_AstronautEvilUpgrade",
+    "backendType": "AthenaBackpack",
+    "name": "Xenopod"
+  },
+  {
+    "id": "BID_331_DarkNinjaWhite",
+    "backendType": "AthenaBackpack",
+    "name": "Starcrest Shift"
+  },
+  {
+    "id": "BID_332_FrostMystery",
+    "backendType": "AthenaBackpack",
+    "name": "Starcrest Flux"
+  },
+  {
+    "id": "BID_335_Lopex",
+    "backendType": "AthenaBackpack",
+    "name": "Foxpack"
+  },
+  {
+    "id": "BID_336_MascotMilitiaBurger",
+    "backendType": "AthenaBackpack",
+    "name": "Takeout"
+  },
+  {
+    "id": "BID_337_MascotMilitiaTomato",
+    "backendType": "AthenaBackpack",
+    "name": "TomCom"
+  },
+  {
+    "id": "BID_339_Syko",
+    "backendType": "AthenaBackpack",
+    "name": "Exo-Spine"
+  },
+  {
+    "id": "BID_341_AngelEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Shadow Ark Wings"
+  },
+  {
+    "id": "BID_342_LemonLime",
+    "backendType": "AthenaBackpack",
+    "name": "Wedge"
+  },
+  {
+    "id": "BID_343_CubeRedKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Shield"
+  },
+  {
+    "id": "BID_345_ToxicKitty",
+    "backendType": "AthenaBackpack",
+    "name": "Toxic Kitty"
+  },
+  {
+    "id": "BID_347_DarkEagleFire",
+    "backendType": "AthenaBackpack",
+    "name": "Molten Battle Shroud"
+  },
+  {
+    "id": "BID_348_PaddedArmor",
+    "backendType": "AthenaBackpack",
+    "name": "Stronghold"
+  },
+  {
+    "id": "BID_350_TacticalBiker",
+    "backendType": "AthenaBackpack",
+    "name": "Motocase"
+  },
+  {
+    "id": "BID_351_FutureBikerWhite",
+    "backendType": "AthenaBackpack",
+    "name": "Spiked Shell"
+  },
+  {
+    "id": "BID_353_StreetGothCandy",
+    "backendType": "AthenaBackpack",
+    "name": "Starlet"
+  },
+  {
+    "id": "BID_354_StreetFashionRed",
+    "backendType": "AthenaBackpack",
+    "name": "Red Alert"
+  },
+  {
+    "id": "BID_355_Jumpstart",
+    "backendType": "AthenaBackpack",
+    "name": "Turbocoil"
+  },
+  {
+    "id": "BID_356_Punchy",
+    "backendType": "AthenaBackpack",
+    "name": "Moose"
+  },
+  {
+    "id": "BID_352_CupidFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Wings of Love"
+  },
+  {
+    "id": "BID_349_RaptorBlackOps",
+    "backendType": "AthenaBackpack",
+    "name": "Containment Pack"
+  },
+  {
+    "id": "BID_346_BlackWidowRogue",
+    "backendType": "AthenaBackpack",
+    "name": "Rogue Spider Shield"
+  },
+  {
+    "id": "BID_344_CubeWildCard",
+    "backendType": "AthenaBackpack",
+    "name": "Wild Cube"
+  },
+  {
+    "id": "BID_340_WiseMaster",
+    "backendType": "AthenaBackpack",
+    "name": "Kunai Shield"
+  },
+  {
+    "id": "BID_338_StarWalker",
+    "backendType": "AthenaBackpack",
+    "name": "Starfield"
+  },
+  {
+    "id": "BID_334_BannerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Banner Shield"
+  },
+  {
+    "id": "BID_333_Reverb",
+    "backendType": "AthenaBackpack",
+    "name": "Backbeat"
+  },
+  {
+    "id": "BID_329_WildWestFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Grande Pack"
+  },
+  {
+    "id": "BID_326_Bronto",
+    "backendType": "AthenaBackpack",
+    "name": "Bronto Bag"
+  },
+  {
+    "id": "BID_323_FunkOpsRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Golden Disco"
+  },
+  {
+    "id": "BID_317_KnightRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Dragoncrest"
+  },
+  {
+    "id": "BID_315_PizzaPit",
+    "backendType": "AthenaBackpack",
+    "name": "Cheesy"
+  },
+  {
+    "id": "BID_312_Stealth",
+    "backendType": "AthenaBackpack",
+    "name": "Prospect"
+  },
+  {
+    "id": "BID_309_CyberKarateMale",
+    "backendType": "AthenaBackpack",
+    "name": "Striped Stalker"
+  },
+  {
+    "id": "BID_278_VigilanteBoard",
+    "backendType": "AthenaBackpack",
+    "name": "Back Board"
+  },
+  {
+    "id": "BID_357_Sleepytime",
+    "backendType": "AthenaBackpack",
+    "name": "Dreamer"
+  },
+  {
+    "id": "BID_275_Geisha",
+    "backendType": "AthenaBackpack",
+    "name": "Gaze"
+  },
+  {
+    "id": "BID_358_StreetUrchin",
+    "backendType": "AthenaBackpack",
+    "name": "Pry Pack"
+  },
+  {
+    "id": "BID_360_BlackMondayKansas_VCZ9M",
+    "backendType": "AthenaBackpack",
+    "name": "The Dark Knight Movie Cloak"
+  },
+  {
+    "id": "BID_361_BlackMondayFemale_R0P2N",
+    "backendType": "AthenaBackpack",
+    "name": "Jeweled Cat"
+  },
+  {
+    "id": "BID_362_BlackMondayHouston_2I53G",
+    "backendType": "AthenaBackpack",
+    "name": "Batman Comic Book Cape"
+  },
+  {
+    "id": "BID_363_Kurohomura",
+    "backendType": "AthenaBackpack",
+    "name": "Fire Vortex"
+  },
+  {
+    "id": "BID_364_LlamaHero",
+    "backendType": "AthenaBackpack",
+    "name": "Llamacorn Shield"
+  },
+  {
+    "id": "BID_365_MascotMilitiaCuddle",
+    "backendType": "AthenaBackpack",
+    "name": "Heartless"
+  },
+  {
+    "id": "BID_359_MeteorManRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Star Surge"
+  },
+  {
+    "id": "BID_368_RockClimber",
+    "backendType": "AthenaBackpack",
+    "name": "Basecamp Bag"
+  },
+  {
+    "id": "BID_367_TacticalFishermanMale",
+    "backendType": "AthenaBackpack",
+    "name": "Tackle Box"
+  },
+  {
+    "id": "BID_369_CrazyEight",
+    "backendType": "AthenaBackpack",
+    "name": "Ball Bling"
+  },
+  {
+    "id": "BID_371_Sheath",
+    "backendType": "AthenaBackpack",
+    "name": "Blade Bag"
+  },
+  {
+    "id": "BID_372_Viper",
+    "backendType": "AthenaBackpack",
+    "name": "Fusion Orb"
+  },
+  {
+    "id": "BID_373_HauntLensFlare",
+    "backendType": "AthenaBackpack",
+    "name": "Black Hole"
+  },
+  {
+    "id": "BID_375_BulletBlueFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dry Bag"
+  },
+  {
+    "id": "BID_374_CubeRockerPunk_Female",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Six String"
+  },
+  {
+    "id": "BID_377_CODSquad_Plaid_Female",
+    "backendType": "AthenaBackpack",
+    "name": "Leather Lugger"
+  },
+  {
+    "id": "BID_378_FishermanFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Fresh Catch"
+  },
+  {
+    "id": "BID_379_RedRidingRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Pack Leader"
+  },
+  {
+    "id": "BID_381_RustyRaiderMotor",
+    "backendType": "AthenaBackpack",
+    "name": "Wheelie"
+  },
+  {
+    "id": "BID_382_DarkDinoMale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Scaly"
+  },
+  {
+    "id": "BID_383_DarkDinoFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Hatchling"
+  },
+  {
+    "id": "BID_380_CuddleTeamDark",
+    "backendType": "AthenaBackpack",
+    "name": "Broken Heart"
+  },
+  {
+    "id": "BID_385_Nosh",
+    "backendType": "AthenaBackpack",
+    "name": "Nosh"
+  },
+  {
+    "id": "BID_386_FlowerSkeletonFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Mourning Glory"
+  },
+  {
+    "id": "BID_388_DevilRockMale",
+    "backendType": "AthenaBackpack",
+    "name": "Flame Sigil"
+  },
+  {
+    "id": "BID_389_GoatRobe",
+    "backendType": "AthenaBackpack",
+    "name": "Illusion Rune"
+  },
+  {
+    "id": "BID_390_SoccerZombieMale",
+    "backendType": "AthenaBackpack",
+    "name": "Zomball"
+  },
+  {
+    "id": "BID_391_SoccerZombieFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dead Card"
+  },
+  {
+    "id": "BID_392_Freak",
+    "backendType": "AthenaBackpack",
+    "name": "Council of Frogs"
+  },
+  {
+    "id": "BID_393_GhoulTrooper",
+    "backendType": "AthenaBackpack",
+    "name": "Bear Brained"
+  },
+  {
+    "id": "BID_387_PunkDevil",
+    "backendType": "AthenaBackpack",
+    "name": "Ridgeback"
+  },
+  {
+    "id": "BID_395_Phantom",
+    "backendType": "AthenaBackpack",
+    "name": "Time Keeper"
+  },
+  {
+    "id": "BID_396_RaptorGlow",
+    "backendType": "AthenaBackpack",
+    "name": "Back-o-lantern"
+  },
+  {
+    "id": "BID_397_SkeletonHunter",
+    "backendType": "AthenaBackpack",
+    "name": "Second Sight"
+  },
+  {
+    "id": "BID_398_Palespooky",
+    "backendType": "AthenaBackpack",
+    "name": "Dolly"
+  },
+  {
+    "id": "BID_399_SpookyNeon",
+    "backendType": "AthenaBackpack",
+    "name": "Indigo Wings"
+  },
+  {
+    "id": "BID_400_HalloweenAlt",
+    "backendType": "AthenaBackpack",
+    "name": "Grinning Ghoul"
+  },
+  {
+    "id": "BID_401_Razor",
+    "backendType": "AthenaBackpack",
+    "name": "Fierce Cloudpuff"
+  },
+  {
+    "id": "BID_402_TourBus",
+    "backendType": "AthenaBackpack",
+    "name": "Ninja's Edge"
+  },
+  {
+    "id": "BID_403_JetSkiFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Shortwave"
+  },
+  {
+    "id": "BID_405_ModernWitch",
+    "backendType": "AthenaBackpack",
+    "name": "Bag of Shadows"
+  },
+  {
+    "id": "BID_406_Submariner",
+    "backendType": "AthenaBackpack",
+    "name": "Torpedo Tank"
+  },
+  {
+    "id": "BID_408_WeepingWoods",
+    "backendType": "AthenaBackpack",
+    "name": "Buzzy Bag"
+  },
+  {
+    "id": "BID_409_StreetOpsPink",
+    "backendType": "AthenaBackpack",
+    "name": "Ghostly"
+  },
+  {
+    "id": "BID_410_ShirtlessWarpaint",
+    "backendType": "AthenaBackpack",
+    "name": "Armory Bag"
+  },
+  {
+    "id": "BID_404_JetSkiMale",
+    "backendType": "AthenaBackpack",
+    "name": "Wave Fuel"
+  },
+  {
+    "id": "BID_412_CavalryBandit",
+    "backendType": "AthenaBackpack",
+    "name": "Black Stripe"
+  },
+  {
+    "id": "BID_413_ForestQueen",
+    "backendType": "AthenaBackpack",
+    "name": "Autumn's Mantle"
+  },
+  {
+    "id": "BID_414_ForestDwellerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hollow Horn"
+  },
+  {
+    "id": "BID_416_BigChuggus",
+    "backendType": "AthenaBackpack",
+    "name": "Juggus"
+  },
+  {
+    "id": "BID_417_BoneSnake",
+    "backendType": "AthenaBackpack",
+    "name": "Spinal Blade"
+  },
+  {
+    "id": "BID_421_TeriyakiWarrior",
+    "backendType": "AthenaBackpack",
+    "name": "Coral Commandos"
+  },
+  {
+    "id": "BID_419_Frogman",
+    "backendType": "AthenaBackpack",
+    "name": "Manta"
+  },
+  {
+    "id": "BID_422_SnufflesLeader",
+    "backendType": "AthenaBackpack",
+    "name": "Gwinny"
+  },
+  {
+    "id": "BID_423_HolidayTime",
+    "backendType": "AthenaBackpack",
+    "name": "Sinister Stocking"
+  },
+  {
+    "id": "BID_425_Kane",
+    "backendType": "AthenaBackpack",
+    "name": "Sweet Spikes"
+  },
+  {
+    "id": "BID_426_GalileoKayak_NS67T",
+    "backendType": "AthenaBackpack",
+    "name": "Kylo's Cape"
+  },
+  {
+    "id": "BID_427_GalileoSled_ZDWOV",
+    "backendType": "AthenaBackpack",
+    "name": "Sith Trooper Blaster"
+  },
+  {
+    "id": "BID_428_GalileoFerry_28UZ3",
+    "backendType": "AthenaBackpack",
+    "name": "The Resistance"
+  },
+  {
+    "id": "BID_430_GalileoSpeedBoat_9RXE3",
+    "backendType": "AthenaBackpack",
+    "name": "The Sith"
+  },
+  {
+    "id": "BID_433_NeonAnimal",
+    "backendType": "AthenaBackpack",
+    "name": "Diamond Grid"
+  },
+  {
+    "id": "BID_431_GalileoFlatbed_JV1DD",
+    "backendType": "AthenaBackpack",
+    "name": "First Order"
+  },
+  {
+    "id": "BID_436_TacticalBear",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Fisher"
+  },
+  {
+    "id": "BID_434_NeonAnimalFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Heart Grid"
+  },
+  {
+    "id": "BID_438_SweaterWeather",
+    "backendType": "AthenaBackpack",
+    "name": "Bough Breaker"
+  },
+  {
+    "id": "BID_437_TNTina",
+    "backendType": "AthenaBackpack",
+    "name": "Kabag!"
+  },
+  {
+    "id": "BID_439_OrnamentSoldier",
+    "backendType": "AthenaBackpack",
+    "name": "Re-gifter"
+  },
+  {
+    "id": "BID_440_MsAlpine",
+    "backendType": "AthenaBackpack",
+    "name": "Modern Summit"
+  },
+  {
+    "id": "BID_441_HolidayPJ",
+    "backendType": "AthenaBackpack",
+    "name": "Yule Breakers"
+  },
+  {
+    "id": "BID_443_WingedFury",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Wings"
+  },
+  {
+    "id": "BID_445_Elf",
+    "backendType": "AthenaBackpack",
+    "name": "E.L.F. Shield"
+  },
+  {
+    "id": "BID_446_Barefoot",
+    "backendType": "AthenaBackpack",
+    "name": "Easy Reach"
+  },
+  {
+    "id": "BID_447_ToyMonkey",
+    "backendType": "AthenaBackpack",
+    "name": "Peel Pack"
+  },
+  {
+    "id": "BID_449_MrIceGuy",
+    "backendType": "AthenaBackpack",
+    "name": "Cryo Chamber"
+  },
+  {
+    "id": "BID_450_Iceflake",
+    "backendType": "AthenaBackpack",
+    "name": "Snow Crystal"
+  },
+  {
+    "id": "BID_451_HolidayDeck",
+    "backendType": "AthenaBackpack",
+    "name": "2020 Kickflip"
+  },
+  {
+    "id": "BID_454_Gummi",
+    "backendType": "AthenaBackpack",
+    "name": "Shellie"
+  },
+  {
+    "id": "BID_456_CloakedMale",
+    "backendType": "AthenaBackpack",
+    "name": "Darkest Edge"
+  },
+  {
+    "id": "BID_457_HoodieBandit",
+    "backendType": "AthenaBackpack",
+    "name": "Roundabout"
+  },
+  {
+    "id": "BID_459_CODSquad_Hoodie",
+    "backendType": "AthenaBackpack",
+    "name": "Hurricane"
+  },
+  {
+    "id": "BID_462_ModernMilitaryEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Paradigm"
+  },
+  {
+    "id": "BID_463_StreetRat",
+    "backendType": "AthenaBackpack",
+    "name": "Rat Lantern"
+  },
+  {
+    "id": "BID_465_VirtualShadow",
+    "backendType": "AthenaBackpack",
+    "name": "Bladed Breath"
+  },
+  {
+    "id": "BID_467_DragonRacer",
+    "backendType": "AthenaBackpack",
+    "name": "Dragon Guard"
+  },
+  {
+    "id": "BID_468_Cyclone",
+    "backendType": "AthenaBackpack",
+    "name": "Cactus Jack"
+  },
+  {
+    "id": "BID_470_SpyTechHacker",
+    "backendType": "AthenaBackpack",
+    "name": "Hack Pack"
+  },
+  {
+    "id": "BID_472_DesertOpsCamo",
+    "backendType": "AthenaBackpack",
+    "name": "Arroyo Pack"
+  },
+  {
+    "id": "BID_473_Photographer",
+    "backendType": "AthenaBackpack",
+    "name": "Adventure Pack"
+  },
+  {
+    "id": "BID_474_DarkHeart",
+    "backendType": "AthenaBackpack",
+    "name": "Infatuation Pack"
+  },
+  {
+    "id": "BID_476_AgentRogue",
+    "backendType": "AthenaBackpack",
+    "name": "Puma Pack"
+  },
+  {
+    "id": "BID_478_HenchmanTough",
+    "backendType": "AthenaBackpack",
+    "name": "Hench Hauler"
+  },
+  {
+    "id": "BID_479_CatBurglar",
+    "backendType": "AthenaBackpack",
+    "name": "Gold Dagger Pack"
+  },
+  {
+    "id": "BID_481_GraffitiFuture",
+    "backendType": "AthenaBackpack",
+    "name": "Skeletal Wings"
+  },
+  {
+    "id": "BID_483_Spy",
+    "backendType": "AthenaBackpack",
+    "name": "Emissary Bag"
+  },
+  {
+    "id": "BID_484_PugMilitia",
+    "backendType": "AthenaBackpack",
+    "name": "Doggie Bag"
+  },
+  {
+    "id": "BID_486_WinterHunterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Gold Chain"
+  },
+  {
+    "id": "BID_488_LuckyHero",
+    "backendType": "AthenaBackpack",
+    "name": "Lucky Clover"
+  },
+  {
+    "id": "BID_489_TwinDark",
+    "backendType": "AthenaBackpack",
+    "name": "True Reflection"
+  },
+  {
+    "id": "BID_490_AnarchyAcresFarmer",
+    "backendType": "AthenaBackpack",
+    "name": "Heavy Harvester"
+  },
+  {
+    "id": "BID_492_BlueFlames",
+    "backendType": "AthenaBackpack",
+    "name": "Slurp Jet"
+  },
+  {
+    "id": "BID_494_StreetFashionEmerald",
+    "backendType": "AthenaBackpack",
+    "name": "Lush Edge"
+  },
+  {
+    "id": "BID_496_TeriyakiFishAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Dorsal Destroyer"
+  },
+  {
+    "id": "BID_501_SpyTechFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Angled Intercept"
+  },
+  {
+    "id": "BID_499_TargetPractice",
+    "backendType": "AthenaBackpack",
+    "name": "Hit me!"
+  },
+  {
+    "id": "BID_502_Tailor",
+    "backendType": "AthenaBackpack",
+    "name": "Back Stitch"
+  },
+  {
+    "id": "BID_504_Handyman",
+    "backendType": "AthenaBackpack",
+    "name": "Bionic Relay"
+  },
+  {
+    "id": "BID_503_MinotaurLuck",
+    "backendType": "AthenaBackpack",
+    "name": "Bull Shield"
+  },
+  {
+    "id": "BID_506_DonutCup",
+    "backendType": "AthenaBackpack",
+    "name": "Cable Cloak"
+  },
+  {
+    "id": "BID_508_DonutDish",
+    "backendType": "AthenaBackpack",
+    "name": "Domino Pack"
+  },
+  {
+    "id": "BID_509_ChocoBunny",
+    "backendType": "AthenaBackpack",
+    "name": "Choco Shell"
+  },
+  {
+    "id": "BID_512_Hurricane",
+    "backendType": "AthenaBackpack",
+    "name": "Windshear Cloak"
+  },
+  {
+    "id": "BID_513_GraffitiAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Backstabber"
+  },
+  {
+    "id": "BID_517_Splinter",
+    "backendType": "AthenaBackpack",
+    "name": "Pelt Pack"
+  },
+  {
+    "id": "BID_515_Hostile",
+    "backendType": "AthenaBackpack",
+    "name": "Scarlet Satchel"
+  },
+  {
+    "id": "BID_518_HitmanCase",
+    "backendType": "AthenaBackpack",
+    "name": "Last Kiss"
+  },
+  {
+    "id": "BID_522_TechExplorer",
+    "backendType": "AthenaBackpack",
+    "name": "Silencer"
+  },
+  {
+    "id": "BID_520_CycloneUniverse",
+    "backendType": "AthenaBackpack",
+    "name": "Astroworld"
+  },
+  {
+    "id": "BID_525_RavenQuillDonut",
+    "backendType": "AthenaBackpack",
+    "name": "Ravenpool's Cage"
+  },
+  {
+    "id": "BID_528_SpaceWanderer",
+    "backendType": "AthenaBackpack",
+    "name": "Mini Moon"
+  },
+  {
+    "id": "BID_530_BlackKnightFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Eternal Shield"
+  },
+  {
+    "id": "BID_535_SandCastle",
+    "backendType": "AthenaBackpack",
+    "name": "Supreme Shell"
+  },
+  {
+    "id": "BID_537_TacticalScuba",
+    "backendType": "AthenaBackpack",
+    "name": "Deep Dive"
+  },
+  {
+    "id": "BID_539_RacerZero",
+    "backendType": "AthenaBackpack",
+    "name": "Infinite Bloom"
+  },
+  {
+    "id": "BID_540_Python",
+    "backendType": "AthenaBackpack",
+    "name": "Double Fang"
+  },
+  {
+    "id": "BID_543_FuzzyBearTeddy",
+    "backendType": "AthenaBackpack",
+    "name": "Warning Bow"
+  },
+  {
+    "id": "BID_544_BrightGunnerEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Nite Bag"
+  },
+  {
+    "id": "BID_548_MastermindGhost",
+    "backendType": "AthenaBackpack",
+    "name": "Double Agent Ooze Unit"
+  },
+  {
+    "id": "BID_547_HeistGhost",
+    "backendType": "AthenaBackpack",
+    "name": "Double Agent Hard Case"
+  },
+  {
+    "id": "BID_546_CavalryBanditGhost",
+    "backendType": "AthenaBackpack",
+    "name": "Double Agent Stripe"
+  },
+  {
+    "id": "BID_541_Gator",
+    "backendType": "AthenaBackpack",
+    "name": "Swampy Sack"
+  },
+  {
+    "id": "BID_534_OceanRider",
+    "backendType": "AthenaBackpack",
+    "name": "Beachcomber"
+  },
+  {
+    "id": "BID_536_Beacon",
+    "backendType": "AthenaBackpack",
+    "name": "Anchor"
+  },
+  {
+    "id": "BID_526_FuzzyBearDonut",
+    "backendType": "AthenaBackpack",
+    "name": "Cuddlepool's Bow"
+  },
+  {
+    "id": "BID_533_MechanicalEngineer",
+    "backendType": "AthenaPetCarrier",
+    "name": "Ohm's Perch"
+  },
+  {
+    "id": "BID_523_RapVillainess",
+    "backendType": "AthenaBackpack",
+    "name": "Loot & Shoot"
+  },
+  {
+    "id": "BID_519_Comet",
+    "backendType": "AthenaBackpack",
+    "name": "Fluffle Bag"
+  },
+  {
+    "id": "BID_516_RaveNinja",
+    "backendType": "AthenaBackpack",
+    "name": "Back Scratcher"
+  },
+  {
+    "id": "BID_514_NeonCatSpy",
+    "backendType": "AthenaBackpack",
+    "name": "Whisker Pack"
+  },
+  {
+    "id": "BID_511_BadEgg",
+    "backendType": "AthenaBackpack",
+    "name": "Blast Radius"
+  },
+  {
+    "id": "BID_507_DonutPlate",
+    "backendType": "AthenaBackpack",
+    "name": "Shurayuki"
+  },
+  {
+    "id": "BID_505_Informer",
+    "backendType": "AthenaBackpack",
+    "name": "Stellar Jaunt"
+  },
+  {
+    "id": "BID_500_SpyTech",
+    "backendType": "AthenaBackpack",
+    "name": "Light Intel"
+  },
+  {
+    "id": "BID_498_AgentX",
+    "backendType": "AthenaBackpack",
+    "name": "Backchannel"
+  },
+  {
+    "id": "BID_495_PineappleBandit",
+    "backendType": "AthenaBackpack",
+    "name": "Tropical Stash"
+  },
+  {
+    "id": "BID_493_BlueFlamesFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Blue Heart"
+  },
+  {
+    "id": "BID_487_WinterHunterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Goldy Lock"
+  },
+  {
+    "id": "BID_485_BananaAgent",
+    "backendType": "AthenaBackpack",
+    "name": "Banana Briefcase"
+  },
+  {
+    "id": "BID_491_FlameSkull",
+    "backendType": "AthenaBackpack",
+    "name": "Back Burner"
+  },
+  {
+    "id": "BID_482_LongShorts",
+    "backendType": "AthenaBackpack",
+    "name": "Recon Strike"
+  },
+  {
+    "id": "BID_480_Donut",
+    "backendType": "AthenaBackpack",
+    "name": "Deadpool's Katanas"
+  },
+  {
+    "id": "BID_477_BuffCat",
+    "backendType": "AthenaBackpack",
+    "name": "Feline Fun"
+  },
+  {
+    "id": "BID_475_AgentAce",
+    "backendType": "AthenaBackpack",
+    "name": "Teknical Glow"
+  },
+  {
+    "id": "BID_471_CuteDuo",
+    "backendType": "AthenaBackpack",
+    "name": "Pinkie's Pink Pack"
+  },
+  {
+    "id": "BID_469_Wings",
+    "backendType": "AthenaBackpack",
+    "name": "Neon Wings"
+  },
+  {
+    "id": "BID_466_TigerFashion",
+    "backendType": "AthenaBackpack",
+    "name": "Jade Blades"
+  },
+  {
+    "id": "BID_464_MartialArtist",
+    "backendType": "AthenaBackpack",
+    "name": "Blue Wave"
+  },
+  {
+    "id": "BID_460_SharkAttack",
+    "backendType": "AthenaBackpack",
+    "name": "Shark's Tank"
+  },
+  {
+    "id": "BID_458_TheGoldenSkeleton",
+    "backendType": "AthenaBackpack",
+    "name": "Radiant Mantle"
+  },
+  {
+    "id": "BID_455_NeonGraffitiFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Purple Jam"
+  },
+  {
+    "id": "BID_453_FrogmanFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Contender"
+  },
+  {
+    "id": "BID_448_TechOpsBlueFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Reliant Blue"
+  },
+  {
+    "id": "BID_444_FestivePug",
+    "backendType": "AthenaBackpack",
+    "name": "Holiday Hydrant"
+  },
+  {
+    "id": "BID_442_Cattus",
+    "backendType": "AthenaBackpack",
+    "name": "Castle Peaks"
+  },
+  {
+    "id": "BID_435_Constellation",
+    "backendType": "AthenaBackpack",
+    "name": "Shining Star"
+  },
+  {
+    "id": "BID_429_GalileoRocket_ZD0AF",
+    "backendType": "AthenaBackpack",
+    "name": "The Jedi Order"
+  },
+  {
+    "id": "BID_424_SnowGlobe",
+    "backendType": "AthenaBackpack",
+    "name": "Ornament"
+  },
+  {
+    "id": "BID_418_BulletBlueMale",
+    "backendType": "AthenaBackpack",
+    "name": "Wavepiercer"
+  },
+  {
+    "id": "BID_415_TechLlama",
+    "backendType": "AthenaBackpack",
+    "name": "Loons"
+  },
+  {
+    "id": "BID_411_BaneFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ready Ruck"
+  },
+  {
+    "id": "BID_394_Mastermind",
+    "backendType": "AthenaBackpack",
+    "name": "Ooze Chamber"
+  },
+  {
+    "id": "BID_384_NoshHunter",
+    "backendType": "AthenaBackpack",
+    "name": "Containment Unit"
+  },
+  {
+    "id": "BID_376_CODSquad_Plaid",
+    "backendType": "AthenaBackpack",
+    "name": "Saddle Bag"
+  },
+  {
+    "id": "BID_370_RebirthMedic",
+    "backendType": "AthenaBackpack",
+    "name": "Antidote"
+  },
+  {
+    "id": "BID_271_AssassinSuitMale",
+    "backendType": "AthenaBackpack",
+    "name": "Assassin Pack"
+  },
+  {
+    "id": "BID_269_RaptorFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Bomber bag"
+  },
+  {
+    "id": "BID_265_BattleSuit",
+    "backendType": "AthenaBackpack",
+    "name": "Retribution"
+  },
+  {
+    "id": "BID_264_StormTracker",
+    "backendType": "AthenaBackpack",
+    "name": "Backtracker"
+  },
+  {
+    "id": "BID_259_Ashton_SaltLake",
+    "backendType": "AthenaBackpack",
+    "name": "Star-Lord Pack"
+  },
+  {
+    "id": "BID_256_ShatterFly",
+    "backendType": "AthenaBackpack",
+    "name": "Shattered Wing"
+  },
+  {
+    "id": "BID_254_ShinyMale",
+    "backendType": "AthenaBackpack",
+    "name": "Diamond Star"
+  },
+  {
+    "id": "BID_252_EvilBunny",
+    "backendType": "AthenaBackpack",
+    "name": "Floppy"
+  },
+  {
+    "id": "BID_249_StreetOpsStealth",
+    "backendType": "AthenaBackpack",
+    "name": "Stealth Response Unit"
+  },
+  {
+    "id": "BID_246_BaseballKitbashMale",
+    "backendType": "AthenaBackpack",
+    "name": "Strike Zone"
+  },
+  {
+    "id": "BID_243_BattleHoundFire",
+    "backendType": "AthenaBackpack",
+    "name": "Molten Crested Cape"
+  },
+  {
+    "id": "BID_240_DarkShamanMale",
+    "backendType": "AthenaBackpack",
+    "name": "Battle Mask"
+  },
+  {
+    "id": "BID_235_Heist",
+    "backendType": "AthenaBackpack",
+    "name": "Crystal Llama"
+  },
+  {
+    "id": "BID_232_Leprechaun",
+    "backendType": "AthenaBackpack",
+    "name": "Lucky Coins"
+  },
+  {
+    "id": "BID_230_TropicalMale",
+    "backendType": "AthenaBackpack",
+    "name": "Banana Bag"
+  },
+  {
+    "id": "BID_226_BandageNinjaFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dual Kama"
+  },
+  {
+    "id": "BID_222_AztecFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Sun Wings"
+  },
+  {
+    "id": "BID_221_AztecMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hypnotic"
+  },
+  {
+    "id": "BID_219_FarmerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Haystacks"
+  },
+  {
+    "id": "BID_216_PirateProgressive",
+    "backendType": "AthenaBackpack",
+    "name": "Mutiny"
+  },
+  {
+    "id": "BID_211_SkullBrite",
+    "backendType": "AthenaBackpack",
+    "name": "Skully Satchel"
+  },
+  {
+    "id": "BID_210_RobotTroubleFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Cannister Carrier"
+  },
+  {
+    "id": "BID_208_CupidDarkMale",
+    "backendType": "AthenaBackpack",
+    "name": "Fallen Wings"
+  },
+  {
+    "id": "BID_205_ScrapyardMale",
+    "backendType": "AthenaBackpack",
+    "name": "Trash Lid"
+  },
+  {
+    "id": "BID_201_WavyManMale",
+    "backendType": "AthenaBackpack",
+    "name": "Bendie Inflator"
+  },
+  {
+    "id": "BID_199_IceQueen",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Spikes"
+  },
+  {
+    "id": "BID_197_BarbarianFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Runic Shield"
+  },
+  {
+    "id": "BID_195_FunkOpsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Disco Ball"
+  },
+  {
+    "id": "BID_193_TeriyakiFishMale",
+    "backendType": "AthenaBackpack",
+    "name": "Saltwater Satchel"
+  },
+  {
+    "id": "BID_194_Krampus",
+    "backendType": "AthenaBackpack",
+    "name": "Brat Bag"
+  },
+  {
+    "id": "BID_192_WinterHolidayFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Combat Wreath"
+  },
+  {
+    "id": "BID_191_WinterGhoulMale",
+    "backendType": "AthenaBackpack",
+    "name": "Shadow Wings"
+  },
+  {
+    "id": "BID_190_StreetGothFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Stitches"
+  },
+  {
+    "id": "BID_189_StreetGothMale",
+    "backendType": "AthenaBackpack",
+    "name": "Eternal"
+  },
+  {
+    "id": "BID_188_FortniteDJFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Glow Show"
+  },
+  {
+    "id": "BID_187_GingerbreadFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Giddy Gunner"
+  },
+  {
+    "id": "BID_186_GingerbreadMale",
+    "backendType": "AthenaBackpack",
+    "name": "Mini Marauder"
+  },
+  {
+    "id": "BID_183_NutcrackerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Snackshot"
+  },
+  {
+    "id": "BID_181_SnowNinjaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Snow Star"
+  },
+  {
+    "id": "BID_180_IceMaiden",
+    "backendType": "AthenaBackpack",
+    "name": "Glimmering Cloak"
+  },
+  {
+    "id": "BID_177_NautilusFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Octotank"
+  },
+  {
+    "id": "BID_175_Prisoner",
+    "backendType": "AthenaBackpack",
+    "name": "Padlock"
+  },
+  {
+    "id": "BID_170_MathFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Techie"
+  },
+  {
+    "id": "BID_168_CupidWinterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Love Wings"
+  },
+  {
+    "id": "BID_165_BlueBadassFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Signal Hub"
+  },
+  {
+    "id": "BID_164_SnowmanMale",
+    "backendType": "AthenaBackpack",
+    "name": "Slushy Jr."
+  },
+  {
+    "id": "BID_162_YetiMale",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Cube"
+  },
+  {
+    "id": "BID_148_RobotRed",
+    "backendType": "AthenaBackpack",
+    "name": "E.L.I.M."
+  },
+  {
+    "id": "BID_135_MuertosFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Calavera"
+  },
+  {
+    "id": "BID_129_PumpkinSlice",
+    "backendType": "AthenaBackpack",
+    "name": "Mouldering Cloak"
+  },
+  {
+    "id": "BID_118_OctoberfestFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Pretzel Protector"
+  },
+  {
+    "id": "BID_116_DieselpunkFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Airflow"
+  },
+  {
+    "id": "BID_108_HacivatMale",
+    "backendType": "AthenaBackpack",
+    "name": "Crafted Carrier"
+  },
+  {
+    "id": "BID_099_BlueSamuraiFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Shiro"
+  },
+  {
+    "id": "BID_095_RavenQuillFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Wings"
+  },
+  {
+    "id": "BID_086_ExerciseFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Back Plate"
+  },
+  {
+    "id": "BID_080_StreetRacerCobraMale",
+    "backendType": "AthenaBackpack",
+    "name": "Bat Attitude"
+  },
+  {
+    "id": "BID_079_Penguin",
+    "backendType": "AthenaBackpack",
+    "name": "Penguin"
+  },
+  {
+    "id": "BID_078_StreetRacerCobraFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ballistic"
+  },
+  {
+    "id": "BID_075_TacticalBadass",
+    "backendType": "AthenaBackpack",
+    "name": "Uplink"
+  },
+  {
+    "id": "BID_068_GumshoeDark",
+    "backendType": "AthenaBackpack",
+    "name": "Cluefinder"
+  },
+  {
+    "id": "BID_066_SpeedyRed",
+    "backendType": "AthenaBackpack",
+    "name": "Deflector"
+  },
+  {
+    "id": "BID_065_CarbideBlack",
+    "backendType": "AthenaBackpack",
+    "name": "Destabilizer"
+  },
+  {
+    "id": "BID_063_CuChulainn",
+    "backendType": "AthenaBackpack",
+    "name": "Crested Cape"
+  },
+  {
+    "id": "BID_061_CarbideOrange",
+    "backendType": "AthenaBackpack",
+    "name": "Stabilizer"
+  },
+  {
+    "id": "BID_059_WWIIPilot",
+    "backendType": "AthenaBackpack",
+    "name": "Last Gasp"
+  },
+  {
+    "id": "BID_056_FighterPilot",
+    "backendType": "AthenaBackpack",
+    "name": "Bogey Bag"
+  },
+  {
+    "id": "BID_058_DarkEagle",
+    "backendType": "AthenaBackpack",
+    "name": "Battle Shroud"
+  },
+  {
+    "id": "BID_055_PSBurnout",
+    "backendType": "AthenaBackpack",
+    "name": "Blue Shift"
+  },
+  {
+    "id": "BID_053_JailbirdMale",
+    "backendType": "AthenaBackpack",
+    "name": "Strongbox"
+  },
+  {
+    "id": "BID_050_Hazmat",
+    "backendType": "AthenaBackpack",
+    "name": "Pathogen"
+  },
+  {
+    "id": "BID_049_TacticalWoodland",
+    "backendType": "AthenaBackpack",
+    "name": "True North"
+  },
+  {
+    "id": "BID_047_Candy",
+    "backendType": "AthenaBackpack",
+    "name": "Goodie Bag"
+  },
+  {
+    "id": "BID_045_TacticalJungle",
+    "backendType": "AthenaBackpack",
+    "name": "Standard Issue"
+  },
+  {
+    "id": "BID_043_Pizza",
+    "backendType": "AthenaBackpack",
+    "name": "Special Delivery"
+  },
+  {
+    "id": "BID_041_PajamaParty",
+    "backendType": "AthenaBackpack",
+    "name": "Hatchling"
+  },
+  {
+    "id": "BID_039_SpaceBlackFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Void"
+  },
+  {
+    "id": "BID_037_BunnyMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hard Boiled"
+  },
+  {
+    "id": "BID_035_Scathach",
+    "backendType": "AthenaBackpack",
+    "name": "Buckler"
+  },
+  {
+    "id": "BID_033_FounderFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Skirmish"
+  },
+  {
+    "id": "BID_031_Dinosaur",
+    "backendType": "AthenaBackpack",
+    "name": "Scaly"
+  },
+  {
+    "id": "BID_030_TacticalRogue",
+    "backendType": "AthenaBackpack",
+    "name": "Catalyst"
+  },
+  {
+    "id": "BID_027_Scavenger",
+    "backendType": "AthenaBackpack",
+    "name": "Rust Bucket"
+  },
+  {
+    "id": "BID_024_Space",
+    "backendType": "AthenaBackpack",
+    "name": "Astro"
+  },
+  {
+    "id": "BID_022_Cupid",
+    "backendType": "AthenaBackpack",
+    "name": "Love Wings"
+  },
+  {
+    "id": "BID_021_SkiGirl_KOR",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (KOR)"
+  },
+  {
+    "id": "BID_019_SkiGirl_GER",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (GER)"
+  },
+  {
+    "id": "BID_018_SkiGirl_FRA",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (FRA)"
+  },
+  {
+    "id": "BID_016_SkiGirl_CAN",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (CAN)"
+  },
+  {
+    "id": "BID_014_SkiGirl",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag"
+  },
+  {
+    "id": "BID_012_SkiDude_CHN",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (CHN)"
+  },
+  {
+    "id": "BID_010_SkiDude_FRA",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (FRA)"
+  },
+  {
+    "id": "BID_008_SkiDude_CAN",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (CAN)"
+  },
+  {
+    "id": "BID_004_BlackKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Black Shield"
+  },
+  {
+    "id": "BID_006_SkiDude",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories"
+  },
+  {
+    "id": "BID_003_RedKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Red Shield"
+  },
+  {
+    "id": "Glider_Random",
+    "backendType": "AthenaGlider",
+    "name": "Random"
+  },
+  {
+    "id": "DefaultGlider",
+    "backendType": "AthenaGlider",
+    "name": "Glider"
+  },
+  {
+    "id": "Duo_Umbrella",
+    "backendType": "AthenaGlider",
+    "name": "Duo Umbrella"
+  },
+  {
+    "id": "DynamicsTestGlider",
+    "backendType": "AthenaGlider",
+    "name": "Glider"
+  },
+  {
+    "id": "FounderUmbrella",
+    "backendType": "AthenaGlider",
+    "name": "Founder's Umbrella"
+  },
+  {
+    "id": "Glider_Bold",
+    "backendType": "AthenaGlider",
+    "name": "Modern"
+  },
+  {
+    "id": "Glider_ID_001",
+    "backendType": "AthenaGlider",
+    "name": "Aerial Assault One"
+  },
+  {
+    "id": "Glider_ID_003_District",
+    "backendType": "AthenaGlider",
+    "name": "Royale X"
+  },
+  {
+    "id": "Glider_ID_004_Disco",
+    "backendType": "AthenaGlider",
+    "name": "Get Down!"
+  },
+  {
+    "id": "Glider_ID_006_WinterCamo",
+    "backendType": "AthenaGlider",
+    "name": "Snow Squall"
+  },
+  {
+    "id": "Glider_ID_007_TurtleShell",
+    "backendType": "AthenaGlider",
+    "name": "Half Shell"
+  },
+  {
+    "id": "Glider_ID_009_CandyCoat",
+    "backendType": "AthenaGlider",
+    "name": "Gum Drop"
+  },
+  {
+    "id": "Glider_ID_010_Storm",
+    "backendType": "AthenaGlider",
+    "name": "Cloud Strike"
+  },
+  {
+    "id": "Glider_ID_012_TeddyBear",
+    "backendType": "AthenaGlider",
+    "name": "Bear Force One"
+  },
+  {
+    "id": "Glider_ID_014_Dragon",
+    "backendType": "AthenaGlider",
+    "name": "Royale Dragon"
+  },
+  {
+    "id": "Glider_ID_016_Tactical",
+    "backendType": "AthenaGlider",
+    "name": "Carbon"
+  },
+  {
+    "id": "Glider_ID_017_Assassin",
+    "backendType": "AthenaGlider",
+    "name": "High Octane"
+  },
+  {
+    "id": "Glider_ID_019_Taxi",
+    "backendType": "AthenaGlider",
+    "name": "Checker"
+  },
+  {
+    "id": "Glider_ID_022_RockerPunk",
+    "backendType": "AthenaGlider",
+    "name": "Stage Dive"
+  },
+  {
+    "id": "Glider_ID_023_CuChulainn",
+    "backendType": "AthenaGlider",
+    "name": "Storm Sigil"
+  },
+  {
+    "id": "Glider_ID_025_ShuttleA",
+    "backendType": "AthenaGlider",
+    "name": "Orbital Shuttle"
+  },
+  {
+    "id": "Glider_ID_027_Satelite",
+    "backendType": "AthenaGlider",
+    "name": "Planetary Probe"
+  },
+  {
+    "id": "Glider_ID_028_Googly",
+    "backendType": "AthenaGlider",
+    "name": "Googly"
+  },
+  {
+    "id": "Glider_ID_029_PajamaParty",
+    "backendType": "AthenaGlider",
+    "name": "Fossil Flyer"
+  },
+  {
+    "id": "Glider_ID_031_Metal",
+    "backendType": "AthenaGlider",
+    "name": "Solid Strider"
+  },
+  {
+    "id": "Glider_ID_032_TacticalWoodland",
+    "backendType": "AthenaGlider",
+    "name": "Field Flyer"
+  },
+  {
+    "id": "Glider_ID_033_Valor",
+    "backendType": "AthenaGlider",
+    "name": "Wings of Valor"
+  },
+  {
+    "id": "Glider_ID_035_Candy",
+    "backendType": "AthenaGlider",
+    "name": "Sugar Crash"
+  },
+  {
+    "id": "Glider_ID_036_AuroraGlow",
+    "backendType": "AthenaGlider",
+    "name": "Glow Rider"
+  },
+  {
+    "id": "Glider_ID_038_Deco",
+    "backendType": "AthenaGlider",
+    "name": "Triumph"
+  },
+  {
+    "id": "Glider_ID_039_Venus",
+    "backendType": "AthenaGlider",
+    "name": "Venus Flyer"
+  },
+  {
+    "id": "Glider_ID_042_Soccer",
+    "backendType": "AthenaGlider",
+    "name": "Goalbound"
+  },
+  {
+    "id": "Glider_ID_044_Pterodactyl",
+    "backendType": "AthenaGlider",
+    "name": "Pterodactyl"
+  },
+  {
+    "id": "Glider_ID_045_CarbideBlack",
+    "backendType": "AthenaGlider",
+    "name": "Terminus"
+  },
+  {
+    "id": "Glider_ID_047_SpeedyRed",
+    "backendType": "AthenaGlider",
+    "name": "Forerunner"
+  },
+  {
+    "id": "Glider_ID_049_Lifeguard",
+    "backendType": "AthenaGlider",
+    "name": "Splashdown"
+  },
+  {
+    "id": "Glider_ID_050_StreetRacerCobra",
+    "backendType": "AthenaGlider",
+    "name": "Cruiser"
+  },
+  {
+    "id": "Glider_ID_052_Bedazzled",
+    "backendType": "AthenaGlider",
+    "name": "Rhinestone Rider"
+  },
+  {
+    "id": "Glider_ID_054_Douyu",
+    "backendType": "AthenaGlider",
+    "name": "Helium"
+  },
+  {
+    "id": "Glider_ID_055_StreetRacerBlack",
+    "backendType": "AthenaGlider",
+    "name": "Downshift"
+  },
+  {
+    "id": "Glider_ID_057_ModernMilitary",
+    "backendType": "AthenaGlider",
+    "name": "Servo"
+  },
+  {
+    "id": "Glider_ID_059_DurrburgerHero",
+    "backendType": "AthenaGlider",
+    "name": "Flying Saucer"
+  },
+  {
+    "id": "Glider_ID_061_StreetRacerBiker",
+    "backendType": "AthenaGlider",
+    "name": "Cyclone"
+  },
+  {
+    "id": "Glider_ID_063_SushiChef",
+    "backendType": "AthenaGlider",
+    "name": "Flying Fish"
+  },
+  {
+    "id": "Glider_ID_065_Hippie",
+    "backendType": "AthenaGlider",
+    "name": "Tie-dye Flyer"
+  },
+  {
+    "id": "Glider_ID_066_SamuraiBlue",
+    "backendType": "AthenaGlider",
+    "name": "Purrfect"
+  },
+  {
+    "id": "Glider_ID_068_GarageBand",
+    "backendType": "AthenaGlider",
+    "name": "Hot Ride"
+  },
+  {
+    "id": "Glider_ID_070_DarkViking",
+    "backendType": "AthenaGlider",
+    "name": "Frostwing"
+  },
+  {
+    "id": "Glider_ID_072_Bling",
+    "backendType": "AthenaGlider",
+    "name": "Safecracker"
+  },
+  {
+    "id": "Glider_ID_073_Medic",
+    "backendType": "AthenaGlider",
+    "name": "Airlift"
+  },
+  {
+    "id": "Glider_ID_075_ModernMilitaryRed",
+    "backendType": "AthenaGlider",
+    "name": "Rotor"
+  },
+  {
+    "id": "Glider_ID_077_Octoberfest",
+    "backendType": "AthenaGlider",
+    "name": "Oktoberfeast"
+  },
+  {
+    "id": "Glider_ID_079_RedRiding",
+    "backendType": "AthenaGlider",
+    "name": "Picnic"
+  },
+  {
+    "id": "Glider_ID_081_CowboyGunslinger",
+    "backendType": "AthenaGlider",
+    "name": "Crossfire"
+  },
+  {
+    "id": "Glider_ID_083_DarkBomber",
+    "backendType": "AthenaGlider",
+    "name": "Dark Glyph"
+  },
+  {
+    "id": "Glider_ID_082_Scarecrow",
+    "backendType": "AthenaGlider",
+    "name": "Field Wraith"
+  },
+  {
+    "id": "Glider_ID_085_SkullTrooper",
+    "backendType": "AthenaGlider",
+    "name": "Crypt Cruiser"
+  },
+  {
+    "id": "Glider_ID_087_GuanYu",
+    "backendType": "AthenaGlider",
+    "name": "Divine Dragon"
+  },
+  {
+    "id": "Glider_ID_089_Muertos",
+    "backendType": "AthenaGlider",
+    "name": "Spirit"
+  },
+  {
+    "id": "Glider_ID_091_MadCommander",
+    "backendType": "AthenaGlider",
+    "name": "Junkjet"
+  },
+  {
+    "id": "Glider_ID_092_StreetOps",
+    "backendType": "AthenaGlider",
+    "name": "Pivot"
+  },
+  {
+    "id": "Glider_ID_094_SamuraiUltra",
+    "backendType": "AthenaGlider",
+    "name": "Kabuto"
+  },
+  {
+    "id": "Glider_ID_096_HornedMask",
+    "backendType": "AthenaGlider",
+    "name": "Flying Carp"
+  },
+  {
+    "id": "Glider_ID_095_Witch",
+    "backendType": "AthenaGlider",
+    "name": "Magic Wings"
+  },
+  {
+    "id": "Glider_ID_098_Sup",
+    "backendType": "AthenaGlider",
+    "name": "Hyper"
+  },
+  {
+    "id": "Glider_ID_099_Moth",
+    "backendType": "AthenaGlider",
+    "name": "Flutterbug"
+  },
+  {
+    "id": "Glider_ID_100_Yeti",
+    "backendType": "AthenaGlider",
+    "name": "Rickety Runner"
+  },
+  {
+    "id": "Glider_ID_101_TacticalSanta",
+    "backendType": "AthenaGlider",
+    "name": "Tactical Sleigh"
+  },
+  {
+    "id": "Glider_ID_097_Feathers",
+    "backendType": "AthenaGlider",
+    "name": "Flappy Flyer"
+  },
+  {
+    "id": "Glider_ID_102_Rhino",
+    "backendType": "AthenaGlider",
+    "name": "Fuel"
+  },
+  {
+    "id": "Glider_ID_103_Nautilus",
+    "backendType": "AthenaGlider",
+    "name": "Nautilus"
+  },
+  {
+    "id": "Glider_ID_104_Durrburger",
+    "backendType": "AthenaGlider",
+    "name": "Glidurrr"
+  },
+  {
+    "id": "Glider_ID_105_Gingerbread",
+    "backendType": "AthenaGlider",
+    "name": "Gingersled"
+  },
+  {
+    "id": "Glider_ID_105_SnowBoard",
+    "backendType": "AthenaGlider",
+    "name": "Royale Air"
+  },
+  {
+    "id": "Glider_ID_104_FuzzyBear",
+    "backendType": "AthenaGlider",
+    "name": "Cuddle Cruiser"
+  },
+  {
+    "id": "Glider_ID_106_FortniteDJ",
+    "backendType": "AthenaGlider",
+    "name": "Equalizer"
+  },
+  {
+    "id": "Glider_ID_107_IceMaiden",
+    "backendType": "AthenaGlider",
+    "name": "Crystal Carriage"
+  },
+  {
+    "id": "Glider_ID_108_Krampus",
+    "backendType": "AthenaGlider",
+    "name": "Krampus' Little Helper"
+  },
+  {
+    "id": "Glider_ID_110_TeriyakiFish",
+    "backendType": "AthenaGlider",
+    "name": "Coral Cruiser"
+  },
+  {
+    "id": "Glider_ID_112_TechOps",
+    "backendType": "AthenaGlider",
+    "name": "Coaxial Copter"
+  },
+  {
+    "id": "Glider_ID_113_Barbarian",
+    "backendType": "AthenaGlider",
+    "name": "Tusk"
+  },
+  {
+    "id": "Glider_ID_115_SnowNinja",
+    "backendType": "AthenaGlider",
+    "name": "Snowblades"
+  },
+  {
+    "id": "Glider_ID_114_IceQueen",
+    "backendType": "AthenaGlider",
+    "name": "Winter's Thorn"
+  },
+  {
+    "id": "Glider_ID_117_Warpaint",
+    "backendType": "AthenaGlider",
+    "name": "Wild Streak"
+  },
+  {
+    "id": "Glider_ID_118_Squishy",
+    "backendType": "AthenaGlider",
+    "name": "Mello Rider"
+  },
+  {
+    "id": "Glider_ID_119_ReaperFrozen",
+    "backendType": "AthenaGlider",
+    "name": "Frozen Feathers"
+  },
+  {
+    "id": "Glider_ID_120_IceCream",
+    "backendType": "AthenaGlider",
+    "name": "Ice Cream Cruiser"
+  },
+  {
+    "id": "Glider_ID_121_BriteBomberDeluxe",
+    "backendType": "AthenaGlider",
+    "name": "Brite Blimp"
+  },
+  {
+    "id": "Glider_ID_123_MasterKey",
+    "backendType": "AthenaGlider",
+    "name": "Lockstep"
+  },
+  {
+    "id": "Glider_ID_124_Medusa",
+    "backendType": "AthenaGlider",
+    "name": "Sky Serpents"
+  },
+  {
+    "id": "Glider_ID_125_Bandolier",
+    "backendType": "AthenaGlider",
+    "name": "Choppa"
+  },
+  {
+    "id": "Glider_ID_122_Valentines",
+    "backendType": "AthenaGlider",
+    "name": "Heartspan"
+  },
+  {
+    "id": "Glider_ID_126_Farmer",
+    "backendType": "AthenaGlider",
+    "name": "Crop Duster"
+  },
+  {
+    "id": "Glider_ID_128_BootyBuoy",
+    "backendType": "AthenaGlider",
+    "name": "Booty Buoy"
+  },
+  {
+    "id": "Glider_ID_127_Aztec",
+    "backendType": "AthenaGlider",
+    "name": "Sunrise"
+  },
+  {
+    "id": "Glider_ID_129_FireElf",
+    "backendType": "AthenaGlider",
+    "name": "Cinder"
+  },
+  {
+    "id": "Glider_ID_130_SciOps",
+    "backendType": "AthenaGlider",
+    "name": "Disruptor"
+  },
+  {
+    "id": "Glider_ID_131_SpeedyMidnight",
+    "backendType": "AthenaGlider",
+    "name": "Dark Forerunner"
+  },
+  {
+    "id": "Glider_ID_132_Pirate01Octopus",
+    "backendType": "AthenaGlider",
+    "name": "Plunder"
+  },
+  {
+    "id": "Glider_ID_133_BandageNinja",
+    "backendType": "AthenaGlider",
+    "name": "Falcon"
+  },
+  {
+    "id": "Glider_ID_135_Baseball",
+    "backendType": "AthenaGlider",
+    "name": "Home Run"
+  },
+  {
+    "id": "Glider_ID_136_Bullseye",
+    "backendType": "AthenaGlider",
+    "name": "Targeted"
+  },
+  {
+    "id": "Glider_ID_137_StreetOpsStealth",
+    "backendType": "AthenaGlider",
+    "name": "Stealth Pivot"
+  },
+  {
+    "id": "Glider_ID_138_BomberPlane",
+    "backendType": "AthenaGlider",
+    "name": "Surefire"
+  },
+  {
+    "id": "Glider_ID_139_EarthDay",
+    "backendType": "AthenaGlider",
+    "name": "Globetrotter"
+  },
+  {
+    "id": "Glider_ID_140_ShatterFly",
+    "backendType": "AthenaGlider",
+    "name": "Arcana"
+  },
+  {
+    "id": "Glider_ID_141_AshtonBoardwalk",
+    "backendType": "AthenaGlider",
+    "name": "Avengers Quinjet"
+  },
+  {
+    "id": "Glider_ID_142_AshtonSaltLake",
+    "backendType": "AthenaGlider",
+    "name": "The Milano"
+  },
+  {
+    "id": "Glider_ID_143_BattleSuit",
+    "backendType": "AthenaGlider",
+    "name": "Retaliator"
+  },
+  {
+    "id": "Glider_ID_144_StrawberryPilot",
+    "backendType": "AthenaGlider",
+    "name": "Turbo Spin"
+  },
+  {
+    "id": "Glider_ID_145_StormTracker",
+    "backendType": "AthenaGlider",
+    "name": "Tailwind Twister"
+  },
+  {
+    "id": "Glider_ID_146_Masako",
+    "backendType": "AthenaGlider",
+    "name": "Scarlet Strike"
+  },
+  {
+    "id": "Glider_ID_147_Raptor",
+    "backendType": "AthenaGlider",
+    "name": "Assault Bomber"
+  },
+  {
+    "id": "Glider_ID_148_CyberScavenger",
+    "backendType": "AthenaGlider",
+    "name": "Tech Turbine"
+  },
+  {
+    "id": "Glider_ID_150_TechOpsBlue",
+    "backendType": "AthenaGlider",
+    "name": "Coaxial Blue"
+  },
+  {
+    "id": "Glider_ID_151_StormSoldier",
+    "backendType": "AthenaGlider",
+    "name": "Storm Eye"
+  },
+  {
+    "id": "Glider_ID_152_DemonHunter",
+    "backendType": "AthenaGlider",
+    "name": "Batso"
+  },
+  {
+    "id": "Glider_ID_153_Banner",
+    "backendType": "AthenaGlider",
+    "name": "Custom Cruiser"
+  },
+  {
+    "id": "Glider_ID_154_GlowBroBat",
+    "backendType": "AthenaGlider",
+    "name": "Megabat"
+  },
+  {
+    "id": "Glider_ID_155_Jellyfish",
+    "backendType": "AthenaGlider",
+    "name": "Man O' War"
+  },
+  {
+    "id": "Glider_ID_157_Drift",
+    "backendType": "AthenaGlider",
+    "name": "Driftstream"
+  },
+  {
+    "id": "Glider_ID_159_TechMage",
+    "backendType": "AthenaGlider",
+    "name": "Ion"
+  },
+  {
+    "id": "Glider_ID_160_Anarchy",
+    "backendType": "AthenaGlider",
+    "name": "Chaos"
+  },
+  {
+    "id": "Glider_ID_161_RoseLeader",
+    "backendType": "AthenaGlider",
+    "name": "Rose Rider"
+  },
+  {
+    "id": "Glider_ID_162_BoneWasp",
+    "backendType": "AthenaGlider",
+    "name": "Horned Strike"
+  },
+  {
+    "id": "Glider_ID_163_DJRemix",
+    "backendType": "AthenaGlider",
+    "name": "Master Mix"
+  },
+  {
+    "id": "Glider_ID_164_GraffitiRemix",
+    "backendType": "AthenaGlider",
+    "name": "Spray Sail"
+  },
+  {
+    "id": "Glider_ID_165_KnightRemix",
+    "backendType": "AthenaGlider",
+    "name": "Steelwing"
+  },
+  {
+    "id": "Glider_ID_166_RustLordRemix",
+    "backendType": "AthenaGlider",
+    "name": "Junk Bucket"
+  },
+  {
+    "id": "Glider_ID_167_SparkleRemix",
+    "backendType": "AthenaGlider",
+    "name": "Sparkle Strider"
+  },
+  {
+    "id": "Glider_ID_169_VoyagerRemix",
+    "backendType": "AthenaGlider",
+    "name": "Pixel Pilot"
+  },
+  {
+    "id": "Glider_ID_171_DevilRock",
+    "backendType": "AthenaGlider",
+    "name": "Burning Beast"
+  },
+  {
+    "id": "Glider_ID_172_RaptorBlackOps",
+    "backendType": "AthenaGlider",
+    "name": "Dual Defiant"
+  },
+  {
+    "id": "Glider_ID_168_StreetRacerDriftRemix",
+    "backendType": "AthenaGlider",
+    "name": "Rift Rider"
+  },
+  {
+    "id": "Glider_ID_173_TacticalBiker",
+    "backendType": "AthenaGlider",
+    "name": "Stunt Cycle"
+  },
+  {
+    "id": "Glider_ID_174_SleepyTime",
+    "backendType": "AthenaGlider",
+    "name": "Nite Flight"
+  },
+  {
+    "id": "Glider_ID_175_StreetFashionRed",
+    "backendType": "AthenaGlider",
+    "name": "Sky Stripe"
+  },
+  {
+    "id": "Glider_ID_158_Hairy",
+    "backendType": "AthenaGlider",
+    "name": "Camp Cruiser"
+  },
+  {
+    "id": "Glider_ID_176_BlackMondayCape_4P79K",
+    "backendType": "AthenaGlider",
+    "name": "Batglider"
+  },
+  {
+    "id": "Glider_ID_176_BlackMondayCape_GrapplerAsset",
+    "backendType": "AthenaGlider",
+    "name": "Bat Glider"
+  },
+  {
+    "id": "Glider_ID_177_BlackMondayFemale_HO3A9",
+    "backendType": "AthenaGlider",
+    "name": "Catwing"
+  },
+  {
+    "id": "Glider_ID_178_BlackMondayMale_03M3E",
+    "backendType": "AthenaGlider",
+    "name": "Batwing"
+  },
+  {
+    "id": "Glider_ID_179_CrazyEight",
+    "backendType": "AthenaGlider",
+    "name": "Crazy Eight"
+  },
+  {
+    "id": "Glider_ID_180_NeonGraffiti",
+    "backendType": "AthenaGlider",
+    "name": "Xile"
+  },
+  {
+    "id": "Glider_ID_181_RockClimber",
+    "backendType": "AthenaGlider",
+    "name": "Base Jumper"
+  },
+  {
+    "id": "Glider_ID_182_Sheath",
+    "backendType": "AthenaGlider",
+    "name": "Metalmark"
+  },
+  {
+    "id": "Glider_ID_184_Viper",
+    "backendType": "AthenaGlider",
+    "name": "Fusion Coil"
+  },
+  {
+    "id": "Glider_ID_186_GalileoFerry_48L4V",
+    "backendType": "AthenaGlider",
+    "name": "First Order Tie Fighter"
+  },
+  {
+    "id": "Glider_ID_188_GalileoRocket_G7OKI",
+    "backendType": "AthenaGlider",
+    "name": "Millennium Falcon"
+  },
+  {
+    "id": "Glider_ID_190_NewYears",
+    "backendType": "AthenaGlider",
+    "name": "2020"
+  },
+  {
+    "id": "Glider_ID_191_PineTree",
+    "backendType": "AthenaGlider",
+    "name": "Treefall"
+  },
+  {
+    "id": "Glider_ID_192_Present",
+    "backendType": "AthenaGlider",
+    "name": "Winter Wrapper"
+  },
+  {
+    "id": "Glider_ID_194_Agent",
+    "backendType": "AthenaGlider",
+    "name": "Elite Recon"
+  },
+  {
+    "id": "Glider_ID_195_BuffCatMale",
+    "backendType": "AthenaGlider",
+    "name": "Skellefish"
+  },
+  {
+    "id": "Glider_ID_198_Kaboom",
+    "backendType": "AthenaGlider",
+    "name": "Wild Blast"
+  },
+  {
+    "id": "Glider_ID_199_LlamaHero",
+    "backendType": "AthenaGlider",
+    "name": "Llamacorn Express"
+  },
+  {
+    "id": "Glider_ID_200_PhotographerFemale",
+    "backendType": "AthenaGlider",
+    "name": "Ollie"
+  },
+  {
+    "id": "Glider_ID_202_BananaAgent",
+    "backendType": "AthenaGlider",
+    "name": "Banana Bomber"
+  },
+  {
+    "id": "Glider_ID_203_TwinDarkFemale",
+    "backendType": "AthenaGlider",
+    "name": "Echo Jet"
+  },
+  {
+    "id": "Glider_ID_205_DesertOpsCamo",
+    "backendType": "AthenaGlider",
+    "name": "Custom Flier"
+  },
+  {
+    "id": "Glider_ID_206_Donut",
+    "backendType": "AthenaGlider",
+    "name": "Dragacorn"
+  },
+  {
+    "id": "Glider_ID_208_BadEggMale",
+    "backendType": "AthenaGlider",
+    "name": "Shadow Stalker"
+  },
+  {
+    "id": "Glider_ID_212_AquaJacketMale",
+    "backendType": "AthenaGlider",
+    "name": "Sky Sail"
+  },
+  {
+    "id": "Glider_ID_209_DonutPlate",
+    "backendType": "AthenaGlider",
+    "name": "Psi-Rider"
+  },
+  {
+    "id": "Glider_ID_213_BlackKnightFemale",
+    "backendType": "AthenaGlider",
+    "name": "Blade Raven"
+  },
+  {
+    "id": "Glider_ID_214_GarbageIsland",
+    "backendType": "AthenaGlider",
+    "name": "Dumpster Flier"
+  },
+  {
+    "id": "Glider_ID_217_LongshortsMale",
+    "backendType": "AthenaGlider",
+    "name": "Stratosphere"
+  },
+  {
+    "id": "Glider_ID_219_OceanRiderFemale",
+    "backendType": "AthenaGlider",
+    "name": "Top Sail"
+  },
+  {
+    "id": "Glider_ID_220_ProfessorPup",
+    "backendType": "AthenaGlider",
+    "name": "Fishy Flier"
+  },
+  {
+    "id": "Glider_ID_222_RacerZeroMale",
+    "backendType": "AthenaGlider",
+    "name": "Convergence"
+  },
+  {
+    "id": "Glider_ID_223_SpaceSuit",
+    "backendType": "AthenaGlider",
+    "name": "Star Strider"
+  },
+  {
+    "id": "Glider_ID_225_TacticalScubaMale",
+    "backendType": "AthenaGlider",
+    "name": "Water Wings"
+  },
+  {
+    "id": "Glider_MiG",
+    "backendType": "AthenaGlider",
+    "name": "Raptor"
+  },
+  {
+    "id": "Glider_Prismatic",
+    "backendType": "AthenaGlider",
+    "name": "Prismatic"
+  },
+  {
+    "id": "Glider_ProxyTest",
+    "backendType": "AthenaGlider",
+    "name": "Glider"
+  },
+  {
+    "id": "Glider_Stealth",
+    "backendType": "AthenaGlider",
+    "name": "Stealth"
+  },
+  {
+    "id": "Glider_TestStaticParts",
+    "backendType": "AthenaGlider",
+    "name": "Glider"
+  },
+  {
+    "id": "Glider_Venom",
+    "backendType": "AthenaGlider",
+    "name": "Wasp"
+  },
+  {
+    "id": "Glider_Warthog",
+    "backendType": "AthenaGlider",
+    "name": "Mako"
+  },
+  {
+    "id": "PreSeasonGlider",
+    "backendType": "AthenaGlider",
+    "name": "Rainbow Glider"
+  },
+  {
+    "id": "Solo_Umbrella",
+    "backendType": "AthenaGlider",
+    "name": "The Umbrella"
+  },
+  {
+    "id": "Squad_Umbrella",
+    "backendType": "AthenaGlider",
+    "name": "Squad Umbrella"
+  },
+  {
+    "id": "Umbrella_BuildABrella",
+    "backendType": "AthenaGlider",
+    "name": "Brella"
+  },
+  {
+    "id": "Umbrella_PaperParasol",
+    "backendType": "AthenaGlider",
+    "name": "Paper Parasol"
+  },
+  {
+    "id": "Umbrella_Platinum",
+    "backendType": "AthenaGlider",
+    "name": "The Umbrella"
+  },
+  {
+    "id": "Umbrella_Season_04",
+    "backendType": "AthenaGlider",
+    "name": "Wet Paint"
+  },
+  {
+    "id": "Umbrella_Season_06",
+    "backendType": "AthenaGlider",
+    "name": "Webrella"
+  },
+  {
+    "id": "Umbrella_Season_07",
+    "backendType": "AthenaGlider",
+    "name": "Snowfall"
+  },
+  {
+    "id": "Umbrella_Season_09",
+    "backendType": "AthenaGlider",
+    "name": "Holographic"
+  },
+  {
+    "id": "Umbrella_Season_10",
+    "backendType": "AthenaGlider",
+    "name": "X"
+  },
+  {
+    "id": "Umbrella_Season_12",
+    "backendType": "AthenaGlider",
+    "name": "CLASSIFIED"
+  },
+  {
+    "id": "Umbrella_Season_13",
+    "backendType": "AthenaGlider",
+    "name": "Fortilla Flier"
+  },
+  {
+    "id": "Umbrella_Snowflake",
+    "backendType": "AthenaGlider",
+    "name": "Snowflake"
+  },
+  {
+    "id": "Umbrella_Storm",
+    "backendType": "AthenaGlider",
+    "name": "Storm Sail"
+  },
+  {
+    "id": "Umbrella_Silver",
+    "backendType": "AthenaGlider",
+    "name": "The Umbrella"
+  },
+  {
+    "id": "Umbrella_Season_11",
+    "backendType": "AthenaGlider",
+    "name": "Downpour"
+  },
+  {
+    "id": "Umbrella_Season_08",
+    "backendType": "AthenaGlider",
+    "name": "Palm Leaf"
+  },
+  {
+    "id": "Umbrella_Gold",
+    "backendType": "AthenaGlider",
+    "name": "The Umbrella"
+  },
+  {
+    "id": "Umbrella_Season_05",
+    "backendType": "AthenaGlider",
+    "name": "Beach Umbrella"
+  },
+  {
+    "id": "Umbrella_Bronze",
+    "backendType": "AthenaGlider",
+    "name": "The Umbrella"
+  },
+  {
+    "id": "Umbrella_AssassinSuit",
+    "backendType": "AthenaGlider",
+    "name": "One Shot"
+  },
+  {
+    "id": "PreSeasonGlider_Elite",
+    "backendType": "AthenaGlider",
+    "name": "Rainbow Glider Elite"
+  },
+  {
+    "id": "Glider_Voyager",
+    "backendType": "AthenaGlider",
+    "name": "Voyager"
+  },
+  {
+    "id": "Glider_RoadTrip",
+    "backendType": "AthenaGlider",
+    "name": "Roadtrip"
+  },
+  {
+    "id": "Glider_Military",
+    "backendType": "AthenaGlider",
+    "name": "Warthog"
+  },
+  {
+    "id": "Glider_ID_224_SpaceWandererFemale",
+    "backendType": "AthenaGlider",
+    "name": "Comet Crasher"
+  },
+  {
+    "id": "Glider_ID_221_PythonFemale",
+    "backendType": "AthenaGlider",
+    "name": "Sky Serpent"
+  },
+  {
+    "id": "Glider_ID_218_MechanicalEngineerFemale",
+    "backendType": "AthenaGlider",
+    "name": "Ohm"
+  },
+  {
+    "id": "Glider_ID_210_GraffitiAssassinFemale",
+    "backendType": "AthenaGlider",
+    "name": "Stealth Stinger"
+  },
+  {
+    "id": "Glider_ID_207_InformerMale",
+    "backendType": "AthenaGlider",
+    "name": "Flux Flier"
+  },
+  {
+    "id": "Glider_ID_204_CardboardCrew",
+    "backendType": "AthenaGlider",
+    "name": "Pop Dropper"
+  },
+  {
+    "id": "Glider_ID_201_TNTinaFemale",
+    "backendType": "AthenaGlider",
+    "name": "Bombs Away!"
+  },
+  {
+    "id": "Glider_ID_197_HenchmanMale",
+    "backendType": "AthenaGlider",
+    "name": "Big Haul"
+  },
+  {
+    "id": "Glider_ID_196_CycloneMale",
+    "backendType": "AthenaGlider",
+    "name": "Astroworld Cyclone"
+  },
+  {
+    "id": "Glider_ID_193_TheGoldenSkeleton",
+    "backendType": "AthenaGlider",
+    "name": "Skellon"
+  },
+  {
+    "id": "Glider_ID_189_GalileoZeppelinFemale_353IC",
+    "backendType": "AthenaGlider",
+    "name": "Y-Wing"
+  },
+  {
+    "id": "Glider_ID_187_GalileoKayak_Q8THV",
+    "backendType": "AthenaGlider",
+    "name": "TIE Whisper"
+  },
+  {
+    "id": "Glider_ID_183_TacticalFisherman",
+    "backendType": "AthenaGlider",
+    "name": "Sky Trawler"
+  },
+  {
+    "id": "Glider_ID_185_Nosh",
+    "backendType": "AthenaGlider",
+    "name": "Goo Glider"
+  },
+  {
+    "id": "Glider_ID_156_SummerBomber",
+    "backendType": "AthenaGlider",
+    "name": "Payload"
+  },
+  {
+    "id": "Glider_ID_149_Geisha",
+    "backendType": "AthenaGlider",
+    "name": "Engage"
+  },
+  {
+    "id": "Glider_ID_134_DarkVikingFire",
+    "backendType": "AthenaGlider",
+    "name": "Lavawing"
+  },
+  {
+    "id": "Glider_ID_116_PizzaPit",
+    "backendType": "AthenaGlider",
+    "name": "Extra Cheese"
+  },
+  {
+    "id": "Glider_ID_109_StreetGoth",
+    "backendType": "AthenaGlider",
+    "name": "Equilibrium"
+  },
+  {
+    "id": "Glider_ID_111_MilitaryFashion",
+    "backendType": "AthenaGlider",
+    "name": "Diverge"
+  },
+  {
+    "id": "Glider_ID_104_Math",
+    "backendType": "AthenaGlider",
+    "name": "Paper Plane"
+  },
+  {
+    "id": "Glider_ID_093_AnimalJackets",
+    "backendType": "AthenaGlider",
+    "name": "Poofy Parasail"
+  },
+  {
+    "id": "Glider_ID_090_Celestial",
+    "backendType": "AthenaGlider",
+    "name": "Discovery"
+  },
+  {
+    "id": "Glider_ID_088_EvilCowboy",
+    "backendType": "AthenaGlider",
+    "name": "Dark Engine"
+  },
+  {
+    "id": "Glider_ID_086_BlackWidow",
+    "backendType": "AthenaGlider",
+    "name": "Hatchling"
+  },
+  {
+    "id": "Glider_ID_084_Plague",
+    "backendType": "AthenaGlider",
+    "name": "Lamplight"
+  },
+  {
+    "id": "Glider_ID_080_PrairiePusher",
+    "backendType": "AthenaGlider",
+    "name": "Covered Crusader"
+  },
+  {
+    "id": "Glider_ID_078_Vampire",
+    "backendType": "AthenaGlider",
+    "name": "Swarm"
+  },
+  {
+    "id": "Glider_ID_076_DieselPunk",
+    "backendType": "AthenaGlider",
+    "name": "Dirigible"
+  },
+  {
+    "id": "Glider_ID_074_RaptorArcticCamo",
+    "backendType": "AthenaGlider",
+    "name": "Cold Front"
+  },
+  {
+    "id": "Glider_ID_069_Hacivat",
+    "backendType": "AthenaGlider",
+    "name": "Shadow Puppet"
+  },
+  {
+    "id": "Glider_ID_071_Football",
+    "backendType": "AthenaGlider",
+    "name": "Touchdown"
+  },
+  {
+    "id": "Glider_ID_067_PSBurnout",
+    "backendType": "AthenaGlider",
+    "name": "Flappy"
+  },
+  {
+    "id": "Glider_ID_064_Biker",
+    "backendType": "AthenaGlider",
+    "name": "Blaze"
+  },
+  {
+    "id": "Glider_ID_060_Exercise",
+    "backendType": "AthenaGlider",
+    "name": "Windbreaker"
+  },
+  {
+    "id": "Glider_ID_062_StreetRacerWhite",
+    "backendType": "AthenaGlider",
+    "name": "White Squall"
+  },
+  {
+    "id": "Glider_ID_056_CarbideWhite",
+    "backendType": "AthenaGlider",
+    "name": "Aurora"
+  },
+  {
+    "id": "Glider_ID_058_Shark",
+    "backendType": "AthenaGlider",
+    "name": "Laser Chomp"
+  },
+  {
+    "id": "Glider_ID_053_Huya",
+    "backendType": "AthenaGlider",
+    "name": "Rush"
+  },
+  {
+    "id": "Glider_ID_051_Luchador",
+    "backendType": "AthenaGlider",
+    "name": "Libre"
+  },
+  {
+    "id": "Glider_ID_048_Viking",
+    "backendType": "AthenaGlider",
+    "name": "Conquest"
+  },
+  {
+    "id": "Glider_ID_043_DarkNinja",
+    "backendType": "AthenaGlider",
+    "name": "Split Wing"
+  },
+  {
+    "id": "Glider_ID_040_Jailbird",
+    "backendType": "AthenaGlider",
+    "name": "Starry Flight"
+  },
+  {
+    "id": "Glider_ID_046_Gumshoe",
+    "backendType": "AthenaGlider",
+    "name": "Viceroy Mark I"
+  },
+  {
+    "id": "Glider_ID_041_Basketball",
+    "backendType": "AthenaGlider",
+    "name": "Hang Time"
+  },
+  {
+    "id": "Glider_ID_037_Hazmat",
+    "backendType": "AthenaGlider",
+    "name": "Meltdown"
+  },
+  {
+    "id": "Glider_ID_034_CarbideBlue",
+    "backendType": "AthenaGlider",
+    "name": "Intrepid"
+  },
+  {
+    "id": "Glider_ID_030_CircuitBreaker",
+    "backendType": "AthenaGlider",
+    "name": "Mainframe"
+  },
+  {
+    "id": "Glider_ID_026_ShuttleB",
+    "backendType": "AthenaGlider",
+    "name": "Deep Space Lander"
+  },
+  {
+    "id": "Glider_ID_024_Reaper",
+    "backendType": "AthenaGlider",
+    "name": "Feathered Flyer"
+  },
+  {
+    "id": "Glider_ID_021_Scavenger",
+    "backendType": "AthenaGlider",
+    "name": "Rusty Rider"
+  },
+  {
+    "id": "Glider_ID_020_Fighter",
+    "backendType": "AthenaGlider",
+    "name": "Fighter Kite"
+  },
+  {
+    "id": "Glider_ID_018_Twitch",
+    "backendType": "AthenaGlider",
+    "name": "Slipstream"
+  },
+  {
+    "id": "Glider_ID_015_Brite",
+    "backendType": "AthenaGlider",
+    "name": "Rainbow Rider"
+  },
+  {
+    "id": "Glider_ID_013_PSBlue",
+    "backendType": "AthenaGlider",
+    "name": "Blue Streak"
+  },
+  {
+    "id": "Glider_ID_011_JollyRoger",
+    "backendType": "AthenaGlider",
+    "name": "Jolly Roger"
+  },
+  {
+    "id": "Glider_ID_008_Graffiti",
+    "backendType": "AthenaGlider",
+    "name": "Zephyr"
+  },
+  {
+    "id": "Glider_ID_005_HolidaySweater",
+    "backendType": "AthenaGlider",
+    "name": "Cozy Coaster"
+  },
+  {
+    "id": "Glider_ID_002_Medieval",
+    "backendType": "AthenaGlider",
+    "name": "Sir Glider the Brave"
+  },
+  {
+    "id": "Glider_Flames",
+    "backendType": "AthenaGlider",
+    "name": "Hot Rod"
+  },
+  {
+    "id": "FounderGlider",
+    "backendType": "AthenaGlider",
+    "name": "Founder's Glider"
+  },
+  {
+    "id": "Glider_FlowerPOwer",
+    "backendType": "AthenaGlider",
+    "name": "Petunia"
+  },
+  {
+    "id": "MusicPack_Random",
+    "backendType": "AthenaMusicPack",
+    "name": "Random"
+  },
+  {
+    "id": "MusicPack_000_Default",
+    "backendType": "AthenaMusicPack",
+    "name": "TBD"
+  },
+  {
+    "id": "MusicPack_001_Floss",
+    "backendType": "AthenaMusicPack",
+    "name": "Squeaky Clean"
+  },
+  {
+    "id": "MusicPack_002_Spooky",
+    "backendType": "AthenaMusicPack",
+    "name": "Eerie"
+  },
+  {
+    "id": "MusicPack_004_Holiday",
+    "backendType": "AthenaMusicPack",
+    "name": "Festive"
+  },
+  {
+    "id": "MusicPack_006_Twist",
+    "backendType": "AthenaMusicPack",
+    "name": "Twist"
+  },
+  {
+    "id": "MusicPack_007_Pirate",
+    "backendType": "AthenaMusicPack",
+    "name": "Ahoy!"
+  },
+  {
+    "id": "MusicPack_010_RunningMan",
+    "backendType": "AthenaMusicPack",
+    "name": "Marathon"
+  },
+  {
+    "id": "MusicPack_011_GetFunky",
+    "backendType": "AthenaMusicPack",
+    "name": "Get funky"
+  },
+  {
+    "id": "MusicPack_013_RoboTrack",
+    "backendType": "AthenaMusicPack",
+    "name": "Afterburner"
+  },
+  {
+    "id": "MusicPack_014_S9Cine",
+    "backendType": "AthenaMusicPack",
+    "name": "Neo World"
+  },
+  {
+    "id": "MusicPack_016_WorldCup",
+    "backendType": "AthenaMusicPack",
+    "name": "Winner's Circle"
+  },
+  {
+    "id": "MusicPack_018_Glitter",
+    "backendType": "AthenaMusicPack",
+    "name": "Sparkles"
+  },
+  {
+    "id": "MusicPack_019_Birthday2019",
+    "backendType": "AthenaMusicPack",
+    "name": "B-Day Beats"
+  },
+  {
+    "id": "MusicPack_022_DayDream",
+    "backendType": "AthenaMusicPack",
+    "name": "Sweet Dreams"
+  },
+  {
+    "id": "MusicPack_024_Showdown",
+    "backendType": "AthenaMusicPack",
+    "name": "The Final Showdown"
+  },
+  {
+    "id": "MusicPack_026_LasagnaChill",
+    "backendType": "AthenaMusicPack",
+    "name": "Default Vibe"
+  },
+  {
+    "id": "MusicPack_030_BlackMonday_X91ZH",
+    "backendType": "AthenaMusicPack",
+    "name": "Caped Crusader"
+  },
+  {
+    "id": "MusicPack_027_LasagnaDope",
+    "backendType": "AthenaMusicPack",
+    "name": "Default Fire"
+  },
+  {
+    "id": "MusicPack_031_ChipTune",
+    "backendType": "AthenaMusicPack",
+    "name": "8-bit Beat"
+  },
+  {
+    "id": "MusicPack_033_RockOut",
+    "backendType": "AthenaMusicPack",
+    "name": "Storm Shredder"
+  },
+  {
+    "id": "MusicPack_034_SXRocketEvent",
+    "backendType": "AthenaMusicPack",
+    "name": "The End"
+  },
+  {
+    "id": "MusicPack_035_BattleBreakers",
+    "backendType": "AthenaMusicPack",
+    "name": "Battle Breakers"
+  },
+  {
+    "id": "MusicPack_036_Storm",
+    "backendType": "AthenaMusicPack",
+    "name": "Storm King"
+  },
+  {
+    "id": "MusicPack_038_Crackdown",
+    "backendType": "AthenaMusicPack",
+    "name": "The Crackdown"
+  },
+  {
+    "id": "MusicPack_039_Envy",
+    "backendType": "AthenaMusicPack",
+    "name": "Unreal Chill"
+  },
+  {
+    "id": "MusicPack_041_Slick",
+    "backendType": "AthenaMusicPack",
+    "name": "Mellow Days"
+  },
+  {
+    "id": "MusicPack_043_Overdrive",
+    "backendType": "AthenaMusicPack",
+    "name": "Limitless"
+  },
+  {
+    "id": "MusicPack_045_Carnaval",
+    "backendType": "AthenaMusicPack",
+    "name": "Sunny Samba"
+  },
+  {
+    "id": "MusicPack_046_Paws",
+    "backendType": "AthenaMusicPack",
+    "name": "I'm A Cat"
+  },
+  {
+    "id": "MusicPack_048_SpyRemix",
+    "backendType": "AthenaMusicPack",
+    "name": "Subterfuge"
+  },
+  {
+    "id": "MusicPack_051_Headbanger",
+    "backendType": "AthenaMusicPack",
+    "name": "Banger"
+  },
+  {
+    "id": "MusicPack_052_S13Cine",
+    "backendType": "AthenaMusicPack",
+    "name": "Shark Ride"
+  },
+  {
+    "id": "MusicPack_050_BillyBounce",
+    "backendType": "AthenaMusicPack",
+    "name": "Billy Listen"
+  },
+  {
+    "id": "MusicPack_049_BalletSpinRemix",
+    "backendType": "AthenaMusicPack",
+    "name": "Prima Remix"
+  },
+  {
+    "id": "MusicPack_044_S12Cine",
+    "backendType": "AthenaMusicPack",
+    "name": "Spies!"
+  },
+  {
+    "id": "MusicPack_047_FreestylinClubRemix",
+    "backendType": "AthenaMusicPack",
+    "name": "Freestylin' Remix"
+  },
+  {
+    "id": "MusicPack_042_BunnyHop",
+    "backendType": "AthenaMusicPack",
+    "name": "Bunny Bounce"
+  },
+  {
+    "id": "MusicPack_040_XmasChipTunes",
+    "backendType": "AthenaMusicPack",
+    "name": "Merry Chipmas"
+  },
+  {
+    "id": "MusicPack_037_Extraterrestrial",
+    "backendType": "AthenaMusicPack",
+    "name": "Space Groove"
+  },
+  {
+    "id": "MusicPack_034_SXRocketEventRaisin",
+    "backendType": "AthenaMusicPack",
+    "name": "The End"
+  },
+  {
+    "id": "MusicPack_029_Wiggle",
+    "backendType": "AthenaMusicPack",
+    "name": "Wiggle Wild"
+  },
+  {
+    "id": "MusicPack_032_GrooveJam",
+    "backendType": "AthenaMusicPack",
+    "name": "Solid Groove"
+  },
+  {
+    "id": "MusicPack_028_LlamaBell",
+    "backendType": "AthenaMusicPack",
+    "name": "Llama Beat"
+  },
+  {
+    "id": "MusicPack_023_OG",
+    "backendType": "AthenaMusicPack",
+    "name": "OG (Classic)"
+  },
+  {
+    "id": "MusicPack_025_MakeItRain",
+    "backendType": "AthenaMusicPack",
+    "name": "Rainy Days"
+  },
+  {
+    "id": "MusicPack_020_BunkerJam",
+    "backendType": "AthenaMusicPack",
+    "name": "Best Buds"
+  },
+  {
+    "id": "MusicPack_017_PhoneItIn",
+    "backendType": "AthenaMusicPack",
+    "name": "Saxy Groove"
+  },
+  {
+    "id": "MusicPack_013_RoboTrackRaisin",
+    "backendType": "AthenaMusicPack",
+    "name": "Afterburner"
+  },
+  {
+    "id": "MusicPack_015_GoodVibes",
+    "backendType": "AthenaMusicPack",
+    "name": "Justice"
+  },
+  {
+    "id": "MusicPack_012_ElectroSwing",
+    "backendType": "AthenaMusicPack",
+    "name": "Electro-fied!"
+  },
+  {
+    "id": "MusicPack_009_StarPower",
+    "backendType": "AthenaMusicPack",
+    "name": "Star Power"
+  },
+  {
+    "id": "MusicPack_008_Coral",
+    "backendType": "AthenaMusicPack",
+    "name": "Coral Chorus"
+  },
+  {
+    "id": "MusicPack_005_Disco",
+    "backendType": "AthenaMusicPack",
+    "name": "Disco"
+  },
+  {
+    "id": "MusicPack_003_OGRemix",
+    "backendType": "AthenaMusicPack",
+    "name": "OG (Remix)"
+  },
+  {
+    "id": "Pickaxe_Random",
+    "backendType": "AthenaPickaxe",
+    "name": "Random"
+  },
+  {
+    "id": "DefaultPickaxe",
+    "backendType": "AthenaPickaxe",
+    "name": "Default Pickaxe"
+  },
+  {
+    "id": "Dev_Test_Pickaxe",
+    "backendType": "AthenaPickaxe",
+    "name": "Test Pickaxe"
+  },
+  {
+    "id": "HalloweenScythe",
+    "backendType": "AthenaPickaxe",
+    "name": "Reaper"
+  },
+  {
+    "id": "Pickaxe_Deathvalley",
+    "backendType": "AthenaPickaxe",
+    "name": "Death Valley"
+  },
+  {
+    "id": "Pickaxe_Flamingo",
+    "backendType": "AthenaPickaxe",
+    "name": "Pink Flamingo"
+  },
+  {
+    "id": "Pickaxe_ID_012_District",
+    "backendType": "AthenaPickaxe",
+    "name": "Pulse Axe"
+  },
+  {
+    "id": "Pickaxe_ID_013_Teslacoil",
+    "backendType": "AthenaPickaxe",
+    "name": "AC/DC"
+  },
+  {
+    "id": "Pickaxe_ID_016_Disco",
+    "backendType": "AthenaPickaxe",
+    "name": "Disco Brawl"
+  },
+  {
+    "id": "Pickaxe_ID_014_WinterCamo",
+    "backendType": "AthenaPickaxe",
+    "name": "Ice Breaker"
+  },
+  {
+    "id": "Pickaxe_ID_018_Anchor",
+    "backendType": "AthenaPickaxe",
+    "name": "Bottom Feeder"
+  },
+  {
+    "id": "Pickaxe_ID_015_HolidayCandyCane",
+    "backendType": "AthenaPickaxe",
+    "name": "Candy Axe"
+  },
+  {
+    "id": "Pickaxe_ID_020_Keg",
+    "backendType": "AthenaPickaxe",
+    "name": "Party Animal"
+  },
+  {
+    "id": "Pickaxe_ID_021_Megalodon",
+    "backendType": "AthenaPickaxe",
+    "name": "Tooth Pick"
+  },
+  {
+    "id": "Pickaxe_ID_022_HolidayGiftWrap",
+    "backendType": "AthenaPickaxe",
+    "name": "You Shouldn't Have!"
+  },
+  {
+    "id": "Pickaxe_ID_024_Plunger",
+    "backendType": "AthenaPickaxe",
+    "name": "Plunja"
+  },
+  {
+    "id": "Pickaxe_ID_026_Brite",
+    "backendType": "AthenaPickaxe",
+    "name": "Rainbow Smash"
+  },
+  {
+    "id": "Pickaxe_ID_029_Assassin",
+    "backendType": "AthenaPickaxe",
+    "name": "Trusty No. 2"
+  },
+  {
+    "id": "Pickaxe_ID_031_Squeak",
+    "backendType": "AthenaPickaxe",
+    "name": "Pick Squeak"
+  },
+  {
+    "id": "Pickaxe_ID_034_RockerPunk",
+    "backendType": "AthenaPickaxe",
+    "name": "Anarchy Axe"
+  },
+  {
+    "id": "Pickaxe_ID_037_Stealth",
+    "backendType": "AthenaPickaxe",
+    "name": "Spectre"
+  },
+  {
+    "id": "Pickaxe_ID_039_TacticalBlack",
+    "backendType": "AthenaPickaxe",
+    "name": "Instigator"
+  },
+  {
+    "id": "Pickaxe_ID_041_PajamaParty",
+    "backendType": "AthenaPickaxe",
+    "name": "Bitemark"
+  },
+  {
+    "id": "Pickaxe_ID_043_OrbitingPlanets",
+    "backendType": "AthenaPickaxe",
+    "name": "Global Axe"
+  },
+  {
+    "id": "Pickaxe_ID_046_Candy",
+    "backendType": "AthenaPickaxe",
+    "name": "Lollipopper"
+  },
+  {
+    "id": "Pickaxe_ID_048_CarbideBlack",
+    "backendType": "AthenaPickaxe",
+    "name": "Onslaught"
+  },
+  {
+    "id": "Pickaxe_ID_052_Hazmat",
+    "backendType": "AthenaPickaxe",
+    "name": "Autocleave"
+  },
+  {
+    "id": "Pickaxe_ID_050_Graffiti",
+    "backendType": "AthenaPickaxe",
+    "name": "Renegade Roller"
+  },
+  {
+    "id": "Pickaxe_ID_055_Stop",
+    "backendType": "AthenaPickaxe",
+    "name": "Stop Axe"
+  },
+  {
+    "id": "Pickaxe_ID_057_Jailbird",
+    "backendType": "AthenaPickaxe",
+    "name": "Nite Owl"
+  },
+  {
+    "id": "Pickaxe_ID_058_Basketball",
+    "backendType": "AthenaPickaxe",
+    "name": "Slam Dunk"
+  },
+  {
+    "id": "Pickaxe_ID_060_DarkNinja",
+    "backendType": "AthenaPickaxe",
+    "name": "Fated Frame"
+  },
+  {
+    "id": "Pickaxe_ID_063_Vuvuzela",
+    "backendType": "AthenaPickaxe",
+    "name": "Vuvuzela"
+  },
+  {
+    "id": "Pickaxe_ID_066_FlintlockRed",
+    "backendType": "AthenaPickaxe",
+    "name": "Crimson Axe"
+  },
+  {
+    "id": "Pickaxe_ID_068_Drift",
+    "backendType": "AthenaPickaxe",
+    "name": "Rift Edge"
+  },
+  {
+    "id": "Pickaxe_ID_070_Viking",
+    "backendType": "AthenaPickaxe",
+    "name": "Forebearer"
+  },
+  {
+    "id": "Pickaxe_ID_074_SharpDresser",
+    "backendType": "AthenaPickaxe",
+    "name": "Studded Axe"
+  },
+  {
+    "id": "Pickaxe_ID_072_Luchador",
+    "backendType": "AthenaPickaxe",
+    "name": "Piledriver"
+  },
+  {
+    "id": "Pickaxe_ID_077_CarbideWhite",
+    "backendType": "AthenaPicka
+    [
+  {
+    "id": "BID_Random",
+    "backendType": "AthenaBackpack",
+    "name": "Random"
+  },
+  {
+    "id": "BID_STWHeroNoDefaultBackpack",
+    "backendType": "AthenaBackpack",
+    "name": "Hero"
+  },
+  {
+    "id": "BID_STWHero",
+    "backendType": "AthenaBackpack",
+    "name": "Hero"
+  },
+  {
+    "id": "BID_001_BlueSquire",
+    "backendType": "AthenaBackpack",
+    "name": "Squire Shield"
+  },
+  {
+    "id": "BID_002_RoyaleKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Royale Shield"
+  },
+  {
+    "id": "BID_005_Raptor",
+    "backendType": "AthenaBackpack",
+    "name": "Raptor Satchel"
+  },
+  {
+    "id": "BID_007_SkiDude_USA",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (USA)"
+  },
+  {
+    "id": "BID_009_SkiDude_GBR",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (GBR)"
+  },
+  {
+    "id": "BID_011_SkiDude_GER",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (GER)"
+  },
+  {
+    "id": "BID_013_SkiDude_KOR",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (KOR)"
+  },
+  {
+    "id": "BID_015_SkiGirl_USA",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (USA)"
+  },
+  {
+    "id": "BID_017_SkiGirl_GBR",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (GBR)"
+  },
+  {
+    "id": "BID_020_SkiGirl_CHN",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (CHN)"
+  },
+  {
+    "id": "BID_025_Tactical",
+    "backendType": "AthenaBackpack",
+    "name": "Precision"
+  },
+  {
+    "id": "BID_023_Pinkbear",
+    "backendType": "AthenaBackpack",
+    "name": "Cuddle Bow"
+  },
+  {
+    "id": "BID_026_Brite",
+    "backendType": "AthenaBackpack",
+    "name": "Brite Bag"
+  },
+  {
+    "id": "BID_028_SpaceBlack",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Matter"
+  },
+  {
+    "id": "BID_029_RetroGrey",
+    "backendType": "AthenaBackpack",
+    "name": "Backup Plan"
+  },
+  {
+    "id": "BID_032_FounderMale",
+    "backendType": "AthenaBackpack",
+    "name": "Pursuit"
+  },
+  {
+    "id": "BID_036_Raven",
+    "backendType": "AthenaBackpack",
+    "name": "Iron Cage"
+  },
+  {
+    "id": "BID_034_RockerPunk",
+    "backendType": "AthenaBackpack",
+    "name": "Six String"
+  },
+  {
+    "id": "BID_038_BunnyFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Eggshell"
+  },
+  {
+    "id": "BID_040_Wukong",
+    "backendType": "AthenaBackpack",
+    "name": "Royale Flags"
+  },
+  {
+    "id": "BID_042_Fishhead",
+    "backendType": "AthenaBackpack",
+    "name": "Fish Tank"
+  },
+  {
+    "id": "BID_044_Robo",
+    "backendType": "AthenaBackpack",
+    "name": "Steelcast"
+  },
+  {
+    "id": "BID_048_Graffiti",
+    "backendType": "AthenaBackpack",
+    "name": "Tag Bag"
+  },
+  {
+    "id": "BID_052_HazmatFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Contagion"
+  },
+  {
+    "id": "BID_051_Merman",
+    "backendType": "AthenaBackpack",
+    "name": "Mertank"
+  },
+  {
+    "id": "BID_054_JailbirdFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Burgle Bag"
+  },
+  {
+    "id": "BID_057_Visitor",
+    "backendType": "AthenaBackpack",
+    "name": "Offworld Rig"
+  },
+  {
+    "id": "BID_060_DarkNinja",
+    "backendType": "AthenaBackpack",
+    "name": "Ominous Orb"
+  },
+  {
+    "id": "BID_062_Gumshoe",
+    "backendType": "AthenaBackpack",
+    "name": "Evidence Bag"
+  },
+  {
+    "id": "BID_064_FuzzyBearInd",
+    "backendType": "AthenaBackpack",
+    "name": "Blasting Cap"
+  },
+  {
+    "id": "BID_067_GumshoeFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Confidential Case"
+  },
+  {
+    "id": "BID_069_DecoMale",
+    "backendType": "AthenaBackpack",
+    "name": "Venturion Cape"
+  },
+  {
+    "id": "BID_070_DecoFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ventura Cape"
+  },
+  {
+    "id": "BID_071_VikingFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Rearguard"
+  },
+  {
+    "id": "BID_073_DarkViking",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Shroud"
+  },
+  {
+    "id": "BID_074_LifeguardFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Pool Party"
+  },
+  {
+    "id": "BID_076_Shark",
+    "backendType": "AthenaBackpack",
+    "name": "Shark Fin"
+  },
+  {
+    "id": "BID_072_VikingMale",
+    "backendType": "AthenaBackpack",
+    "name": "Enduring Cape"
+  },
+  {
+    "id": "BID_077_WeGame",
+    "backendType": "AthenaBackpack",
+    "name": "Insignia"
+  },
+  {
+    "id": "BID_081_ScubaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Diving Tank"
+  },
+  {
+    "id": "BID_082_ScubaFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Air Tank"
+  },
+  {
+    "id": "BID_083_LifeguardMale",
+    "backendType": "AthenaBackpack",
+    "name": "Rescue Ring"
+  },
+  {
+    "id": "BID_084_Birthday2018",
+    "backendType": "AthenaBackpack",
+    "name": "Birthday Cake"
+  },
+  {
+    "id": "BID_085_ModernMilitary",
+    "backendType": "AthenaBackpack",
+    "name": "Paradigm"
+  },
+  {
+    "id": "BID_087_ExerciseMale",
+    "backendType": "AthenaBackpack",
+    "name": "Boombox"
+  },
+  {
+    "id": "BID_088_SushiChefMale",
+    "backendType": "AthenaBackpack",
+    "name": "Chef's Choice"
+  },
+  {
+    "id": "BID_089_StreetRacerWhiteFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ignition"
+  },
+  {
+    "id": "BID_090_StreetRacerWhiteMale",
+    "backendType": "AthenaBackpack",
+    "name": "Lane Splitter"
+  },
+  {
+    "id": "BID_091_DurrrBurgerHero",
+    "backendType": "AthenaBackpack",
+    "name": "Deep Fried"
+  },
+  {
+    "id": "BID_092_FuzzyBearPanda",
+    "backendType": "AthenaBackpack",
+    "name": "Bamboo"
+  },
+  {
+    "id": "BID_093_HippieMale",
+    "backendType": "AthenaBackpack",
+    "name": "Summer Strummer"
+  },
+  {
+    "id": "BID_094_HippieFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Hip Shakers"
+  },
+  {
+    "id": "BID_096_BikerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Road Ready"
+  },
+  {
+    "id": "BID_097_BikerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Road Flair"
+  },
+  {
+    "id": "BID_098_BlueSamuraiMale",
+    "backendType": "AthenaBackpack",
+    "name": "Sashimono"
+  },
+  {
+    "id": "BID_100_DarkPaintballer",
+    "backendType": "AthenaBackpack",
+    "name": "Subjugator"
+  },
+  {
+    "id": "BID_101_BlingFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Swag Bag"
+  },
+  {
+    "id": "BID_102_Buckles",
+    "backendType": "AthenaBackpack",
+    "name": "Buckled"
+  },
+  {
+    "id": "BID_103_Clawed",
+    "backendType": "AthenaBackpack",
+    "name": "Slashed"
+  },
+  {
+    "id": "BID_104_YellowZip",
+    "backendType": "AthenaBackpack",
+    "name": "Vintage"
+  },
+  {
+    "id": "BID_105_GhostPortal",
+    "backendType": "AthenaBackpack",
+    "name": "Ghost Portal"
+  },
+  {
+    "id": "BID_106_GarageBandMale",
+    "backendType": "AthenaBackpack",
+    "name": "Kick Drum"
+  },
+  {
+    "id": "BID_108_Blingmale",
+    "backendType": "AthenaBackpack",
+    "name": "Cuff Case"
+  },
+  {
+    "id": "BID_109_MedicMale",
+    "backendType": "AthenaBackpack",
+    "name": "Care Package"
+  },
+  {
+    "id": "BID_107_GarageBandFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Keytar"
+  },
+  {
+    "id": "BID_110_MedicFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Gurney Gear"
+  },
+  {
+    "id": "BID_112_ClownMale",
+    "backendType": "AthenaBackpack",
+    "name": "Balloon Llama"
+  },
+  {
+    "id": "BID_113_DarkVikingFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Valkyrie Wings"
+  },
+  {
+    "id": "BID_111_ClownFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Battle Balloon"
+  },
+  {
+    "id": "BID_114_ModernMilitaryRed",
+    "backendType": "AthenaBackpack",
+    "name": "Telemetry"
+  },
+  {
+    "id": "BID_115_DieselpunkMale",
+    "backendType": "AthenaBackpack",
+    "name": "Para-Provisions"
+  },
+  {
+    "id": "BID_117_OctoberfestMale",
+    "backendType": "AthenaBackpack",
+    "name": "Clockworks"
+  },
+  {
+    "id": "BID_119_VampireFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dusk Wings"
+  },
+  {
+    "id": "BID_120_Werewolf",
+    "backendType": "AthenaBackpack",
+    "name": "Wolfpack"
+  },
+  {
+    "id": "BID_121_RedRiding",
+    "backendType": "AthenaBackpack",
+    "name": "Fabled Cape"
+  },
+  {
+    "id": "BID_123_FortniteDJ",
+    "backendType": "AthenaBackpack",
+    "name": "Waveform"
+  },
+  {
+    "id": "BID_122_HalloweenTomato",
+    "backendType": "AthenaBackpack",
+    "name": "Night Cloak"
+  },
+  {
+    "id": "BID_124_ScarecrowMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hay Nest"
+  },
+  {
+    "id": "BID_125_ScarecrowFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Birdhovel"
+  },
+  {
+    "id": "BID_127_PlagueMale",
+    "backendType": "AthenaBackpack",
+    "name": "Dismal Cape"
+  },
+  {
+    "id": "BID_126_DarkBomber",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Bag"
+  },
+  {
+    "id": "BID_128_PlagueFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Arcanum"
+  },
+  {
+    "id": "BID_130_VampireMale02",
+    "backendType": "AthenaBackpack",
+    "name": "Coven Cape"
+  },
+  {
+    "id": "BID_131_BlackWidowfemale",
+    "backendType": "AthenaBackpack",
+    "name": "Long Legs"
+  },
+  {
+    "id": "BID_132_BlackWidowMale",
+    "backendType": "AthenaBackpack",
+    "name": "Spider Shield"
+  },
+  {
+    "id": "BID_133_GuanYu",
+    "backendType": "AthenaBackpack",
+    "name": "Loyal Shield"
+  },
+  {
+    "id": "BID_134_MilitaryFashion",
+    "backendType": "AthenaBackpack",
+    "name": "Top Notch"
+  },
+  {
+    "id": "BID_136_MuertosMale",
+    "backendType": "AthenaBackpack",
+    "name": "Spirit Cape"
+  },
+  {
+    "id": "BID_137_EvilCowboy",
+    "backendType": "AthenaBackpack",
+    "name": "Shackled Stone"
+  },
+  {
+    "id": "BID_138_Celestial",
+    "backendType": "AthenaBackpack",
+    "name": "Galactic Disc"
+  },
+  {
+    "id": "BID_139_FuzzyBearHalloween",
+    "backendType": "AthenaBackpack",
+    "name": "Goodie Gourd"
+  },
+  {
+    "id": "BID_140_StreetOpsMale",
+    "backendType": "AthenaBackpack",
+    "name": "Response Unit"
+  },
+  {
+    "id": "BID_141_StreetOpsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Reaction Tank"
+  },
+  {
+    "id": "BID_142_SamuraiUltra",
+    "backendType": "AthenaBackpack",
+    "name": "Bladed Wings"
+  },
+  {
+    "id": "BID_143_MadCommanderMale",
+    "backendType": "AthenaBackpack",
+    "name": "Spike Chamber"
+  },
+  {
+    "id": "BID_144_MadCommanderFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Puncture Pack"
+  },
+  {
+    "id": "BID_145_AnimalJacketsMale",
+    "backendType": "AthenaBackpack",
+    "name": "Woofs"
+  },
+  {
+    "id": "BID_146_AnimalJacketsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Nibbles"
+  },
+  {
+    "id": "BID_147_LilKev",
+    "backendType": "AthenaBackpack",
+    "name": "Lil' Kev"
+  },
+  {
+    "id": "BID_142_RaptorArcticCamo",
+    "backendType": "AthenaBackpack",
+    "name": "Freezing Point"
+  },
+  {
+    "id": "BID_149_Wizard",
+    "backendType": "AthenaBackpack",
+    "name": "Spellbinder"
+  },
+  {
+    "id": "BID_150_Witch",
+    "backendType": "AthenaBackpack",
+    "name": "Tome Pouch"
+  },
+  {
+    "id": "BID_151_SushiChefFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Shrimpy"
+  },
+  {
+    "id": "BID_153_HornedMaskFemale",
+    "backendType": "AthenaBackpack",
+    "name": "White Fang"
+  },
+  {
+    "id": "BID_154_Feathers",
+    "backendType": "AthenaBackpack",
+    "name": "Hatchback"
+  },
+  {
+    "id": "BID_155_SniperHoodMale",
+    "backendType": "AthenaBackpack",
+    "name": "Scope Satchel"
+  },
+  {
+    "id": "BID_156_SniperHoodFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Sight Sling"
+  },
+  {
+    "id": "BID_157_MothMale",
+    "backendType": "AthenaBackpack",
+    "name": "Wingback"
+  },
+  {
+    "id": "BID_152_HornedMaskMale",
+    "backendType": "AthenaBackpack",
+    "name": "Trusty Tusks"
+  },
+  {
+    "id": "BID_158_ArcticSniperMale",
+    "backendType": "AthenaBackpack",
+    "name": "Altitude"
+  },
+  {
+    "id": "BID_160_TacticalSantaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Perfect Present"
+  },
+  {
+    "id": "BID_161_SnowBoardFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Trail Tote"
+  },
+  {
+    "id": "BID_163_IceKing",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Mantle"
+  },
+  {
+    "id": "BID_166_RavenWinterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Iron Cage"
+  },
+  {
+    "id": "BID_167_RedKnightWinterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Red Shield"
+  },
+  {
+    "id": "BID_169_MathMale",
+    "backendType": "AthenaBackpack",
+    "name": "Tabulator"
+  },
+  {
+    "id": "BID_171_Rhino",
+    "backendType": "AthenaBackpack",
+    "name": "V6"
+  },
+  {
+    "id": "BID_176_NautilusMale",
+    "backendType": "AthenaBackpack",
+    "name": "Rebreather"
+  },
+  {
+    "id": "BID_178_Angel",
+    "backendType": "AthenaBackpack",
+    "name": "Ark Wings"
+  },
+  {
+    "id": "BID_179_DemonMale",
+    "backendType": "AthenaBackpack",
+    "name": "Malcore Wings"
+  },
+  {
+    "id": "BID_182_NutcrackerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Birdshot"
+  },
+  {
+    "id": "BID_184_SnowFairyFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Flutterfrost"
+  },
+  {
+    "id": "BID_185_GnomeMale",
+    "backendType": "AthenaBackpack",
+    "name": "Luminous Lamp"
+  },
+  {
+    "id": "BID_196_BarbarianMale",
+    "backendType": "AthenaBackpack",
+    "name": "Emblazoned Buckler"
+  },
+  {
+    "id": "BID_198_TechOps",
+    "backendType": "AthenaBackpack",
+    "name": "Capacitor"
+  },
+  {
+    "id": "BID_200_SnowNinjaFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Snowbrand"
+  },
+  {
+    "id": "BID_202_WavyManFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Twistie Inflator"
+  },
+  {
+    "id": "BID_203_BlueMystery",
+    "backendType": "AthenaBackpack",
+    "name": "Reinforced Backplate"
+  },
+  {
+    "id": "BID_204_TennisFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Used Racket"
+  },
+  {
+    "id": "BID_206_ScrapyardFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Scrappy"
+  },
+  {
+    "id": "BID_207_DumplingMan",
+    "backendType": "AthenaBackpack",
+    "name": "Bao Basket"
+  },
+  {
+    "id": "BID_209_RobotTroubleMale",
+    "backendType": "AthenaBackpack",
+    "name": "Board Bag"
+  },
+  {
+    "id": "BID_213_IceCream",
+    "backendType": "AthenaBackpack",
+    "name": "Sno Cone"
+  },
+  {
+    "id": "BID_214_LoveLlama",
+    "backendType": "AthenaBackpack",
+    "name": "Sweetheart"
+  },
+  {
+    "id": "BID_215_MasterKey",
+    "backendType": "AthenaBackpack",
+    "name": "Master Portal"
+  },
+  {
+    "id": "BID_217_ShinyFemale",
+    "backendType": "AthenaBackpack",
+    "name": "High Caliber"
+  },
+  {
+    "id": "BID_218_Medusa",
+    "backendType": "AthenaBackpack",
+    "name": "Cobra"
+  },
+  {
+    "id": "BID_220_FarmerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Sun Sprout"
+  },
+  {
+    "id": "BID_223_OrangeCamo",
+    "backendType": "AthenaBackpack",
+    "name": "Oscilloscope"
+  },
+  {
+    "id": "BID_225_BandageNinjaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Katana & Kunai"
+  },
+  {
+    "id": "BID_224_TechOpsBlue",
+    "backendType": "AthenaBackpack",
+    "name": "Carbon Pack"
+  },
+  {
+    "id": "BID_227_SciOpsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Omission"
+  },
+  {
+    "id": "BID_228_SciOpsMale",
+    "backendType": "AthenaBackpack",
+    "name": "Commission"
+  },
+  {
+    "id": "BID_229_LuckyRiderMale",
+    "backendType": "AthenaBackpack",
+    "name": "Rainbow Clover"
+  },
+  {
+    "id": "BID_231_TropicalFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Pineapple Strummer"
+  },
+  {
+    "id": "BID_233_DevilRock",
+    "backendType": "AthenaBackpack",
+    "name": "Malice Wings"
+  },
+  {
+    "id": "BID_234_SpeedyMidnight",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Deflector"
+  },
+  {
+    "id": "BID_236_Pirate01Female",
+    "backendType": "AthenaBackpack",
+    "name": "Seaworthy"
+  },
+  {
+    "id": "BID_238_Pirate02Male",
+    "backendType": "AthenaBackpack",
+    "name": "Barrel & Booty"
+  },
+  {
+    "id": "BID_241_DarkShamanFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Cuddle Doll"
+  },
+  {
+    "id": "BID_242_FurnaceFace",
+    "backendType": "AthenaBackpack",
+    "name": "Dying Light"
+  },
+  {
+    "id": "BID_244_DarkVikingFire",
+    "backendType": "AthenaBackpack",
+    "name": "Molten Valkyrie Wings"
+  },
+  {
+    "id": "BID_245_BaseballKitbashFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Double Play"
+  },
+  {
+    "id": "BID_247_StreetAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Bladed Bag"
+  },
+  {
+    "id": "BID_248_Pilots",
+    "backendType": "AthenaBackpack",
+    "name": "Gauge"
+  },
+  {
+    "id": "BID_250_TheBomb",
+    "backendType": "AthenaBackpack",
+    "name": "Volatile"
+  },
+  {
+    "id": "BID_253_HoppityHeist",
+    "backendType": "AthenaBackpack",
+    "name": "Bunny Bag"
+  },
+  {
+    "id": "BID_251_SpaceBunny",
+    "backendType": "AthenaBackpack",
+    "name": "Cryo Hops"
+  },
+  {
+    "id": "BID_255_MoonlightAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Lunar Light"
+  },
+  {
+    "id": "BID_257_Swashbuckler",
+    "backendType": "AthenaBackpack",
+    "name": "Slice 'n dice"
+  },
+  {
+    "id": "BID_258_AshtonBoardwalk",
+    "backendType": "AthenaBackpack",
+    "name": "Widow\u2019s Pack"
+  },
+  {
+    "id": "BID_261_Rooster",
+    "backendType": "AthenaBackpack",
+    "name": "Hot Wings"
+  },
+  {
+    "id": "BID_262_BountyHunterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Go bag"
+  },
+  {
+    "id": "BID_263_Masako",
+    "backendType": "AthenaBackpack",
+    "name": "Scarlet Edge"
+  },
+  {
+    "id": "BID_266_BunkerMan",
+    "backendType": "AthenaBackpack",
+    "name": "Nana Cape"
+  },
+  {
+    "id": "BID_267_CyberScavengerMale",
+    "backendType": "AthenaBackpack",
+    "name": "CnXn"
+  },
+  {
+    "id": "BID_268_CyberScavengerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Phrenzy"
+  },
+  {
+    "id": "BID_270_StreetDemon",
+    "backendType": "AthenaBackpack",
+    "name": "Spectral Spine"
+  },
+  {
+    "id": "BID_272_AssassinSuitFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Gun Bag"
+  },
+  {
+    "id": "BID_273_AssassinSuitCoin",
+    "backendType": "AthenaBackpack",
+    "name": "Gold Token"
+  },
+  {
+    "id": "BID_276_Pug",
+    "backendType": "AthenaBackpack",
+    "name": "Chow Down"
+  },
+  {
+    "id": "BID_277_WhiteTiger",
+    "backendType": "AthenaBackpack",
+    "name": "Palette Pack"
+  },
+  {
+    "id": "BID_279_CyberRunner",
+    "backendType": "AthenaBackpack",
+    "name": "Holo-pack"
+  },
+  {
+    "id": "BID_281_DemonHunterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Ocular"
+  },
+  {
+    "id": "BID_283_StormSoldier",
+    "backendType": "AthenaBackpack",
+    "name": "Lightning Cloak"
+  },
+  {
+    "id": "BID_284_NeonLines",
+    "backendType": "AthenaBackpack",
+    "name": "Signal Jammer"
+  },
+  {
+    "id": "BID_286_WinterGhoulMaleEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Perfect Wings"
+  },
+  {
+    "id": "BID_288_CyberScavengerFemaleBlue",
+    "backendType": "AthenaBackpack",
+    "name": "Neo Phrenzy"
+  },
+  {
+    "id": "BID_289_Banner",
+    "backendType": "AthenaBackpack",
+    "name": "Banner Cape"
+  },
+  {
+    "id": "BID_290_Butterfly",
+    "backendType": "AthenaBackpack",
+    "name": "Flutter Wings"
+  },
+  {
+    "id": "BID_291_Caterpillar",
+    "backendType": "AthenaBackpack",
+    "name": "Carapace"
+  },
+  {
+    "id": "BID_294_GlowBroMale",
+    "backendType": "AthenaBackpack",
+    "name": "Lumi Core Green"
+  },
+  {
+    "id": "BID_295_Jellyfish",
+    "backendType": "AthenaBackpack",
+    "name": "Anemone"
+  },
+  {
+    "id": "BID_297_SpaceGirl",
+    "backendType": "AthenaBackpack",
+    "name": "Streamline"
+  },
+  {
+    "id": "BID_298_ZodiacFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Glow Jet"
+  },
+  {
+    "id": "BID_300_DriftSummer",
+    "backendType": "AthenaBackpack",
+    "name": "Oozie"
+  },
+  {
+    "id": "BID_302_Hairy",
+    "backendType": "AthenaBackpack",
+    "name": "Cooler"
+  },
+  {
+    "id": "BID_304_Duck",
+    "backendType": "AthenaBackpack",
+    "name": "Quack Pack"
+  },
+  {
+    "id": "BID_305_StarAndStripesFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Brave Bag"
+  },
+  {
+    "id": "BID_306_StarAndStripesMale",
+    "backendType": "AthenaBackpack",
+    "name": "Color Guard"
+  },
+  {
+    "id": "BID_303_BananaSmoothie",
+    "backendType": "AthenaBackpack",
+    "name": "Smoothie"
+  },
+  {
+    "id": "BID_301_HeistSummer",
+    "backendType": "AthenaBackpack",
+    "name": "Tiny Totem"
+  },
+  {
+    "id": "BID_299_BriteBomberSummer",
+    "backendType": "AthenaBackpack",
+    "name": "Brite Board"
+  },
+  {
+    "id": "BID_296_Sarong",
+    "backendType": "AthenaBackpack",
+    "name": "Floral Shell"
+  },
+  {
+    "id": "BID_293_GlowBroFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Lumi Core Red"
+  },
+  {
+    "id": "BID_292_CyberFuFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Chuck Pack"
+  },
+  {
+    "id": "BID_287_AztecFemaleEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Shadowbird Wings"
+  },
+  {
+    "id": "BID_285_SkullBriteEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Stark Satchel"
+  },
+  {
+    "id": "BID_282_UrbanScavenger",
+    "backendType": "AthenaBackpack",
+    "name": "Utility Pack"
+  },
+  {
+    "id": "BID_280_DemonHunterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Hexxed"
+  },
+  {
+    "id": "BID_307_Bani",
+    "backendType": "AthenaBackpack",
+    "name": "Mochi"
+  },
+  {
+    "id": "BID_308_CyberKarateFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Tahna"
+  },
+  {
+    "id": "BID_310_Lasagna",
+    "backendType": "AthenaBackpack",
+    "name": "Lazer Wings"
+  },
+  {
+    "id": "BID_311_Multibot",
+    "backendType": "AthenaBackpack",
+    "name": "Jet Set"
+  },
+  {
+    "id": "BID_313_Bubblegum",
+    "backendType": "AthenaBackpack",
+    "name": "Bubble Blast"
+  },
+  {
+    "id": "BID_314_Geode",
+    "backendType": "AthenaBackpack",
+    "name": "Geode"
+  },
+  {
+    "id": "BID_316_GraffitiRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Paint Pack"
+  },
+  {
+    "id": "BID_318_SparkleRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Star Shot"
+  },
+  {
+    "id": "BID_319_StreetRacerDriftRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Atmosphere"
+  },
+  {
+    "id": "BID_320_RustLordRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Spiked Satchel"
+  },
+  {
+    "id": "BID_321_RustLordRemixScavenger",
+    "backendType": "AthenaBackpack",
+    "name": "Trophy Sack"
+  },
+  {
+    "id": "BID_322_VoyagerRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Gameplan"
+  },
+  {
+    "id": "BID_324_BlueBadass",
+    "backendType": "AthenaBackpack",
+    "name": "Tri-Pack"
+  },
+  {
+    "id": "BID_327_Meteorite",
+    "backendType": "AthenaBackpack",
+    "name": "Rift Rock"
+  },
+  {
+    "id": "BID_325_BoneWasp",
+    "backendType": "AthenaBackpack",
+    "name": "Primal Danger"
+  },
+  {
+    "id": "BID_328_WildWest",
+    "backendType": "AthenaBackpack",
+    "name": "Detonator"
+  },
+  {
+    "id": "BID_330_AstronautEvilUpgrade",
+    "backendType": "AthenaBackpack",
+    "name": "Xenopod"
+  },
+  {
+    "id": "BID_331_DarkNinjaWhite",
+    "backendType": "AthenaBackpack",
+    "name": "Starcrest Shift"
+  },
+  {
+    "id": "BID_332_FrostMystery",
+    "backendType": "AthenaBackpack",
+    "name": "Starcrest Flux"
+  },
+  {
+    "id": "BID_335_Lopex",
+    "backendType": "AthenaBackpack",
+    "name": "Foxpack"
+  },
+  {
+    "id": "BID_336_MascotMilitiaBurger",
+    "backendType": "AthenaBackpack",
+    "name": "Takeout"
+  },
+  {
+    "id": "BID_337_MascotMilitiaTomato",
+    "backendType": "AthenaBackpack",
+    "name": "TomCom"
+  },
+  {
+    "id": "BID_339_Syko",
+    "backendType": "AthenaBackpack",
+    "name": "Exo-Spine"
+  },
+  {
+    "id": "BID_341_AngelEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Shadow Ark Wings"
+  },
+  {
+    "id": "BID_342_LemonLime",
+    "backendType": "AthenaBackpack",
+    "name": "Wedge"
+  },
+  {
+    "id": "BID_343_CubeRedKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Shield"
+  },
+  {
+    "id": "BID_345_ToxicKitty",
+    "backendType": "AthenaBackpack",
+    "name": "Toxic Kitty"
+  },
+  {
+    "id": "BID_347_DarkEagleFire",
+    "backendType": "AthenaBackpack",
+    "name": "Molten Battle Shroud"
+  },
+  {
+    "id": "BID_348_PaddedArmor",
+    "backendType": "AthenaBackpack",
+    "name": "Stronghold"
+  },
+  {
+    "id": "BID_350_TacticalBiker",
+    "backendType": "AthenaBackpack",
+    "name": "Motocase"
+  },
+  {
+    "id": "BID_351_FutureBikerWhite",
+    "backendType": "AthenaBackpack",
+    "name": "Spiked Shell"
+  },
+  {
+    "id": "BID_353_StreetGothCandy",
+    "backendType": "AthenaBackpack",
+    "name": "Starlet"
+  },
+  {
+    "id": "BID_354_StreetFashionRed",
+    "backendType": "AthenaBackpack",
+    "name": "Red Alert"
+  },
+  {
+    "id": "BID_355_Jumpstart",
+    "backendType": "AthenaBackpack",
+    "name": "Turbocoil"
+  },
+  {
+    "id": "BID_356_Punchy",
+    "backendType": "AthenaBackpack",
+    "name": "Moose"
+  },
+  {
+    "id": "BID_352_CupidFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Wings of Love"
+  },
+  {
+    "id": "BID_349_RaptorBlackOps",
+    "backendType": "AthenaBackpack",
+    "name": "Containment Pack"
+  },
+  {
+    "id": "BID_346_BlackWidowRogue",
+    "backendType": "AthenaBackpack",
+    "name": "Rogue Spider Shield"
+  },
+  {
+    "id": "BID_344_CubeWildCard",
+    "backendType": "AthenaBackpack",
+    "name": "Wild Cube"
+  },
+  {
+    "id": "BID_340_WiseMaster",
+    "backendType": "AthenaBackpack",
+    "name": "Kunai Shield"
+  },
+  {
+    "id": "BID_338_StarWalker",
+    "backendType": "AthenaBackpack",
+    "name": "Starfield"
+  },
+  {
+    "id": "BID_334_BannerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Banner Shield"
+  },
+  {
+    "id": "BID_333_Reverb",
+    "backendType": "AthenaBackpack",
+    "name": "Backbeat"
+  },
+  {
+    "id": "BID_329_WildWestFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Grande Pack"
+  },
+  {
+    "id": "BID_326_Bronto",
+    "backendType": "AthenaBackpack",
+    "name": "Bronto Bag"
+  },
+  {
+    "id": "BID_323_FunkOpsRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Golden Disco"
+  },
+  {
+    "id": "BID_317_KnightRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Dragoncrest"
+  },
+  {
+    "id": "BID_315_PizzaPit",
+    "backendType": "AthenaBackpack",
+    "name": "Cheesy"
+  },
+  {
+    "id": "BID_312_Stealth",
+    "backendType": "AthenaBackpack",
+    "name": "Prospect"
+  },
+  {
+    "id": "BID_309_CyberKarateMale",
+    "backendType": "AthenaBackpack",
+    "name": "Striped Stalker"
+  },
+  {
+    "id": "BID_278_VigilanteBoard",
+    "backendType": "AthenaBackpack",
+    "name": "Back Board"
+  },
+  {
+    "id": "BID_357_Sleepytime",
+    "backendType": "AthenaBackpack",
+    "name": "Dreamer"
+  },
+  {
+    "id": "BID_275_Geisha",
+    "backendType": "AthenaBackpack",
+    "name": "Gaze"
+  },
+  {
+    "id": "BID_358_StreetUrchin",
+    "backendType": "AthenaBackpack",
+    "name": "Pry Pack"
+  },
+  {
+    "id": "BID_360_BlackMondayKansas_VCZ9M",
+    "backendType": "AthenaBackpack",
+    "name": "The Dark Knight Movie Cloak"
+  },
+  {
+    "id": "BID_361_BlackMondayFemale_R0P2N",
+    "backendType": "AthenaBackpack",
+    "name": "Jeweled Cat"
+  },
+  {
+    "id": "BID_362_BlackMondayHouston_2I53G",
+    "backendType": "AthenaBackpack",
+    "name": "Batman Comic Book Cape"
+  },
+  {
+    "id": "BID_363_Kurohomura",
+    "backendType": "AthenaBackpack",
+    "name": "Fire Vortex"
+  },
+  {
+    "id": "BID_364_LlamaHero",
+    "backendType": "AthenaBackpack",
+    "name": "Llamacorn Shield"
+  },
+  {
+    "id": "BID_365_MascotMilitiaCuddle",
+    "backendType": "AthenaBackpack",
+    "name": "Heartless"
+  },
+  {
+    "id": "BID_359_MeteorManRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Star Surge"
+  },
+  {
+    "id": "BID_368_RockClimber",
+    "backendType": "AthenaBackpack",
+    "name": "Basecamp Bag"
+  },
+  {
+    "id": "BID_367_TacticalFishermanMale",
+    "backendType": "AthenaBackpack",
+    "name": "Tackle Box"
+  },
+  {
+    "id": "BID_369_CrazyEight",
+    "backendType": "AthenaBackpack",
+    "name": "Ball Bling"
+  },
+  {
+    "id": "BID_371_Sheath",
+    "backendType": "AthenaBackpack",
+    "name": "Blade Bag"
+  },
+  {
+    "id": "BID_372_Viper",
+    "backendType": "AthenaBackpack",
+    "name": "Fusion Orb"
+  },
+  {
+    "id": "BID_373_HauntLensFlare",
+    "backendType": "AthenaBackpack",
+    "name": "Black Hole"
+  },
+  {
+    "id": "BID_375_BulletBlueFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dry Bag"
+  },
+  {
+    "id": "BID_374_CubeRockerPunk_Female",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Six String"
+  },
+  {
+    "id": "BID_377_CODSquad_Plaid_Female",
+    "backendType": "AthenaBackpack",
+    "name": "Leather Lugger"
+  },
+  {
+    "id": "BID_378_FishermanFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Fresh Catch"
+  },
+  {
+    "id": "BID_379_RedRidingRemix",
+    "backendType": "AthenaBackpack",
+    "name": "Pack Leader"
+  },
+  {
+    "id": "BID_381_RustyRaiderMotor",
+    "backendType": "AthenaBackpack",
+    "name": "Wheelie"
+  },
+  {
+    "id": "BID_382_DarkDinoMale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Scaly"
+  },
+  {
+    "id": "BID_383_DarkDinoFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Hatchling"
+  },
+  {
+    "id": "BID_380_CuddleTeamDark",
+    "backendType": "AthenaBackpack",
+    "name": "Broken Heart"
+  },
+  {
+    "id": "BID_385_Nosh",
+    "backendType": "AthenaBackpack",
+    "name": "Nosh"
+  },
+  {
+    "id": "BID_386_FlowerSkeletonFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Mourning Glory"
+  },
+  {
+    "id": "BID_388_DevilRockMale",
+    "backendType": "AthenaBackpack",
+    "name": "Flame Sigil"
+  },
+  {
+    "id": "BID_389_GoatRobe",
+    "backendType": "AthenaBackpack",
+    "name": "Illusion Rune"
+  },
+  {
+    "id": "BID_390_SoccerZombieMale",
+    "backendType": "AthenaBackpack",
+    "name": "Zomball"
+  },
+  {
+    "id": "BID_391_SoccerZombieFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dead Card"
+  },
+  {
+    "id": "BID_392_Freak",
+    "backendType": "AthenaBackpack",
+    "name": "Council of Frogs"
+  },
+  {
+    "id": "BID_393_GhoulTrooper",
+    "backendType": "AthenaBackpack",
+    "name": "Bear Brained"
+  },
+  {
+    "id": "BID_387_PunkDevil",
+    "backendType": "AthenaBackpack",
+    "name": "Ridgeback"
+  },
+  {
+    "id": "BID_395_Phantom",
+    "backendType": "AthenaBackpack",
+    "name": "Time Keeper"
+  },
+  {
+    "id": "BID_396_RaptorGlow",
+    "backendType": "AthenaBackpack",
+    "name": "Back-o-lantern"
+  },
+  {
+    "id": "BID_397_SkeletonHunter",
+    "backendType": "AthenaBackpack",
+    "name": "Second Sight"
+  },
+  {
+    "id": "BID_398_Palespooky",
+    "backendType": "AthenaBackpack",
+    "name": "Dolly"
+  },
+  {
+    "id": "BID_399_SpookyNeon",
+    "backendType": "AthenaBackpack",
+    "name": "Indigo Wings"
+  },
+  {
+    "id": "BID_400_HalloweenAlt",
+    "backendType": "AthenaBackpack",
+    "name": "Grinning Ghoul"
+  },
+  {
+    "id": "BID_401_Razor",
+    "backendType": "AthenaBackpack",
+    "name": "Fierce Cloudpuff"
+  },
+  {
+    "id": "BID_402_TourBus",
+    "backendType": "AthenaBackpack",
+    "name": "Ninja's Edge"
+  },
+  {
+    "id": "BID_403_JetSkiFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Shortwave"
+  },
+  {
+    "id": "BID_405_ModernWitch",
+    "backendType": "AthenaBackpack",
+    "name": "Bag of Shadows"
+  },
+  {
+    "id": "BID_406_Submariner",
+    "backendType": "AthenaBackpack",
+    "name": "Torpedo Tank"
+  },
+  {
+    "id": "BID_408_WeepingWoods",
+    "backendType": "AthenaBackpack",
+    "name": "Buzzy Bag"
+  },
+  {
+    "id": "BID_409_StreetOpsPink",
+    "backendType": "AthenaBackpack",
+    "name": "Ghostly"
+  },
+  {
+    "id": "BID_410_ShirtlessWarpaint",
+    "backendType": "AthenaBackpack",
+    "name": "Armory Bag"
+  },
+  {
+    "id": "BID_404_JetSkiMale",
+    "backendType": "AthenaBackpack",
+    "name": "Wave Fuel"
+  },
+  {
+    "id": "BID_412_CavalryBandit",
+    "backendType": "AthenaBackpack",
+    "name": "Black Stripe"
+  },
+  {
+    "id": "BID_413_ForestQueen",
+    "backendType": "AthenaBackpack",
+    "name": "Autumn's Mantle"
+  },
+  {
+    "id": "BID_414_ForestDwellerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hollow Horn"
+  },
+  {
+    "id": "BID_416_BigChuggus",
+    "backendType": "AthenaBackpack",
+    "name": "Juggus"
+  },
+  {
+    "id": "BID_417_BoneSnake",
+    "backendType": "AthenaBackpack",
+    "name": "Spinal Blade"
+  },
+  {
+    "id": "BID_421_TeriyakiWarrior",
+    "backendType": "AthenaBackpack",
+    "name": "Coral Commandos"
+  },
+  {
+    "id": "BID_419_Frogman",
+    "backendType": "AthenaBackpack",
+    "name": "Manta"
+  },
+  {
+    "id": "BID_422_SnufflesLeader",
+    "backendType": "AthenaBackpack",
+    "name": "Gwinny"
+  },
+  {
+    "id": "BID_423_HolidayTime",
+    "backendType": "AthenaBackpack",
+    "name": "Sinister Stocking"
+  },
+  {
+    "id": "BID_425_Kane",
+    "backendType": "AthenaBackpack",
+    "name": "Sweet Spikes"
+  },
+  {
+    "id": "BID_426_GalileoKayak_NS67T",
+    "backendType": "AthenaBackpack",
+    "name": "Kylo's Cape"
+  },
+  {
+    "id": "BID_427_GalileoSled_ZDWOV",
+    "backendType": "AthenaBackpack",
+    "name": "Sith Trooper Blaster"
+  },
+  {
+    "id": "BID_428_GalileoFerry_28UZ3",
+    "backendType": "AthenaBackpack",
+    "name": "The Resistance"
+  },
+  {
+    "id": "BID_430_GalileoSpeedBoat_9RXE3",
+    "backendType": "AthenaBackpack",
+    "name": "The Sith"
+  },
+  {
+    "id": "BID_433_NeonAnimal",
+    "backendType": "AthenaBackpack",
+    "name": "Diamond Grid"
+  },
+  {
+    "id": "BID_431_GalileoFlatbed_JV1DD",
+    "backendType": "AthenaBackpack",
+    "name": "First Order"
+  },
+  {
+    "id": "BID_436_TacticalBear",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Fisher"
+  },
+  {
+    "id": "BID_434_NeonAnimalFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Heart Grid"
+  },
+  {
+    "id": "BID_438_SweaterWeather",
+    "backendType": "AthenaBackpack",
+    "name": "Bough Breaker"
+  },
+  {
+    "id": "BID_437_TNTina",
+    "backendType": "AthenaBackpack",
+    "name": "Kabag!"
+  },
+  {
+    "id": "BID_439_OrnamentSoldier",
+    "backendType": "AthenaBackpack",
+    "name": "Re-gifter"
+  },
+  {
+    "id": "BID_440_MsAlpine",
+    "backendType": "AthenaBackpack",
+    "name": "Modern Summit"
+  },
+  {
+    "id": "BID_441_HolidayPJ",
+    "backendType": "AthenaBackpack",
+    "name": "Yule Breakers"
+  },
+  {
+    "id": "BID_443_WingedFury",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Wings"
+  },
+  {
+    "id": "BID_445_Elf",
+    "backendType": "AthenaBackpack",
+    "name": "E.L.F. Shield"
+  },
+  {
+    "id": "BID_446_Barefoot",
+    "backendType": "AthenaBackpack",
+    "name": "Easy Reach"
+  },
+  {
+    "id": "BID_447_ToyMonkey",
+    "backendType": "AthenaBackpack",
+    "name": "Peel Pack"
+  },
+  {
+    "id": "BID_449_MrIceGuy",
+    "backendType": "AthenaBackpack",
+    "name": "Cryo Chamber"
+  },
+  {
+    "id": "BID_450_Iceflake",
+    "backendType": "AthenaBackpack",
+    "name": "Snow Crystal"
+  },
+  {
+    "id": "BID_451_HolidayDeck",
+    "backendType": "AthenaBackpack",
+    "name": "2020 Kickflip"
+  },
+  {
+    "id": "BID_454_Gummi",
+    "backendType": "AthenaBackpack",
+    "name": "Shellie"
+  },
+  {
+    "id": "BID_456_CloakedMale",
+    "backendType": "AthenaBackpack",
+    "name": "Darkest Edge"
+  },
+  {
+    "id": "BID_457_HoodieBandit",
+    "backendType": "AthenaBackpack",
+    "name": "Roundabout"
+  },
+  {
+    "id": "BID_459_CODSquad_Hoodie",
+    "backendType": "AthenaBackpack",
+    "name": "Hurricane"
+  },
+  {
+    "id": "BID_462_ModernMilitaryEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Paradigm"
+  },
+  {
+    "id": "BID_463_StreetRat",
+    "backendType": "AthenaBackpack",
+    "name": "Rat Lantern"
+  },
+  {
+    "id": "BID_465_VirtualShadow",
+    "backendType": "AthenaBackpack",
+    "name": "Bladed Breath"
+  },
+  {
+    "id": "BID_467_DragonRacer",
+    "backendType": "AthenaBackpack",
+    "name": "Dragon Guard"
+  },
+  {
+    "id": "BID_468_Cyclone",
+    "backendType": "AthenaBackpack",
+    "name": "Cactus Jack"
+  },
+  {
+    "id": "BID_470_SpyTechHacker",
+    "backendType": "AthenaBackpack",
+    "name": "Hack Pack"
+  },
+  {
+    "id": "BID_472_DesertOpsCamo",
+    "backendType": "AthenaBackpack",
+    "name": "Arroyo Pack"
+  },
+  {
+    "id": "BID_473_Photographer",
+    "backendType": "AthenaBackpack",
+    "name": "Adventure Pack"
+  },
+  {
+    "id": "BID_474_DarkHeart",
+    "backendType": "AthenaBackpack",
+    "name": "Infatuation Pack"
+  },
+  {
+    "id": "BID_476_AgentRogue",
+    "backendType": "AthenaBackpack",
+    "name": "Puma Pack"
+  },
+  {
+    "id": "BID_478_HenchmanTough",
+    "backendType": "AthenaBackpack",
+    "name": "Hench Hauler"
+  },
+  {
+    "id": "BID_479_CatBurglar",
+    "backendType": "AthenaBackpack",
+    "name": "Gold Dagger Pack"
+  },
+  {
+    "id": "BID_481_GraffitiFuture",
+    "backendType": "AthenaBackpack",
+    "name": "Skeletal Wings"
+  },
+  {
+    "id": "BID_483_Spy",
+    "backendType": "AthenaBackpack",
+    "name": "Emissary Bag"
+  },
+  {
+    "id": "BID_484_PugMilitia",
+    "backendType": "AthenaBackpack",
+    "name": "Doggie Bag"
+  },
+  {
+    "id": "BID_486_WinterHunterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Gold Chain"
+  },
+  {
+    "id": "BID_488_LuckyHero",
+    "backendType": "AthenaBackpack",
+    "name": "Lucky Clover"
+  },
+  {
+    "id": "BID_489_TwinDark",
+    "backendType": "AthenaBackpack",
+    "name": "True Reflection"
+  },
+  {
+    "id": "BID_490_AnarchyAcresFarmer",
+    "backendType": "AthenaBackpack",
+    "name": "Heavy Harvester"
+  },
+  {
+    "id": "BID_492_BlueFlames",
+    "backendType": "AthenaBackpack",
+    "name": "Slurp Jet"
+  },
+  {
+    "id": "BID_494_StreetFashionEmerald",
+    "backendType": "AthenaBackpack",
+    "name": "Lush Edge"
+  },
+  {
+    "id": "BID_496_TeriyakiFishAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Dorsal Destroyer"
+  },
+  {
+    "id": "BID_501_SpyTechFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Angled Intercept"
+  },
+  {
+    "id": "BID_499_TargetPractice",
+    "backendType": "AthenaBackpack",
+    "name": "Hit me!"
+  },
+  {
+    "id": "BID_502_Tailor",
+    "backendType": "AthenaBackpack",
+    "name": "Back Stitch"
+  },
+  {
+    "id": "BID_504_Handyman",
+    "backendType": "AthenaBackpack",
+    "name": "Bionic Relay"
+  },
+  {
+    "id": "BID_503_MinotaurLuck",
+    "backendType": "AthenaBackpack",
+    "name": "Bull Shield"
+  },
+  {
+    "id": "BID_506_DonutCup",
+    "backendType": "AthenaBackpack",
+    "name": "Cable Cloak"
+  },
+  {
+    "id": "BID_508_DonutDish",
+    "backendType": "AthenaBackpack",
+    "name": "Domino Pack"
+  },
+  {
+    "id": "BID_509_ChocoBunny",
+    "backendType": "AthenaBackpack",
+    "name": "Choco Shell"
+  },
+  {
+    "id": "BID_512_Hurricane",
+    "backendType": "AthenaBackpack",
+    "name": "Windshear Cloak"
+  },
+  {
+    "id": "BID_513_GraffitiAssassin",
+    "backendType": "AthenaBackpack",
+    "name": "Backstabber"
+  },
+  {
+    "id": "BID_517_Splinter",
+    "backendType": "AthenaBackpack",
+    "name": "Pelt Pack"
+  },
+  {
+    "id": "BID_515_Hostile",
+    "backendType": "AthenaBackpack",
+    "name": "Scarlet Satchel"
+  },
+  {
+    "id": "BID_518_HitmanCase",
+    "backendType": "AthenaBackpack",
+    "name": "Last Kiss"
+  },
+  {
+    "id": "BID_522_TechExplorer",
+    "backendType": "AthenaBackpack",
+    "name": "Silencer"
+  },
+  {
+    "id": "BID_520_CycloneUniverse",
+    "backendType": "AthenaBackpack",
+    "name": "Astroworld"
+  },
+  {
+    "id": "BID_525_RavenQuillDonut",
+    "backendType": "AthenaBackpack",
+    "name": "Ravenpool's Cage"
+  },
+  {
+    "id": "BID_528_SpaceWanderer",
+    "backendType": "AthenaBackpack",
+    "name": "Mini Moon"
+  },
+  {
+    "id": "BID_530_BlackKnightFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Eternal Shield"
+  },
+  {
+    "id": "BID_535_SandCastle",
+    "backendType": "AthenaBackpack",
+    "name": "Supreme Shell"
+  },
+  {
+    "id": "BID_537_TacticalScuba",
+    "backendType": "AthenaBackpack",
+    "name": "Deep Dive"
+  },
+  {
+    "id": "BID_539_RacerZero",
+    "backendType": "AthenaBackpack",
+    "name": "Infinite Bloom"
+  },
+  {
+    "id": "BID_540_Python",
+    "backendType": "AthenaBackpack",
+    "name": "Double Fang"
+  },
+  {
+    "id": "BID_543_FuzzyBearTeddy",
+    "backendType": "AthenaBackpack",
+    "name": "Warning Bow"
+  },
+  {
+    "id": "BID_544_BrightGunnerEclipse",
+    "backendType": "AthenaBackpack",
+    "name": "Nite Bag"
+  },
+  {
+    "id": "BID_548_MastermindGhost",
+    "backendType": "AthenaBackpack",
+    "name": "Double Agent Ooze Unit"
+  },
+  {
+    "id": "BID_547_HeistGhost",
+    "backendType": "AthenaBackpack",
+    "name": "Double Agent Hard Case"
+  },
+  {
+    "id": "BID_546_CavalryBanditGhost",
+    "backendType": "AthenaBackpack",
+    "name": "Double Agent Stripe"
+  },
+  {
+    "id": "BID_541_Gator",
+    "backendType": "AthenaBackpack",
+    "name": "Swampy Sack"
+  },
+  {
+    "id": "BID_534_OceanRider",
+    "backendType": "AthenaBackpack",
+    "name": "Beachcomber"
+  },
+  {
+    "id": "BID_536_Beacon",
+    "backendType": "AthenaBackpack",
+    "name": "Anchor"
+  },
+  {
+    "id": "BID_526_FuzzyBearDonut",
+    "backendType": "AthenaBackpack",
+    "name": "Cuddlepool's Bow"
+  },
+  {
+    "id": "BID_533_MechanicalEngineer",
+    "backendType": "AthenaPetCarrier",
+    "name": "Ohm's Perch"
+  },
+  {
+    "id": "BID_523_RapVillainess",
+    "backendType": "AthenaBackpack",
+    "name": "Loot & Shoot"
+  },
+  {
+    "id": "BID_519_Comet",
+    "backendType": "AthenaBackpack",
+    "name": "Fluffle Bag"
+  },
+  {
+    "id": "BID_516_RaveNinja",
+    "backendType": "AthenaBackpack",
+    "name": "Back Scratcher"
+  },
+  {
+    "id": "BID_514_NeonCatSpy",
+    "backendType": "AthenaBackpack",
+    "name": "Whisker Pack"
+  },
+  {
+    "id": "BID_511_BadEgg",
+    "backendType": "AthenaBackpack",
+    "name": "Blast Radius"
+  },
+  {
+    "id": "BID_507_DonutPlate",
+    "backendType": "AthenaBackpack",
+    "name": "Shurayuki"
+  },
+  {
+    "id": "BID_505_Informer",
+    "backendType": "AthenaBackpack",
+    "name": "Stellar Jaunt"
+  },
+  {
+    "id": "BID_500_SpyTech",
+    "backendType": "AthenaBackpack",
+    "name": "Light Intel"
+  },
+  {
+    "id": "BID_498_AgentX",
+    "backendType": "AthenaBackpack",
+    "name": "Backchannel"
+  },
+  {
+    "id": "BID_495_PineappleBandit",
+    "backendType": "AthenaBackpack",
+    "name": "Tropical Stash"
+  },
+  {
+    "id": "BID_493_BlueFlamesFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Blue Heart"
+  },
+  {
+    "id": "BID_487_WinterHunterFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Goldy Lock"
+  },
+  {
+    "id": "BID_485_BananaAgent",
+    "backendType": "AthenaBackpack",
+    "name": "Banana Briefcase"
+  },
+  {
+    "id": "BID_491_FlameSkull",
+    "backendType": "AthenaBackpack",
+    "name": "Back Burner"
+  },
+  {
+    "id": "BID_482_LongShorts",
+    "backendType": "AthenaBackpack",
+    "name": "Recon Strike"
+  },
+  {
+    "id": "BID_480_Donut",
+    "backendType": "AthenaBackpack",
+    "name": "Deadpool's Katanas"
+  },
+  {
+    "id": "BID_477_BuffCat",
+    "backendType": "AthenaBackpack",
+    "name": "Feline Fun"
+  },
+  {
+    "id": "BID_475_AgentAce",
+    "backendType": "AthenaBackpack",
+    "name": "Teknical Glow"
+  },
+  {
+    "id": "BID_471_CuteDuo",
+    "backendType": "AthenaBackpack",
+    "name": "Pinkie's Pink Pack"
+  },
+  {
+    "id": "BID_469_Wings",
+    "backendType": "AthenaBackpack",
+    "name": "Neon Wings"
+  },
+  {
+    "id": "BID_466_TigerFashion",
+    "backendType": "AthenaBackpack",
+    "name": "Jade Blades"
+  },
+  {
+    "id": "BID_464_MartialArtist",
+    "backendType": "AthenaBackpack",
+    "name": "Blue Wave"
+  },
+  {
+    "id": "BID_460_SharkAttack",
+    "backendType": "AthenaBackpack",
+    "name": "Shark's Tank"
+  },
+  {
+    "id": "BID_458_TheGoldenSkeleton",
+    "backendType": "AthenaBackpack",
+    "name": "Radiant Mantle"
+  },
+  {
+    "id": "BID_455_NeonGraffitiFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Purple Jam"
+  },
+  {
+    "id": "BID_453_FrogmanFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Contender"
+  },
+  {
+    "id": "BID_448_TechOpsBlueFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Reliant Blue"
+  },
+  {
+    "id": "BID_444_FestivePug",
+    "backendType": "AthenaBackpack",
+    "name": "Holiday Hydrant"
+  },
+  {
+    "id": "BID_442_Cattus",
+    "backendType": "AthenaBackpack",
+    "name": "Castle Peaks"
+  },
+  {
+    "id": "BID_435_Constellation",
+    "backendType": "AthenaBackpack",
+    "name": "Shining Star"
+  },
+  {
+    "id": "BID_429_GalileoRocket_ZD0AF",
+    "backendType": "AthenaBackpack",
+    "name": "The Jedi Order"
+  },
+  {
+    "id": "BID_424_SnowGlobe",
+    "backendType": "AthenaBackpack",
+    "name": "Ornament"
+  },
+  {
+    "id": "BID_418_BulletBlueMale",
+    "backendType": "AthenaBackpack",
+    "name": "Wavepiercer"
+  },
+  {
+    "id": "BID_415_TechLlama",
+    "backendType": "AthenaBackpack",
+    "name": "Loons"
+  },
+  {
+    "id": "BID_411_BaneFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ready Ruck"
+  },
+  {
+    "id": "BID_394_Mastermind",
+    "backendType": "AthenaBackpack",
+    "name": "Ooze Chamber"
+  },
+  {
+    "id": "BID_384_NoshHunter",
+    "backendType": "AthenaBackpack",
+    "name": "Containment Unit"
+  },
+  {
+    "id": "BID_376_CODSquad_Plaid",
+    "backendType": "AthenaBackpack",
+    "name": "Saddle Bag"
+  },
+  {
+    "id": "BID_370_RebirthMedic",
+    "backendType": "AthenaBackpack",
+    "name": "Antidote"
+  },
+  {
+    "id": "BID_271_AssassinSuitMale",
+    "backendType": "AthenaBackpack",
+    "name": "Assassin Pack"
+  },
+  {
+    "id": "BID_269_RaptorFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Bomber bag"
+  },
+  {
+    "id": "BID_265_BattleSuit",
+    "backendType": "AthenaBackpack",
+    "name": "Retribution"
+  },
+  {
+    "id": "BID_264_StormTracker",
+    "backendType": "AthenaBackpack",
+    "name": "Backtracker"
+  },
+  {
+    "id": "BID_259_Ashton_SaltLake",
+    "backendType": "AthenaBackpack",
+    "name": "Star-Lord Pack"
+  },
+  {
+    "id": "BID_256_ShatterFly",
+    "backendType": "AthenaBackpack",
+    "name": "Shattered Wing"
+  },
+  {
+    "id": "BID_254_ShinyMale",
+    "backendType": "AthenaBackpack",
+    "name": "Diamond Star"
+  },
+  {
+    "id": "BID_252_EvilBunny",
+    "backendType": "AthenaBackpack",
+    "name": "Floppy"
+  },
+  {
+    "id": "BID_249_StreetOpsStealth",
+    "backendType": "AthenaBackpack",
+    "name": "Stealth Response Unit"
+  },
+  {
+    "id": "BID_246_BaseballKitbashMale",
+    "backendType": "AthenaBackpack",
+    "name": "Strike Zone"
+  },
+  {
+    "id": "BID_243_BattleHoundFire",
+    "backendType": "AthenaBackpack",
+    "name": "Molten Crested Cape"
+  },
+  {
+    "id": "BID_240_DarkShamanMale",
+    "backendType": "AthenaBackpack",
+    "name": "Battle Mask"
+  },
+  {
+    "id": "BID_235_Heist",
+    "backendType": "AthenaBackpack",
+    "name": "Crystal Llama"
+  },
+  {
+    "id": "BID_232_Leprechaun",
+    "backendType": "AthenaBackpack",
+    "name": "Lucky Coins"
+  },
+  {
+    "id": "BID_230_TropicalMale",
+    "backendType": "AthenaBackpack",
+    "name": "Banana Bag"
+  },
+  {
+    "id": "BID_226_BandageNinjaFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dual Kama"
+  },
+  {
+    "id": "BID_222_AztecFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Sun Wings"
+  },
+  {
+    "id": "BID_221_AztecMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hypnotic"
+  },
+  {
+    "id": "BID_219_FarmerMale",
+    "backendType": "AthenaBackpack",
+    "name": "Haystacks"
+  },
+  {
+    "id": "BID_216_PirateProgressive",
+    "backendType": "AthenaBackpack",
+    "name": "Mutiny"
+  },
+  {
+    "id": "BID_211_SkullBrite",
+    "backendType": "AthenaBackpack",
+    "name": "Skully Satchel"
+  },
+  {
+    "id": "BID_210_RobotTroubleFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Cannister Carrier"
+  },
+  {
+    "id": "BID_208_CupidDarkMale",
+    "backendType": "AthenaBackpack",
+    "name": "Fallen Wings"
+  },
+  {
+    "id": "BID_205_ScrapyardMale",
+    "backendType": "AthenaBackpack",
+    "name": "Trash Lid"
+  },
+  {
+    "id": "BID_201_WavyManMale",
+    "backendType": "AthenaBackpack",
+    "name": "Bendie Inflator"
+  },
+  {
+    "id": "BID_199_IceQueen",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Spikes"
+  },
+  {
+    "id": "BID_197_BarbarianFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Runic Shield"
+  },
+  {
+    "id": "BID_195_FunkOpsFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Disco Ball"
+  },
+  {
+    "id": "BID_193_TeriyakiFishMale",
+    "backendType": "AthenaBackpack",
+    "name": "Saltwater Satchel"
+  },
+  {
+    "id": "BID_194_Krampus",
+    "backendType": "AthenaBackpack",
+    "name": "Brat Bag"
+  },
+  {
+    "id": "BID_192_WinterHolidayFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Combat Wreath"
+  },
+  {
+    "id": "BID_191_WinterGhoulMale",
+    "backendType": "AthenaBackpack",
+    "name": "Shadow Wings"
+  },
+  {
+    "id": "BID_190_StreetGothFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Stitches"
+  },
+  {
+    "id": "BID_189_StreetGothMale",
+    "backendType": "AthenaBackpack",
+    "name": "Eternal"
+  },
+  {
+    "id": "BID_188_FortniteDJFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Glow Show"
+  },
+  {
+    "id": "BID_187_GingerbreadFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Giddy Gunner"
+  },
+  {
+    "id": "BID_186_GingerbreadMale",
+    "backendType": "AthenaBackpack",
+    "name": "Mini Marauder"
+  },
+  {
+    "id": "BID_183_NutcrackerFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Snackshot"
+  },
+  {
+    "id": "BID_181_SnowNinjaMale",
+    "backendType": "AthenaBackpack",
+    "name": "Snow Star"
+  },
+  {
+    "id": "BID_180_IceMaiden",
+    "backendType": "AthenaBackpack",
+    "name": "Glimmering Cloak"
+  },
+  {
+    "id": "BID_177_NautilusFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Octotank"
+  },
+  {
+    "id": "BID_175_Prisoner",
+    "backendType": "AthenaBackpack",
+    "name": "Padlock"
+  },
+  {
+    "id": "BID_170_MathFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Techie"
+  },
+  {
+    "id": "BID_168_CupidWinterMale",
+    "backendType": "AthenaBackpack",
+    "name": "Frozen Love Wings"
+  },
+  {
+    "id": "BID_165_BlueBadassFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Signal Hub"
+  },
+  {
+    "id": "BID_164_SnowmanMale",
+    "backendType": "AthenaBackpack",
+    "name": "Slushy Jr."
+  },
+  {
+    "id": "BID_162_YetiMale",
+    "backendType": "AthenaBackpack",
+    "name": "Ice Cube"
+  },
+  {
+    "id": "BID_148_RobotRed",
+    "backendType": "AthenaBackpack",
+    "name": "E.L.I.M."
+  },
+  {
+    "id": "BID_135_MuertosFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Calavera"
+  },
+  {
+    "id": "BID_129_PumpkinSlice",
+    "backendType": "AthenaBackpack",
+    "name": "Mouldering Cloak"
+  },
+  {
+    "id": "BID_118_OctoberfestFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Pretzel Protector"
+  },
+  {
+    "id": "BID_116_DieselpunkFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Airflow"
+  },
+  {
+    "id": "BID_108_HacivatMale",
+    "backendType": "AthenaBackpack",
+    "name": "Crafted Carrier"
+  },
+  {
+    "id": "BID_099_BlueSamuraiFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Shiro"
+  },
+  {
+    "id": "BID_095_RavenQuillFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Wings"
+  },
+  {
+    "id": "BID_086_ExerciseFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Back Plate"
+  },
+  {
+    "id": "BID_080_StreetRacerCobraMale",
+    "backendType": "AthenaBackpack",
+    "name": "Bat Attitude"
+  },
+  {
+    "id": "BID_079_Penguin",
+    "backendType": "AthenaBackpack",
+    "name": "Penguin"
+  },
+  {
+    "id": "BID_078_StreetRacerCobraFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Ballistic"
+  },
+  {
+    "id": "BID_075_TacticalBadass",
+    "backendType": "AthenaBackpack",
+    "name": "Uplink"
+  },
+  {
+    "id": "BID_068_GumshoeDark",
+    "backendType": "AthenaBackpack",
+    "name": "Cluefinder"
+  },
+  {
+    "id": "BID_066_SpeedyRed",
+    "backendType": "AthenaBackpack",
+    "name": "Deflector"
+  },
+  {
+    "id": "BID_065_CarbideBlack",
+    "backendType": "AthenaBackpack",
+    "name": "Destabilizer"
+  },
+  {
+    "id": "BID_063_CuChulainn",
+    "backendType": "AthenaBackpack",
+    "name": "Crested Cape"
+  },
+  {
+    "id": "BID_061_CarbideOrange",
+    "backendType": "AthenaBackpack",
+    "name": "Stabilizer"
+  },
+  {
+    "id": "BID_059_WWIIPilot",
+    "backendType": "AthenaBackpack",
+    "name": "Last Gasp"
+  },
+  {
+    "id": "BID_056_FighterPilot",
+    "backendType": "AthenaBackpack",
+    "name": "Bogey Bag"
+  },
+  {
+    "id": "BID_058_DarkEagle",
+    "backendType": "AthenaBackpack",
+    "name": "Battle Shroud"
+  },
+  {
+    "id": "BID_055_PSBurnout",
+    "backendType": "AthenaBackpack",
+    "name": "Blue Shift"
+  },
+  {
+    "id": "BID_053_JailbirdMale",
+    "backendType": "AthenaBackpack",
+    "name": "Strongbox"
+  },
+  {
+    "id": "BID_050_Hazmat",
+    "backendType": "AthenaBackpack",
+    "name": "Pathogen"
+  },
+  {
+    "id": "BID_049_TacticalWoodland",
+    "backendType": "AthenaBackpack",
+    "name": "True North"
+  },
+  {
+    "id": "BID_047_Candy",
+    "backendType": "AthenaBackpack",
+    "name": "Goodie Bag"
+  },
+  {
+    "id": "BID_045_TacticalJungle",
+    "backendType": "AthenaBackpack",
+    "name": "Standard Issue"
+  },
+  {
+    "id": "BID_043_Pizza",
+    "backendType": "AthenaBackpack",
+    "name": "Special Delivery"
+  },
+  {
+    "id": "BID_041_PajamaParty",
+    "backendType": "AthenaBackpack",
+    "name": "Hatchling"
+  },
+  {
+    "id": "BID_039_SpaceBlackFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Dark Void"
+  },
+  {
+    "id": "BID_037_BunnyMale",
+    "backendType": "AthenaBackpack",
+    "name": "Hard Boiled"
+  },
+  {
+    "id": "BID_035_Scathach",
+    "backendType": "AthenaBackpack",
+    "name": "Buckler"
+  },
+  {
+    "id": "BID_033_FounderFemale",
+    "backendType": "AthenaBackpack",
+    "name": "Skirmish"
+  },
+  {
+    "id": "BID_031_Dinosaur",
+    "backendType": "AthenaBackpack",
+    "name": "Scaly"
+  },
+  {
+    "id": "BID_030_TacticalRogue",
+    "backendType": "AthenaBackpack",
+    "name": "Catalyst"
+  },
+  {
+    "id": "BID_027_Scavenger",
+    "backendType": "AthenaBackpack",
+    "name": "Rust Bucket"
+  },
+  {
+    "id": "BID_024_Space",
+    "backendType": "AthenaBackpack",
+    "name": "Astro"
+  },
+  {
+    "id": "BID_022_Cupid",
+    "backendType": "AthenaBackpack",
+    "name": "Love Wings"
+  },
+  {
+    "id": "BID_021_SkiGirl_KOR",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (KOR)"
+  },
+  {
+    "id": "BID_019_SkiGirl_GER",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (GER)"
+  },
+  {
+    "id": "BID_018_SkiGirl_FRA",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (FRA)"
+  },
+  {
+    "id": "BID_016_SkiGirl_CAN",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag (CAN)"
+  },
+  {
+    "id": "BID_014_SkiGirl",
+    "backendType": "AthenaBackpack",
+    "name": "Mogul Ski Bag"
+  },
+  {
+    "id": "BID_012_SkiDude_CHN",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (CHN)"
+  },
+  {
+    "id": "BID_010_SkiDude_FRA",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (FRA)"
+  },
+  {
+    "id": "BID_008_SkiDude_CAN",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories (CAN)"
+  },
+  {
+    "id": "BID_004_BlackKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Black Shield"
+  },
+  {
+    "id": "BID_006_SkiDude",
+    "backendType": "AthenaBackpack",
+    "name": "Alpine Accessories"
+  },
+  {
+    "id": "BID_003_RedKnight",
+    "backendType": "AthenaBackpack",
+    "name": "Red Shield"
+  },
+  {
+    "id": "Glider_Random",
+    "backendType": "AthenaGlider",
+    "name": "Random"
+  },
+  {
+    "id": "DefaultGlider",
+    "backendType": "AthenaGlider",
+    "name": "Glider"
+  },
+  {
+    "id": "Duo_Umbrella",
+    "backendType": "AthenaGlider",
+    "name": "Duo Umbrella"
+  },
+  {
+    "id": "DynamicsTestGlider",
+    "backendType": "AthenaGlider",
+    "name": "Glider"
+  },
+  {
+    "id": "FounderUmbrella",
+    "backendType": "AthenaGlider",
+    "name": "Founder's Umbrella"
+  },
+  {
+    "id": "Glider_Bold",
+    "backendType": "AthenaGlider",
+    "name": "Modern"
+  },
+  {
+    "id": "Glider_ID_001",
+    "backendType": "AthenaGlider",
+    "name": "Aerial Assault One"
+  },
+  {
+    "id": "Glider_ID_003_District",
+    "backendType": "AthenaGlider",
+    "name": "Royale X"
+  },
+  {
+    "id": "Glider_ID_004_Disco",
+    "backendType": "AthenaGlider",
+    "name": "Get Down!"
+  },
+  {
+    "id": "Glider_ID_006_WinterCamo",
+    "backendType": "AthenaGlider",
+    "name": "Snow Squall"
+  },
+  {
+    "id": "Glider_ID_007_TurtleShell",
+    "backendType": "AthenaGlider",
+    "name": "Half Shell"
+  },
+  {
+    "id": "Glider_ID_009_CandyCoat",
+    "backendType": "AthenaGlider",
+    "name": "Gum Drop"
+  },
+  {
+    "id": "Glider_ID_010_Storm",
+    "backendType": "AthenaGlider",
+    "name": "Cloud Strike"
+  },
+  {
+    "id": "Glider_ID_012_TeddyBear",
+    "backendType": "AthenaGlider",
+    "name": "Bear Force One"
+  },
+  {
+    "id": "Glider_ID_014_Dragon",
+    "backendType": "AthenaGlider",
+    "name": "Royale Dragon"
+  },
+  {
+    "id": "Glider_ID_016_Tactical",
+    "backendType": "AthenaGlider",
+    "name": "Carbon"
+  },
+  {
+    "id": "Glider_ID_017_Assassin",
+    "backendType": "AthenaGlider",
+    "name": "High Octane"
+  },
+  {
+    "id": "Glider_ID_019_Taxi",
+    "backendType": "AthenaGlider",
+    "name": "Checker"
+  },
+  {
+    "id": "Glider_ID_022_RockerPunk",
+    "backendType": "AthenaGlider",
+    "name": "Stage Dive"
+  },
+  {
+    "id": "Glider_ID_023_CuChulainn",
+    "backendType": "AthenaGlider",
+    "name": "Storm Sigil"
+  },
+  {
+    "id": "Glider_ID_025_ShuttleA",
+    "backendType": "AthenaGlider",
+    "name": "Orbital Shuttle"
+  },
+  {
+    "id": "Glider_ID_027_Satelite",
+    "backendType": "AthenaGlider",
+    "name": "Planetary Probe"
+  },
+  {
+    "id": "Glider_ID_028_Googly",
+    "backendType": "AthenaGlider",
+    "name": "Googly"
+  },
+  {
+    "id": "Glider_ID_029_PajamaParty",
+    "backendType": "AthenaGlider",
+    "name": "Fossil Flyer"
+  },
+  {
+    "id": "Glider_ID_031_Metal",
+    "backendType": "AthenaGlider",
+    "name": "Solid Strider"
+  },
+  {
+    "id": "Glider_ID_032_TacticalWoodland",
+    "backendType": "AthenaGlider",
+    "name": "Field Flyer"
+  },
+  {
+    "id": "Glider_ID_033_Valor",
+    "backendType": "AthenaGlider",
+    "name": "Wings of Valor"
+  },
+  {
+    "id": "Glider_ID_035_Candy",
+    "backendType": "AthenaGlider",
+    "name": "Sugar Crash"
+  },
+  {
+    "id": "Glider_ID_036_AuroraGlow",
+    "backendType": "AthenaGlider",
+    "name": "Glow Rider"
+  },
+  {
+    "id": "Glider_ID_038_Deco",
+    "backendType": "AthenaGlider",
+    "name": "Triumph"
+  },
+  {
+    "id": "Glider_ID_039_Venus",
+    "backendType": "AthenaGlider",
+    "name": "Venus Flyer"
+  },
+  {
+    "id": "Glider_ID_042_Soccer",
+    "backendType": "AthenaGlider",
+    "name": "Goalbound"
+  },
+  {
+    "id": "Glider_ID_044_Pterodactyl",
+    "backendType": "AthenaGlider",
+    "name": "Pterodactyl"
+  },
+  {
+    "id": "Glider_ID_045_CarbideBlack",
+    "backendType": "AthenaGlider",
+    "name": "Terminus"
+  },
+  {
+    "id": "Glider_ID_047_SpeedyRed",
+    "backendType": "AthenaGlider",
+    "name": "Forerunner"
+  },
+  {
+    "id": "Glider_ID_049_Lifeguard",
+    "backendType": "AthenaGlider",
+    "name": "Splashdown"
+  },
+  {
+    "id": "Glider_ID_050_StreetRacerCobra",
+    "backendType": "AthenaGlider",
+    "name": "Cruiser"
+  },
+  {
+    "id": "Glider_ID_052_Bedazzled",
+    "backendType": "AthenaGlider",
+    "name": "Rhinestone Rider"
+  },
+  {
+    "id": "Glider_ID_054_Douyu",
+    "backendType": "AthenaGlider",
+    "name": "Helium"
+  },
+  {
+    "id": "Glider_ID_055_StreetRacerBlack",
+    "backendType": "AthenaGlider",
+    "name": "Downshift"
+  },
+  {
+    "id": "Glider_ID_057_ModernMilitary",
+    "backendType": "AthenaGlider",
+    "name": "Servo"
+  },
+  {
+    "id": "Glider_ID_059_DurrburgerHero",
+    "backendType": "AthenaGlider",
+    "name": "Flying Saucer"
+  },
+  {
+    "id": "Glider_ID_061_StreetRacerBiker",
+    "backendType": "AthenaGlider",
+    "name": "Cyclone"
+  },
+  {
+    "id": "Glider_ID_063_SushiChef",
+    "backendType": "AthenaGlider",
+    "name": "Flying Fish"
+  },
+  {
+    "id": "Glider_ID_065_Hippie",
+    "backendType": "AthenaGlider",
+    "name": "Tie-dye Flyer"
+  },
+  {
+    "id": "Glider_ID_066_SamuraiBlue",
+    "backendType": "AthenaGlider",
+    "name": "Purrfect"
+  },
+  {
+    "id": "Glider_ID_068_GarageBand",
+    "backendType": "AthenaGlider",
+    "name": "Hot Ride"
+  },
+  {
+    "id": "Glider_ID_070_DarkViking",
+    "backendType": "AthenaGlider",
+    "name": "Frostwing"
+  },
+  {
+    "id": "Glider_ID_072_Bling",
+    "backendType": "AthenaGlider",
+    "name": "Safecracker"
+  },
+  {
+    "id": "Glider_ID_073_Medic",
+    "backendType": "AthenaGlider",
+    "name": "Airlift"
+  },
+  {
+    "id": "Glider_ID_075_ModernMilitaryRed",
+    "backendType": "AthenaGlider",
+    "name": "Rotor"
+  },
+  {
+    "id": "Glider_ID_077_Octoberfest",
+    "backendType": "AthenaGlider",
+    "name": "Oktoberfeast"
+  },
+  {
+    "id": "Glider_ID_079_RedRiding",
+    "backendType": "AthenaGlider",
+    "name": "Picnic"
+  },
+  {
+    "id": "Glider_ID_081_CowboyGunslinger",
+    "backendType": "AthenaGlider",
+    "name": "Crossfire"
+  },
+  {
+    "id": "Glider_ID_083_DarkBomber",
+    "backendType": "AthenaGlider",
+    "name": "Dark Glyph"
+  },
+  {
+    "id": "Glider_ID_082_Scarecrow",
+    "backendType": "AthenaGlider",
+    "name": "Field Wraith"
+  },
+  {
+    "id": "Glider_ID_085_SkullTrooper",
+    "backendType": "AthenaGlider",
+    "name": "Crypt Cruiser"
+  },
+  {
+    "id": "Glider_ID_087_GuanYu",
+    "backendType": "AthenaGlider",
+    "name": "Divine Dragon"
+  },
+  {
+    "id": "Glider_ID_089_Muertos",
+    "backendType": "AthenaGlider",
+    "name": "Spirit"
+  },
+  {
+    "id": "Glider_ID_091_MadCommander",
+    "backendType": "AthenaGlider",
+    "name": "Junkjet"
+  },
+  {
+    "id": "Glider_ID_092_StreetOps",
+    "backendType": "AthenaGlider",
+    "name": "Pivot"
+  },
+  {
+    "id": "Glider_ID_094_SamuraiUltra",
+    "backendType": "AthenaGlider",
+    "name": "Kabuto"
+  },
+  {
+    "id": "Glider_ID_096_HornedMask",
+    "backendType": "AthenaGlider",
+    "name": "Flying Carp"
+  },
+  {
+    "id": "Glider_ID_095_Witch",
+    "backendType": "AthenaGlider",
+    "name": "Magic Wings"
+  },
+  {
+    "id": "Glider_ID_098_Sup",
+    "backendType": "AthenaGlider",
+    "name": "Hyper"
+  },
+  {
+    "id": "Glider_ID_099_Moth",
+    "backendType": "AthenaGlider",
+    "name": "Flutterbug"
+  },
+  {
+    "id": "Glider_ID_100_Yeti",
+    "backendType": "AthenaGlider",
+    "name": "Rickety Runner"
+  },
+  {
+    "id": "Glider_ID_101_TacticalSanta",
+    "backendType": "AthenaGlider",
+    "name": "Tactical Sleigh"
+  },
+  {
+    "id": "Glider_ID_097_Feathers",
+    "backendType": "AthenaGlider",
+    "name": "Flappy Flyer"
+  },
+  {
+    "id": "Glider_ID_102_Rhino",
+    "backendType": "AthenaGlider",
+    "name": "Fuel"
+  },
+  {
+    "id": "Glider_ID_103_Nautilus",
+    "backendType": "AthenaGlider",
+    "name": "Nautilus"
+  },
+  {
+    "id": "Glider_ID_104_Durrburger",
+    "backendType": "AthenaGlider",
+    "name": "Glidurrr"
+  },
+  {
+    "id": "Glider_ID_105_Gingerbread",
+    "backendType": "AthenaGlider",
+    "name": "Gingersled"
+  },
+  {
+    "id": "Glider_ID_105_SnowBoard",
+    "backendType": "AthenaGlider",
+    "name": "Royale Air"
+  },
+  {
+    "id": "Glider_ID_104_FuzzyBear",
+    "backendType": "AthenaGlider",
+    "name": "Cuddle Cruiser"
+  },
+  {
+    "id": "Glider_ID_106_FortniteDJ",
+    "backendType": "AthenaGlider",
+    "name": "Equalizer"
+  },
+  {
+    "id": "Glider_ID_107_IceMaiden",
+    "backendType": "AthenaGlider",
+    "name": "Crystal Carriage"
+  },
+  {
+    "id": "Glider_ID_108_Krampus",
+    "backendType": "AthenaGlider",
+    "name": "Krampus' Little Helper"
+  },
+  {
+    "id": "Glider_ID_110_TeriyakiFish",
+    "backendType": "AthenaGlider",
+    "name": "Coral Cruiser"
+  },
+  {
+    "id": "Glider_ID_112_TechOps",
+    "backendType": "AthenaGlider",
+    "name": "Coaxial Copter"
+  },
+  {
+    "id": "Glider_ID_113_Barbarian",
+    "backendType": "AthenaGlider",
+    "name": "Tusk"
+  },
+  {
+    "id": "Glider_ID_115_SnowNinja",
+    "backendType": "AthenaGlider",
+    "name": "Snowblades"
+  },
+  {
+    "id": "Glider_ID_114_IceQueen",
+    "backendType": "AthenaGlider",
+    "name": "Winter's Thorn"
+  },
+  {
+    "id": "Glider_ID_117_Warpaint",
+    "backendType": "AthenaGlider",
+    "name": "Wild Streak"
+  },
+  {
+    "id": "Glider_ID_118_Squishy",
+    "backendType": "AthenaGlider",
+    "name": "Mello Rider"
+  },
+  {
+    "id": "Glider_ID_119_ReaperFrozen",
+    "backendType": "AthenaGlider",
+    "name": "Frozen Feathers"
+  },
+  {
+    "id": "Glider_ID_120_IceCream",
+    "backendType": "AthenaGlider",
+    "name": "Ice Cream Cruiser"
+  },
+  {
+    "id": "Glider_ID_121_BriteBomberDeluxe",
+    "backendType": "AthenaGlider",
+    "name": "Brite Blimp"
+  },
+  {
+    "id": "Glider_ID_123_MasterKey",
+    "backendType": "AthenaGlider",
+    "name": "Lockstep"
+  },
+  {
+    "id": "Glider_ID_124_Medusa",
+    "backendType": "AthenaGlider",
+    "name": "Sky Serpents"
+  },
+  {
+    "id": "Glider_ID_125_Bandolier",
+    "backendType": "AthenaGlider",
+    "name": "Choppa"
+  },
+  {
+    "id": "Glider_ID_122_Valentines",
+    "backendType": "AthenaGlider",
+    "name": "Heartspan"
+  },
+  {
+    "id": "Glider_ID_126_Farmer",
+    "backendType": "AthenaGlider",
+    "name": "Crop Duster"
+  },
+  {
+    "id": "Glider_ID_128_BootyBuoy",
+    "backendType": "AthenaGlider",
+    "name": "Booty Buoy"
+  },
+  {
+    "id": "Glider_ID_127_Aztec",
+    "backendType": "AthenaGlider",
+    "name": "Sunrise"
+  },
+  {
+    "id": "Glider_ID_129_FireElf",
+    "backendType": "AthenaGlider",
+    "name": "Cinder"
+  },
+  {
+    "id": "Glider_ID_130_SciOps",
+    "backendType": "AthenaGlider",
+    "name": "Disruptor"
+  },
+  {
+    "id": "Glider_ID_131_SpeedyMidnight",
+    "backendType": "AthenaGlider",
+    "name": "Dark Forerunner"
+  },
+  {
+    "id": "Glider_ID_132_Pirate01Octopus",
+    "backendType": "AthenaGlider",
+    "name": "Plunder"
+  },
+  {
+    "id": "Glider_ID_133_BandageNinja",
+    "backendType": "AthenaGlider",
+    "name": "Falcon"
+  },
+  {
+    "id": "Glider_ID_135_Baseball",
+    "backendType": "AthenaGlider",
+    "name": "Home Run"
+  },
+  {
+    "id": "Glider_ID_136_Bullseye",
+    "backendType": "AthenaGlider",
+    "name": "Targeted"
+  },
+  {
+    "id": "Glider_ID_137_StreetOpsStealth",
+    "backendType": "AthenaGlider",
+    "name": "Stealth Pivot"
+  },
+  {
+    "id": "Glider_ID_138_BomberPlane",
+    "backendType": "AthenaGlider",
+    "name": "Surefire"
+  },
+  {
+    "id": "Glider_ID_139_EarthDay",
+    "backendType": "AthenaGlider",
+    "name": "Globetrotter"
+  },
+  {
+    "id": "Glider_ID_140_ShatterFly",
+    "backendType": "AthenaGlider",
+    "name": "Arcana"
+  },
+  {
+    "id": "Glider_ID_141_AshtonBoardwalk",
+    "backendType": "AthenaGlider",
+    "name": "Avengers Quinjet"
+  },
+  {
+    "id": "Glider_ID_142_AshtonSaltLake",
+    "backendType": "AthenaGlider",
+    "name": "The Milano"
+  },
+  {
+    "id": "Trails_ID_023_Fireflies",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Fireflies"
+  },
+  {
+    "id": "Trails_ID_024_DieselSmoke",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Exhaust"
+  },
+  {
+    "id": "Trails_ID_026_Bats",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Bats!"
+  },
+  {
+    "id": "Trails_ID_027_Sands",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Chrono"
+  },
+  {
+    "id": "Trails_ID_032_StringLights",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "String Lights"
+  },
+  {
+    "id": "Trails_ID_034_SwirlySmoke",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Swirls"
+  },
+  {
+    "id": "Trails_ID_037_Glyphs",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Glyphs"
+  },
+  {
+    "id": "Trails_ID_043_DiscoBalls",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Disco Dive"
+  },
+  {
+    "id": "Trails_ID_046_Clover",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Clovers"
+  },
+  {
+    "id": "Trails_ID_051_NeonTubes",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Neo Tubes"
+  },
+  {
+    "id": "Trails_ID_055_Bananas",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Bananas!"
+  },
+  {
+    "id": "Trails_ID_056_StormTracker",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Lightning strike"
+  },
+  {
+    "id": "Trails_ID_059_Sony2",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Blue Fusion"
+  },
+  {
+    "id": "Trails_ID_066_TacticalHUD",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Overlay"
+  },
+  {
+    "id": "Trails_ID_068_Popcorn",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Popcorn"
+  },
+  {
+    "id": "Trails_ID_076_ReactiveLight",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Spectrum"
+  },
+  {
+    "id": "Trails_ID_078_SlurpMonster",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Slurpstream"
+  },
+  {
+    "id": "Trails_ID_080_DNAHelix",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "DNA"
+  },
+  {
+    "id": "Trails_ID_082_HolidayGarland",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Holly and Divey"
+  },
+  {
+    "id": "Trails_ID_084_Briefcase",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Getaway Case"
+  },
+  {
+    "id": "Trails_ID_085_Candy",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Bon Bon"
+  },
+  {
+    "id": "Trails_ID_087_TNTina",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Boom Drop"
+  },
+  {
+    "id": "Trails_ID_090_Constellation",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Stardrop"
+  },
+  {
+    "id": "Trails_ID_092_SchoolOfFish",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Sky Swimmers"
+  },
+  {
+    "id": "Trails_ID_093_SpaceWanderer",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Photon"
+  },
+  {
+    "id": "Trails_ID_094_WaterSpray",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Waterfall"
+  },
+  {
+    "id": "Trails_ID_31_GreenFlame",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Virulent Flames"
+  },
+  {
+    "id": "Trails_ID_091_Longshorts",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Down Arrow"
+  },
+  {
+    "id": "Trails_ID_089_BlackKnight",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Knight Flight"
+  },
+  {
+    "id": "Trails_ID_088_Informer",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Synth Streak"
+  },
+  {
+    "id": "Trails_ID_086_SnowStorm",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Flaky"
+  },
+  {
+    "id": "Trails_ID_083_AlphabetSoup",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Alphabet Soup"
+  },
+  {
+    "id": "Trails_ID_081_MissingLink",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Loose Links"
+  },
+  {
+    "id": "Trails_ID_079_ZeroPoint",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Zero Point"
+  },
+  {
+    "id": "Trails_ID_077_Billiards",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Billiards"
+  },
+  {
+    "id": "Trails_ID_075_Celestial",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Celestial"
+  },
+  {
+    "id": "Trails_ID_074_DriftLightning",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Rift Lightning"
+  },
+  {
+    "id": "Trails_ID_065_DJRemix",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Beat Drop"
+  },
+  {
+    "id": "Trails_ID_063_BeachBalls",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Beachballs"
+  },
+  {
+    "id": "Trails_ID_057_BattleSuit",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Plasma Trail"
+  },
+  {
+    "id": "Trails_ID_054_KpopGlow",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Vibrant"
+  },
+  {
+    "id": "Trails_ID_048_Spectral",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Phantasm"
+  },
+  {
+    "id": "Trails_ID_047_AmmoBelt",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Ballistics"
+  },
+  {
+    "id": "Trails_ID_045_Undertow",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Flying Standard"
+  },
+  {
+    "id": "Trails_ID_044_Lava",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Lava"
+  },
+  {
+    "id": "Trails_ID_036_FiberOptics",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Fiber Optics"
+  },
+  {
+    "id": "Trails_ID_033_Snowflakes",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Snowflakes"
+  },
+  {
+    "id": "Trails_ID_025_JackOLantern",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Jack-O-Lantern"
+  },
+  {
+    "id": "Trails_ID_021_Bling",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Cash Flow"
+  },
+  {
+    "id": "Trails_ID_013_ShootingStar",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Shooting Star"
+  },
+  {
+    "id": "Trails_ID_011_Glitch",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Glitch in the System"
+  },
+  {
+    "id": "Trails_ID_008_Lightning",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Lightning"
+  },
+  {
+    "id": "Trails_ID_010_RetroScifi",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Retro Sci-fi"
+  },
+  {
+    "id": "Trails_ID_003_Fire",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Flames"
+  },
+  {
+    "id": "Trails_ID_004_BlueStreak",
+    "backendType": "AthenaSkyDiveContrail",
+    "name": "Ultramarine"
+  }
+ ]
