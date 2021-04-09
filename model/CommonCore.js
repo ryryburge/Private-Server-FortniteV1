@@ -12,7 +12,7 @@ const schema = new mongoose.Schema({
     },
     vbucks: {
         type: Number,
-        default: 2147483647
+        default: 10000000
     },
     mtxplatform: {
         type: String,
