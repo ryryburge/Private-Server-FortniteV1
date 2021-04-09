@@ -12,7 +12,7 @@ const schema = new mongoose.Schema({
     },
     level: {
         type: Number,
-        default: 999
+        default: 223
     },
     stage: {
         type: String,
